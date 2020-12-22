@@ -1,5 +1,10 @@
 dysphagia:
 
+latest version of hedge:
+saved as "dysphasia hedge" in Ovid MEDLINE
+Deglutition/ or exp Deglutition Disorders/ or ((swallow$ or deglutit$ or dysphag$) adj5 (disturbance$ or disorder$ or difficult$ or dysfunction$ or impair$ or condition$ or abnormal$ or damage$ or injur$)).tw. or ((pharyn$ or oropharyn$) adj3 (disturbance$ or disorder$ or difficult$ or dysfunction$ or impair$ or condition$ or abnormal$ or damage$ or injur$)).tw. or gastrostomy/ or gastrostomy or enteral nutrition/ or (enteral nutrition or enteral feeding or force feeding$ or tube feeding or gastric feeding tube$).tw.
+#retrieves all 8 articles in validation set
+
 exp Deglutition Disorders/
 Entry Terms:
 Deglutition Disorder
@@ -23,6 +28,16 @@ Pharynx/ or pharyngeal muscles/
 ((pharyn$ or oropharyn$) adj3 (disturbance$ or disorder$ or difficult$ or dysfunction$ or impair$ or condition$ or abnormal$ or damage$ or injur$)).tw.
 or/6‐10
 #https://www-cochranelibrary-com.ezproxy.med.cornell.edu/cdsr/doi/10.1002/14651858.CD000323.pub3/appendices#CD000323-sec1-0012
+
+Single-line version of the above:
+Deglutition/ or exp Deglutition Disorders/ or ((swallow$ or deglutit$ or dysphag$) adj5 (disturbance$ or disorder$ or difficult$ or dysfunction$ or impair$ or condition$ or abnormal$ or damage$ or injur$)).tw. or ((pharyn$ or oropharyn$) adj3 (disturbance$ or disorder$ or difficult$ or dysfunction$ or impair$ or condition$ or abnormal$ or damage$ or injur$)).tw.
+- removed pharynx/ or pharyngeal muscles/
+- retrieved only 4 of the validation set
+- did not retrieve the following: 31839544 or 29351343 or 26892281 or 25098538
+- gastrostomy/ retrieves 3 out of 4; the 4th (George, 25098538) requires enteral nutrition/
+- gastrostomy: Creation of an artificial external opening into the stomach for nutritional support or gastrointestinal compression.
+-Enteral Nutrition: synonymous with feeding tube. 
+
 
 12 exp Deglutition Disorders/ (44220)
 13 (Dysphagi$ or (swallow$ or deglutition$)).mp. (43420)
