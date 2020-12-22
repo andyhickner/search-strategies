@@ -1,0 +1,45 @@
+dysphagia:
+
+exp Deglutition Disorders/
+Entry Terms:
+Deglutition Disorder
+Disorders, Deglutition
+Swallowing Disorders
+Swallowing Disorder
+Dysphagia
+Oropharyngeal Dysphagia
+Dysphagia, Oropharyngeal
+Esophageal Dysphagia
+Dysphagia, Esophageal
+#https://www.ncbi.nlm.nih.gov/mesh/68003680
+
+dysphag$.tw.
+# https://www-cochranelibrary-com.ezproxy.med.cornell.edu/cdsr/doi/10.1002/14651858.CD005048.pub4/appendices#CD005048-sec-0292
+
+Deglutition/
+exp Deglutition Disorders/
+((swallow$ or deglutit$ or dysphag$) adj5 (disturbance$ or disorder$ or difficult$ or dysfunction$ or impair$ or condition$ or abnormal$ or damage$ or injur$)).tw.
+Pharynx/ or pharyngeal muscles/
+((pharyn$ or oropharyn$) adj3 (disturbance$ or disorder$ or difficult$ or dysfunction$ or impair$ or condition$ or abnormal$ or damage$ or injur$)).tw.
+or/6‐10
+#https://www-cochranelibrary-com.ezproxy.med.cornell.edu/cdsr/doi/10.1002/14651858.CD000323.pub3/appendices#CD000323-sec1-0012
+
+12 exp Deglutition Disorders/ (44220)
+13 (Dysphagi$ or (swallow$ or deglutition$)).mp. (43420)
+14 12 or 13 (68551)
+#https://www-cochranelibrary-com.ezproxy.med.cornell.edu/cdsr/doi/10.1002/14651858.CD004303.pub4/appendices#CD004303-sec1-0010
+
+1 Deglutition Disorders/ (13226)
+2 (deglut$ adj5 (abnormal$ or disorder$ or dysfunc$ or impair$)).tw. (329)
+3 (swallow$ adj5 (abnormal$ or difficult$ or disorder$ or dysfunc$ or function$ or impair$)).tw. (4567)
+4 ((oropharynx$ or trachea$ or lung$ or pulmon$) adj5 aspirat$).tw. (3958)
+5 nasal regurgit$.tw. (87)
+6 or/1‐5 (19904)
+7 oropharyn$.tw. (11679)
+8 Oropharynx/ (2938)
+9 7 or 8 (12573)
+10 (dysphag$ or disorder$ or dysfunc$ or impair$).tw. (1072281)
+11 9 and 10 (1525)
+12 (pharyng$ adj5 (dysphag$ or dysfunct$ or disorder$ or impair$)).tw. (706)
+13 6 or 11 or 12 (20982)
+#https://www-cochranelibrary-com.ezproxy.med.cornell.edu/cdsr/doi/10.1002/14651858.CD009456.pub2/appendices#CD009456-sec1-0010
