@@ -1,33 +1,35 @@
 disparities hedges:
+medically underserved area/ or poverty areas/ or vulnerable populations/ or minority groups/ or health status disparities/ or exp ethnic groups/ or culture/ or exp continental population groups/ or population groups/ or exp socioeconomic factors/ or developing countries.mp. or refugees/ or social environment/ or (disadvantag$ or marginali$ or under?served or under-served or depriv$ or poverty or impoverish$ or low pay or low paid or low-paid or low income or low-income or unemploy$ or hardship or benefit recipient$ or minorit$ or racial or ethnic$ or ((health or social or disease$ or morbidit$ or mortalit$ or racial or ethnic or social position$ or social class$ or socioeconomic or social status or illitera$ or education$ attainment$ or education$ level$ or education$ status or low education or education$ achievement$ or school leaver$ or single parent$ or lone parent$ or rural or refugee$ or immigrant$ or ethnic minorit$ or ethnic group$ or racial group$ or indigenous or gender or women or sex$) adj5 (inequalit$ or inequit$ or disparit$ or equit$ or disadvantage$ or gradient$)) or pacific islander$ or African American or Hispanic$ or latin$ or Asian American or Alaska$ native$ or American Indians).tw. 
+-- are you interested in disparities based on sexual orientation/gender identity? if so, this will add a huge number of keywords: https://www.ncbi.nlm.nih.gov/mesh/?term=lgbt
 
 #the following is MEDLINE (EBSCO)
-1. MH medically underserved area OR MH poverty areas OR MH vulnerable populations OR MH minority groups OR MH health status disparities OR MH ethnic groups+ OR MH culture OR MH continental population groups+ OR MH population groups OR MH socioeconomic factors+ OR MH developing countries OR MH refugees OR MH social environment
-2.(health OR social OR disease* OR morbidit* OR mortalit* OR racial OR ethnic) n5 (inequalit* OR inequit* OR disparit* OR equit* OR disadvantage* OR gradient*)
-3.((disadvant* OR low income or marginali* OR underserved OR under served OR depriv* OR poverty OR impoverish* OR minorit* OR racial OR ethnic*) n5 (population OR group OR communit* OR neighbo#rhood*)) OR (school* n5 community)
+1. MH medically underserved area or MH poverty areas or MH vulnerable populations or MH minority groups or MH health status disparities or MH ethnic groups+ or MH culture or MH continental population groups+ or MH population groups or MH socioeconomic factors+ or MH developing countries or MH refugees or MH social environment
+2.(health or social or disease* or morbidit* or mortalit* or racial or ethnic) n5 (inequalit* or inequit* or disparit* or equit* or disadvantage* or gradient*)
+3.((disadvant* or low income or marginali* or underserved or under served or depriv* or poverty or impoverish* or minorit* or racial or ethnic*) n5 (population or group or communit* or neighbo#rhood*)) or (school* n5 community)
 4.
-(low pay OR low paid OR unemploy* OR depriv* OR financial hardship OR benefit recipient* OR social position* OR social class* OR socioeconomic OR social status OR poverty OR impoverish*) n5 (inequalit* OR inequit* OR disparit* OR equit* OR disadvantage*)
+(low pay or low paid or unemploy* or depriv* or financial hardship or benefit recipient* or social position* or social class* or socioeconomic or social status or poverty or impoverish*) n5 (inequalit* or inequit* or disparit* or equit* or disadvantage*)
 5.
-(illitera* OR education* attainment* OR education* level# OR education* status OR low education OR education* achievement* OR school leaver*) n5 (inequalit* OR inequit* OR disparit* OR equit* OR disadvantage*)
+(illitera* or education* attainment* or education* level# or education* status or low education or education* achievement* or school leaver*) n5 (inequalit* or inequit* or disparit* or equit* or disadvantage*)
 6.
-(single parent* OR lone parent* OR rural OR refugee* OR immigrant* OR ethnic minorit* OR ethnic group* OR racial group* OR indigenous) n5 (inequalit* OR inequit* OR disparit* OR equit* OR disadvantage*)
+(single parent* or lone parent* or rural or refugee* or immigrant* or ethnic minorit* or ethnic group* or racial group* or indigenous) n5 (inequalit* or inequit* or disparit* or equit* or disadvantage*)
 7.
-(gender OR women) n5 (inequalit* OR inequit* OR disparit* OR equit* OR disadvantage*) OR school n5 children OR pacific islander* OR African American OR Hispanic* OR latino OR latina OR Asian American OR Alaska* native* OR American Indians
-8. OR 1‐7 (population)
+(gender or women) n5 (inequalit* or inequit* or disparit* or equit* or disadvantage*) or school n5 children or pacific islander* or African American or Hispanic* or latino or latina or Asian American or Alaska* native* or American Indians
+8. or 1‐7 (population)
 #https://www-cochranelibrary-com.ezproxy.med.cornell.edu/cdsr/doi/10.1002/14651858.CD009905.pub2/appendices#CD009905-sec1-0011
 
 
- 8 (gender‐based OR gender‐related OR gender differences OR gender factors).mp. 12856    
- 9 ((sex OR gender) adj2 (analysis OR specific OR difference? OR factor? OR inequit$ OR disparit$ OR inequalit$)).mp. 196205    
+ 8 (gender‐based or gender‐related or gender differences or gender factors).mp. 12856    
+ 9 ((sex or gender) adj2 (analysis or specific or difference? or factor? or inequit$ or disparit$ or inequalit$)).mp. 196205    
  10 exp sex factors/ 164145    
  11 exp geriatrics/ 23034    
- 12 ((ethnic$ OR race OR racial OR religio$ OR cultur$ OR minorit$ OR refugee OR indigenous OR aboriginal) adj3 (analysis OR difference$ OR specific OR disparit$ OR inequalit$ OR inequit$)).tw. 26985    
+ 12 ((ethnic$ or race or racial or religio$ or cultur$ or minorit$ or refugee or indigenous or aboriginal) adj3 (analysis or difference$ or specific or disparit$ or inequalit$ or inequit$)).tw. 26985    
  13 exp homosexuality/ 16581    
  14 exp disabled persons/ 35507    
- 15 ((poverty OR low‐income OR socioeconomic$ OR social) adj2 (analysis OR disadvantage$ OR specific OR difference? OR factor? OR inequalit$ OR depriv$ OR inequit$ OR disparit$)).mp. 87592    
+ 15 ((poverty or low‐income or socioeconomic$ or social) adj2 (analysis or disadvantage$ or specific or difference? or factor? or inequalit$ or depriv$ or inequit$ or disparit$)).mp. 87592    
  16 exp Educational Status/ 26647    
  17 exp Socioeconomic Factors/ 248934    
- 18 ((discriminat$ OR social exclu$ OR social inclu$) adj3 (religion OR culture OR race OR racial OR aboriginal OR indigenous OR ethnic$)).tw. 475    
- 19 ((urban OR rural OR inner‐city OR slum) adj2 (difference$ OR specific OR analysis OR inequit$ OR disparit$ OR inequalit$)).tw. 1464    
- 20 ((resource‐poor OR (low‐income adj countr$) OR (middle income adj countr$) OR africa OR developing countr$ OR south america OR china OR asia OR latin america) adj2 (relevance OR analysis OR specific OR difference OR applicab$ OR inequit$ OR disparit$ OR inequalit$)).tw. 541    
- 21 OR/8‐20 522320    
+ 18 ((discriminat$ or social exclu$ or social inclu$) adj3 (religion or culture or race or racial or aboriginal or indigenous or ethnic$)).tw. 475    
+ 19 ((urban or rural or inner‐city or slum) adj2 (difference$ or specific or analysis or inequit$ or disparit$ or inequalit$)).tw. 1464    
+ 20 ((resource‐poor or (low‐income adj countr$) or (middle income adj countr$) or africa or developing countr$ or south america or china or asia or latin america) adj2 (relevance or analysis or specific or difference or applicab$ or inequit$ or disparit$ or inequalit$)).tw. 541    
+ 21 or/8‐20 522320    
 #https://www-cochranelibrary-com.ezproxy.med.cornell.edu/cdsr/doi/10.1002/14651858.MR000028.pub2/appendices#MR000028-sec-0061

@@ -2,8 +2,23 @@ dysphagia:
 
 latest version of hedge:
 saved as "dysphasia hedge" in Ovid MEDLINE
-Deglutition/ or exp Deglutition Disorders/ or ((swallow$ or deglutit$ or dysphag$) adj5 (disturbance$ or disorder$ or difficult$ or dysfunction$ or impair$ or condition$ or abnormal$ or damage$ or injur$)).tw. or ((pharyn$ or oropharyn$) adj3 (disturbance$ or disorder$ or difficult$ or dysfunction$ or impair$ or condition$ or abnormal$ or damage$ or injur$)).tw. or gastrostomy/ or gastrostomy or enteral nutrition/ or (enteral nutrition or enteral feeding or force feeding$ or tube feeding or gastric feeding tube$).tw.
+Deglutition/ or exp Deglutition Disorders/ or dysphag$ or aphagopraxia or ((swallow$ or deglutit$ or dysphag$) adj5 (disturbance$ or disorder$ or difficult$ or dysfunction$ or impair$ or condition$ or abnormal$ or damage$ or injur$)).tw. or ((pharyn$ or oropharyn$) adj3 (disturbance$ or disorder$ or difficult$ or dysfunction$ or impair$ or condition$ or abnormal$ or damage$ or injur$)).tw. or gastrostomy/ or gastrostomy or enteral nutrition/ or (enteral nutrition or enteral feeding$ or force feeding$ or tube feeding or gastric feeding tube$).tw. or ((patterson$ or plummer-vinson$ or kelly$) adj2 (syndrome or disease)).tw.
 #retrieves all 8 articles in validation set
+
+EMTREE entry terms to add:
+aphagopraxia
+Patterson's Syndrome
+Patterson Syndrome
+Pattersons Syndrome
+Plummer-Vinson
+Plummer Vinson
+Patterson-Kelly syndrome
+Kelly Syndrome
+Kelly's Syndrome
+Patterson-Brown-Kelly Syndrome
+Patterson Brown Kelly Syndrome
+((patterson$ or plummer-vinson$ or kelly$) adj2 (syndrome or disease)).tw.
+
 
 exp Deglutition Disorders/
 Entry Terms:
