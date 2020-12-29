@@ -1,4 +1,22 @@
-saved as "Disparities hedge" in Ovid MEDLINE: 
+stuff to add:
+gender - DONE
+sexual orientation - DONE
+geography - DONE
+possibly age discrimination - would a filter for geriatric/senior work? plus the phrase age discrimination and age-related discrimination
+
+The narrower hedge used in previous scoping review (i added sexual orientation and geography terms):
+bisexuality/ or educational status/ or gender identity/ or "Health Services for Transgender Persons"/ or health status disparities/ or healthcare disparities/ or exp homosexuality/ or *Insurance Coverage/ or medically underserved area/ or minority groups/ or poverty areas/ or race factors/ or exp "sexual and gender minorities"/ or social determinants of health/ or socioeconomic factors/ or transgender persons/ or transsexualism or vulnerable populations/ or (bisexual$ or disparit$ or ethnic$ or female or gender identity or gender minorit$ or glbt$ or homosexual$ or illitera$ or inequalit$ or inequit$ or insurance or lbg or lgbt$ or lesbian$ or lesbigay or low income or low-income or medicaid or men who have sex with men or non-heterosexual$ or poverty or queer$ or race or racial or rural or sexual minorit$ or social determinant$ or sdoh or socioeconomic or uninsured or transgender$ or transexual or transsexual or two-spirit or under?served or under-served or unemploy$ or women).tw.   
+//combined with the dysphagia hedge this still retrieves 22,742 results
+
+-- add educational status/attainment? https://www.ncbi.nlm.nih.gov/mesh/?term=educational+status
+-- add disability?
+Specific racial/ethnic groups are missing
+age discrimination: https://www.ncbi.nlm.nih.gov/mesh/?term=age+discrimination
+- ageism/, exp aged/ (https://www.ncbi.nlm.nih.gov/mesh/68000368)
+
+
+
+More comprehensive hedge (based on cochrane reviews):
 exp continental population groups/ or culture/ or educational status/ or exp ethnic groups/ or health status disparities/ or healthcare disparities/ or medically underserved area/ or minority groups/ or population groups/ or poverty areas/ or refugees/ or social environment/ or exp socioeconomic factors/ or vulnerable populations/ or (African American or African-American or Alaska$ native$ or American Indian$ or Asian American or Asian-American or benefit recipient$ or depriv$ or disadvantag$ or disparit$ or equit$ or ethnic$ or gender or gradient$ or hardship or Hispanic$ or illitera$ or immigrant$ or impoverish$ or indigenous or inequalit$ or inequit$ or latin$ or literac$ or literate or lone parent$ or low pay or low paid or low-paid or low income or low-income or marginali$ or minorit$ or pacific islander$ or poverty or racial or refugee$ or rural or school leaver$ or single parent$ or social determinant$ or socioeconomic or under?served or under-served or unemploy$ or women).tw. 
 -- are you interested in disparities based on sexual orientation/gender identity? if so, this will add a huge number of keywords: https://www.ncbi.nlm.nih.gov/mesh/?term=lgbt
 
