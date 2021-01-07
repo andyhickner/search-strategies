@@ -1,0 +1,10 @@
+potential SRs that are US-only: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22United+States%22%5BMeSH%5D%29+AND+%28%22Health+Status+Disparities%22%5BMesh%5D+OR+%22Healthcare+Disparities%22%5BMesh%5D+%29&filter=pubt.systematicreview&sort=date
+
+(exp australia/ or exp africa/ or antarctic regions/ or arctic regions/ or exp asia/ or exp canada/ or exp central america/ or exp europe/ or mexico/ or exp south america/) not exp united states/
+# adapted from https://pubmed.ncbi.nlm.nih.gov/32168209/
+this gets us down to 18,279
+
+Did not use a geographic hedge: https://pubmed.ncbi.nlm.nih.gov/31698136/
+search strategy not provided but appeared not to use geographic hedge: https://pubmed.ncbi.nlm.nih.gov/30618007/
+i can't access the suppl material that has the strategy: https://pubmed.ncbi.nlm.nih.gov/32008799/
+not actually a systematic review: https://pubmed.ncbi.nlm.nih.gov/30519846/
