@@ -1,0 +1,1 @@
+This folder contains the search strategies for the 2021 Weill Cornell Medicine scoping review on healthcare disparities related to dysphagia in the United States. The authors of the study have chosen not to publicly register the protocol. Contact me at alh4014 AT weill.cornell.edu or tweet @andyhickner with any questions. 

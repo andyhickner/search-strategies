@@ -1,3 +1,5 @@
+This is not the latest version; refer to medline.txt for the final version of the MEDLINE hedges for each concept
+
 stuff to add:
 gender - DONE
 sexual orientation - DONE
