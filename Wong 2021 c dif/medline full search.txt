@@ -1,4 +1,5 @@
-(exp Clostridium difficile/ or exp Clostridioides difficile/ or (Clostridium difficile or Clostridioides difficile or difficile or pseudomembranous enterocolitis).mp.) AND (exp Immunoglobulins, Intravenous/ or ((immunoglobulin$ adj6 (monoclon$ or polyclon$)) or IVIG or immune globulin).mp.)
+(exp Clostridium difficile/ or exp Clostridioides difficile/ or (Clostridium difficile or Clostridioides difficile or difficile or pseudomembranous enterocolitis or pseudomembranous colitis/ or or Bacillus difficilis or Peptoclostridium difficile).mp.) AND (exp Immunoglobulins, Intravenous/ or ((immunoglobulin$ adj6 (monoclon$ or polyclon$)) or IVIG or immune globulin or intravenous antibodies or intravenous immune globulin or intravenous immunoglobulin$ or intravenous ig or intravenously administered gamma globulin or IV Immunoglobulin$ or Flebogamma DIF or Gamunex or Globulin-N or Globulin N or Intraglobin or Gammagard or Gamimune or Gamimmune or Privigen or Sandoglobulin or Venoglobulin or Venoglobulin-I or Venimmune or Iveegam or Alphaglobin or Endobulin or Gamimune N or Gamimmune N or Gammonativ).mp.)
 60 results
 Retrieves all 9 in validation set
 limit 12 to (clinical trial, all or randomized controlled trial) = 2 trials
+.mp. terms include entry terms for MeSH (listed in order: https://www.ncbi.nlm.nih.gov/mesh/?term=Immunoglobulins%2C+Intravenous)

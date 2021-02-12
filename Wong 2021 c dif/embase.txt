@@ -1,0 +1,8 @@
+("20924675" or "20063275" or "23429029" or "1901084" or "9378393" or "17327194" or "26025992" or "18836636" or "19186089").pm - 9 studies
+
+there is no emtree for IVIG - instead use in combination with subheading: human immunoglobulin/iv [Intravenous Drug Administration]
+
+(exp Clostridium difficile infection/ or (Clostridium difficile or Clostridioides difficile or difficile or pseudomembranous enterocolitis or Bacillus difficilis or Peptoclostridium difficile).mp.) and (human immunoglobulin/iv or immunoglobulin/iv or (intravenous drug administration/ and immunoglobulin/dt) or ((immunoglobulin$ adj6 (monoclon$ or polyclon$)) or IVIG or immune globulin or intravenous antibodies or intravenous immune globulin or intravenous immunoglobulin$ or intravenous ig or IV Immunoglobulin$ or Flebogamma DIF or Gamunex or Globulin-N or Globulin N or Intraglobin or Gammagard or Gamimune or Gamimmune or Privigen or Sandoglobulin or Venoglobulin or Venoglobulin-I or Venimmune or Iveegam or Alphaglobin or Endobulin or Gamimune N or Gamimmune N or Gammonativ or intravenously administered gamma globulin).mp.)
+511 results including all 9 in validation set
+
+Need to alphabetize keywords if possible
