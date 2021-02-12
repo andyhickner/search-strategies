@@ -1,0 +1,6 @@
+Cochrane trials:
+("Intravenous immunoglobulin" AND "Clostridium difficile")
+- Preliminary Results of a Randomized Clinical Trial of Intravenous Immunoglobulin in Solid Organ Recipients with Severe Infection and Secondary Antibody Deficiency - this is only available as a 2020 meeting abstract in J Heart and Lung Transplantation
+- Potential intravenous immunoglobulin mediated protection against severe infections in a randomized clinical trial in solid organ transplantation - same journal and authors as above - 2017 meeting abstract
+- Descriptive study of intravenous immunoglobulin for the treatment of recurrent Clostridium difficile diarrhoea
+- IVIG Versus Placebo for the Treatment of Patients With Severe C-Diff - https://clinicaltrials.gov/show/NCT00177970

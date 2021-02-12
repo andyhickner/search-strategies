@@ -1,0 +1,15 @@
+Both of the following are incomplete because they lack "Clostridioides difficile" which is the new (2021) MeSH
+
+Cochrane reviews:
+https://www-cochranelibrary-com.ezproxy.med.cornell.edu/cdsr/doi/10.1002/14651858.CD004610.pub5/full
+6. exp Clostridium difficile/
+7. exp Clostridium Infections/
+8. exp Diarrhea/dt [Drug Therapy]
+9. exp Enterocolitis, Pseudomembranous/dt [Drug Therapy]
+10. (Clostridium difficile or difficile or pseudomembranous enterocolitis).mp.
+11. 6 or 7 or 8 or 9 or 10
+
+https://www-cochranelibrary-com.ezproxy.med.cornell.edu/cdsr/doi/10.1002/14651858.CD006095.pub4/appendices#CD006095-sec1-0012
+39. clostridium difficile.mp.
+40. c diff.mp.
+41. 39 or 40

@@ -1,0 +1,16 @@
+including and not limited to vancomycin, metronidazole and/or fidaxomicin
+
+From https://www-cochranelibrary-com.ezproxy.med.cornell.edu/cdsr/doi/10.1002/14651858.CD004610.pub5/appendices#CD004610-sec1-0012
+1. exp Anti‐Bacterial Agents/
+2. exp Aminoglycosides/
+3. exp Cephalosporins/
+4. (Vancomycin or Metronidazole or Fusidic acid or Nitazoxanide or Teicoplanin or Rifampicin or Rifaximin or Bacitracin or Fidaxomicin or Amoxicillin or Azithromycin or Cephalosporin* or Cephalexin or Ciprofloxacin or Clarithromycin or Clindamycin or Doxycycline or Erythromycin or Flouroquinolone* or Levofloxacin or Macrolide* or Nitrofurantoin or Penicillin or Tetracycline or Trimethoprim or antibiotic* or anti‐bacterial* or anti bacterial* or antibacterial* or bacteriocid* or bactericid* or antimicrobial* or anti‐microbial*).mp.
+5. 1 or 2 or 3 or 4
+
+https://pubmed.ncbi.nlm.nih.gov/28041678/
+full text: https://pdf.sciencedirectassets.com/272425/1-s2.0-S0091674917X00031/1-s2.0-S0091674916311411/main.pdf
+The value of immunoglobulin therapy
+has also been described in Campylobacter jejuni infection
+(administered orally)360 and in pseudomembranous colitis caused
+by Clostridium difficile (administered intravenously).361,362 
+see refs 361 and 362

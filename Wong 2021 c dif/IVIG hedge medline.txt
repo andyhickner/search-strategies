@@ -1,0 +1,15 @@
+IVIG and related antibodies including bezlotoxumab and forms of immunoglobulin therapies
+
+https://www-cochranelibrary-com.ezproxy.med.cornell.edu/search
+Intravenous immunoglobulin - 14 Cochrane reviews, mostly in children/neonates or noninfectious
+
+IVIG in sepsis: https://www-cochranelibrary-com.ezproxy.med.cornell.edu/cdsr/doi/10.1002/14651858.CD001090.pub2/appendices#CD001090-sec1-0012
+#1 exp Immunoglobulins/
+#2 exp Immunoglobulin - Intravenous/
+#3 immunoglobulin$.mp.
+#4 (immunoglobulin$ adj6 (monoclon$ or polyclon$)).mp.
+#5 IVIG.mp.
+#6 1 or 2 or 3 or 4 or 5
+
+https://www-uptodate-com.ezproxy.med.cornell.edu/contents/overview-of-intravenous-immune-globulin-ivig-therapy?search=intravenous%20immunoglobulin%20therapy&source=search_result&selectedTitle=2~148&usage_type=default&display_rank=1
+"Immune globulin derived from the plasma of paid donors is used in the treatment of an array of disorders..."

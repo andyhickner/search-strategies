@@ -1,9 +1,11 @@
-22421720 or 20924675 or 20063275 or 32057278 or 23429029
-(5 articles)
+("20924675" or "20063275" or "23429029" or "1901084" or "9378393" or "17327194" or "26025992" or "18836636" or "19186089").ui
+(9 articles)
+
 
 
 22421720
 Girotra, Mohit et al. “Clinical predictors of fulminant colitis in patients with Clostridium difficile infection.” Saudi journal of gastroenterology : official journal of the Saudi Gastroenterology Association vol. 18,2 (2012): 133-9. doi:10.4103/1319-3767.93820
+^ probably would not meet inclusion criteria - no mention of IVIG anywhere
    
    20924675
    Intravenous Immunoglobulin for the Treatment of Clostridium difficile Infection: A Review DOI 10.1007/s10620-010-1411-2
@@ -22,3 +24,24 @@ Girotra, Mohit et al. “Clinical predictors of fulminant colitis in patients wi
    
    Not indexed in MEDLINE (i'm guessing this is a meeting abstract)
    Nasser, Maliha MD1; Naeem, Asad2; Kumar, Sarwan MD3 Failed Intravenous Immunoglobulin (IVIG) Treatment for Severe Complicated C. difficile Colitis: A Case Report and Literature Review, American Journal of Gastroenterology: October 2017 - Volume 112 - Issue - p S858-S859
+   
+   add?
+   https://pubmed.ncbi.nlm.nih.gov/1901084/
+   Leung DY, Kelly CP, Boguniewicz M, Pothoulakis C, LaMont JT, Flores A. Treatment with intravenously administered gamma globulin of chronic relapsing colitis induced by Clostridium difficile toxin. J Pediatr. 1991;118(4 Pt 1):633-637. doi:10.1016/s0022-3476(05)83393-1
+   https://pubmed.ncbi.nlm.nih.gov/9378393/
+   Salcedo J, Keates S, Pothoulakis C, et al. Intravenous immunoglobulin therapy for severe Clostridium difficile colitis. Gut. 1997;41(3):366-370. doi:10.1136/gut.41.3.366
+   
+   Google Scholar: "Immune globulin clostridium difficile"
+   https://pubmed.ncbi.nlm.nih.gov/17327194/
+   Juang P, Skledar SJ, Zgheib NK, et al. Clinical outcomes of intravenous immune globulin in severe clostridium difficile-associated diarrhea. Am J Infect Control. 2007;35(2):131-137. doi:10.1016/j.ajic.2006.06.007
+   https://pubmed.ncbi.nlm.nih.gov/26025992/
+   Shah PJ, Vakil N, Kabakov A. Role of intravenous immune globulin in streptococcal toxic shock syndrome and Clostridium difficile infection. Am J Health Syst Pharm. 2015;72(12):1013-1019. doi:10.2146/ajhp140359
+   
+   From WOS:
+   https://pubmed.ncbi.nlm.nih.gov/18836636/
+   Koulaouzidis A, Tatham R, Moschos J, Tan CW. Successful treatment of Clostridium difficile colitis with intravenous immunoglobulin. J Gastrointestin Liver Dis. 2008;17(3):353-355.
+   https://pubmed.ncbi.nlm.nih.gov/19186089/
+   O'Horo J, Safdar N. The role of immunoglobulin for the treatment of Clostridium difficile infection: a systematic review. Int J Infect Dis. 2009;13(6):663-667. doi:10.1016/j.ijid.2008.11.012
+   
+   
+   
