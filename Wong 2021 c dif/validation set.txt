@@ -1,4 +1,4 @@
-("20924675" or "20063275" or "23429029" or "1901084" or "9378393" or "17327194" or "26025992" or "18836636" or "19186089").ui
+("20924675" or "20063275" or "23429029" or "9378393" or "17327194" or "26025992" or "18836636" or "19186089").ui
 (9 articles)
 
 
@@ -27,7 +27,7 @@ Girotra, Mohit et al. “Clinical predictors of fulminant colitis in patients wi
    
    add?
    https://pubmed.ncbi.nlm.nih.gov/1901084/
-   Leung DY, Kelly CP, Boguniewicz M, Pothoulakis C, LaMont JT, Flores A. Treatment with intravenously administered gamma globulin of chronic relapsing colitis induced by Clostridium difficile toxin. J Pediatr. 1991;118(4 Pt 1):633-637. doi:10.1016/s0022-3476(05)83393-1
+   NO - it's pediatric: Leung DY, Kelly CP, Boguniewicz M, Pothoulakis C, LaMont JT, Flores A. Treatment with intravenously administered gamma globulin of chronic relapsing colitis induced by Clostridium difficile toxin. J Pediatr. 1991;118(4 Pt 1):633-637. doi:10.1016/s0022-3476(05)83393-1
    https://pubmed.ncbi.nlm.nih.gov/9378393/
    Salcedo J, Keates S, Pothoulakis C, et al. Intravenous immunoglobulin therapy for severe Clostridium difficile colitis. Gut. 1997;41(3):366-370. doi:10.1136/gut.41.3.366
    
