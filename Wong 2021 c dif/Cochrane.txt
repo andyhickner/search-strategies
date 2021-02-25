@@ -1,3 +1,9 @@
+([mh "Clostridioides difficile"] OR [mh ^"pseudomembranous colitis"] OR ("Clostridium difficile" OR "Clostridioides difficile" OR difficile OR "pseudomembranous enterocolitis" OR "Bacillus difficilis" OR "Peptoclostridium difficile"):ti,ab,kw) AND ([mh "Immunoglobulins, Intravenous"] OR ((immunoglobulin* NEAR/6 (monoclon* OR polyclon*)) OR IVIG OR "immune globulin" OR "intravenous antibodies" OR "intravenous immune globulin" OR "intravenous immunoglobulin*" OR "intravenous ig" OR "intravenously administered gamma globulin" OR "IV Immunoglobulin*" OR bezlotoxumab OR "Flebogamma DIF" OR Gamunex OR Globulin-N OR "Globulin N" OR Intraglobin OR Gammagard OR Gamimune OR Gamimmune OR Privigen OR Sandoglobulin OR Venoglobulin OR Venoglobulin-I OR Venimmune OR Iveegam OR Alphaglobin OR Endobulin OR Gammonativ OR zinplava):ti,ab,kw)
+49 results of which 46 are CENTRAL records; returns all 8 in validation set, plus another 27 records that overlap with the Embase results, plus 5 from ClinicalTrials.gov, 1 each from CINAHL and ICTRP
+
+validation set: 10.1254/fpj.152.39 or 10.1093/jac/dky182 or 10.1093/cid/ciy171 or 10.1093/cid/cix809 or 10.1016/j.jiac.2017.10.005 or 10.1093/cid/cix523 or 10.1056/NEJMoa1602615
+should return 8 trials
+
 Cochrane trials:
 ("Intravenous immunoglobulin" AND "Clostridium difficile")
 - Preliminary Results of a Randomized Clinical Trial of Intravenous Immunoglobulin in Solid Organ Recipients with Severe Infection and Secondary Antibody Deficiency - this is only available as a 2020 meeting abstract in J Heart and Lung Transplantation

@@ -1,4 +1,12 @@
-TOPIC: (Intravenous Immunoglobulin) AND TOPIC: (clostridium difficile)
-134 results
-18 meeting abstracts
+("Clostridioides difficile" OR "pseudomembranous colitis" OR ("Clostridium difficile" OR "Clostridioides difficile" OR difficile OR "pseudomembranous enterocolitis" OR "Bacillus difficilis" OR "Peptoclostridium difficile")) AND ("Immunoglobulins, Intravenous" OR ((immunoglobulin* NEAR/6 (monoclon* OR polyclon*)) OR IVIG OR "immune globulin" OR "intravenous antibodies" OR "intravenous immune globulin" OR "intravenous immunoglobulin*" OR "intravenous ig" OR "intravenously administered gamma globulin" OR "IV Immunoglobulin*" OR bezlotoxumab OR "Flebogamma DIF" OR Gamunex OR Globulin-N OR "Globulin N" OR Intraglobin OR Gammagard OR Gamimune OR Gamimmune OR Privigen OR Sandoglobulin OR Venoglobulin OR Venoglobulin-I OR Venimmune OR Iveegam OR Alphaglobin OR Endobulin OR Gammonativ OR zinplava))
+289 results
+limiting to meeting abstract or proceedings paper: 41
+Only 14 of these are in Embase; 2 of the 14 are older reviews and would not meet inclusion criteria
+
+
+validation sets: 
+Embase: 10.1093/ofid/ofz293 or 10.1093/ofid/ofaa248 or 10.1093/ofid/ofaa157 or 10.1093/ofid/ofaa038 or 10.1093/ofid/ofy218 or 10.1016/j.anaerobe.2019.102137 or 10.1016/S0016-5085(17)31400-2  (7 results)
+PMID: 32465771
+Accession Number: WOS:000398839800208 or WOS:000411688502193
+The first one is NOT retrieved by the current strategy because it has no abstract and does not use any c. diff terms in title (instead, "severe infection"); however, it IS retrieved by the Embase strategy. 
 
