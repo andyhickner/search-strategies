@@ -5,8 +5,7 @@ Only 14 of these are in Embase; 2 of the 14 are older reviews and would not meet
 
 
 validation sets: (combined, the following should retrieve 8)
-Embase: 10.1093/ofid/ofz293 or 10.1093/ofid/ofaa248 or 10.1093/ofid/ofaa157 or 10.1093/ofid/ofaa038 or 10.1093/ofid/ofy218 or 10.1016/j.anaerobe.2019.102137 or 10.1016/S0016-5085(17)31400-2  (7 results)
+Embase: 10.1093/ofid/ofz293 or 10.1093/ofid/ofaa248 or 10.1093/ofid/ofaa157 or 10.1093/ofid/ofaa038 or 10.1093/ofid/ofy218 or 10.1016/j.anaerobe.2019.102137 or 10.1016/S0016-5085(17)31400-2 or 10.14309/01.ajg.0000595832.17792.20 (7 results)
 PMID: 32465771 //same as WOS:000522637200089
-Accession Number: WOS:000398839800208 or WOS:000411688502193 or WOS:000522637200089
+Accession Number: WOS:000398839800208 or WOS:000411688502193 or WOS:000522637200089 or WOS:000411688502193
 The first & third are by the same authors and are NOT retrieved by the current strategy because it has no abstract and does not use any c. diff terms in title (instead, "severe infection"); however, it IS retrieved by the Embase strategy. 
-

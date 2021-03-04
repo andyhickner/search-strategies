@@ -10,6 +10,8 @@ Need to alphabetize keywords if possible
 
 Validation:
 
+embase accession number: 630839532 or 618769033(both conference abstracts)
+
 MEDLINE:
 ("20924675" or "20063275" or "23429029" or "9378393" or "17327194" or "26025992" or "18836636" or "19186089").pm - 9 studies
 
