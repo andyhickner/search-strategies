@@ -1,8 +1,8 @@
 
 
 there is no emtree for IVIG - instead use in combination with subheading: human immunoglobulin/iv [Intravenous Drug Administration]
-
-(exp Clostridium difficile infection/ or (Clostridium difficile or Clostridioides difficile or difficile or pseudomembranous enterocolitis or Bacillus difficilis or Peptoclostridium difficile or antibiotic-associated diarrh?ea).mp.) and (human immunoglobulin/iv or immunoglobulin/iv or bezlotoxumab/ or (intravenous drug administration/ and immunoglobulin/dt) or ((immunoglobulin$ adj6 (monoclon$ or polyclon$)) or IVIG or ((intravenous$ or iv) adj2 (antibodies or immunoglobulin$ or immune globulin or gammaglobulin or gamma-globulin or ig)) or bezlotoxumab or Flebogamma DIF or Gamunex or Globulin-N or Globulin N or Intraglobin or Gammagard or Gamimune or Gamimmune or Privigen or Sandoglobulin or Venoglobulin or Venoglobulin-I or Venimmune or Iveegam or Alphaglobin or Endobulin or Gammonativ or zinplava).mp.)
+WARNING: you can't just paste MEDLINE search into the Polyglot for this due to indexing differences re: IVIG
+(exp Clostridium difficile infection/ or pseudomembranous colitis/ or (Clostridium difficile or Clostridioides difficile or difficile or (pseudomembranous adj2 (colitis or enterocolitis)) or Bacillus difficilis or Peptoclostridium difficile or antibiotic-associated diarrh?ea).mp.) and (human immunoglobulin/iv or immunoglobulin/iv or bezlotoxumab/ or (intravenous drug administration/ and immunoglobulin/dt) or ((immunoglobulin$ adj6 (monoclon$ or polyclon$)) or IVIG or ((intravenous$ or iv) adj2 (antibodies or immunoglobulin$ or immune globulin or gammaglobulin or gamma-globulin or ig)) or bezlotoxumab or Flebogamma DIF or Gamunex or Globulin-N or Globulin N or Intraglobin or Gammagard or Gamimune or Gamimmune or Privigen or Sandoglobulin or Venoglobulin or Venoglobulin-I or Venimmune or Iveegam or Alphaglobin or Endobulin or Gammonativ or zinplava).mp.)
 758 results including 47 out of the 49 validation articles below, incl all 8 in MEDLINE validation set
 limit 1 to (clinical trial or randomized controlled trial) = 98 results, including all 27 trials from the Cochrane validation set
 
