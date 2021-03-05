@@ -1,26 +1,24 @@
-
-
-there is no emtree for IVIG - instead use in combination with subheading: human immunoglobulin/iv [Intravenous Drug Administration]
 WARNING: you can't just paste MEDLINE search into the Polyglot for this due to indexing differences re: IVIG
-(exp Clostridium difficile infection/ or pseudomembranous colitis/ or (Clostridium difficile or Clostridioides difficile or difficile or (pseudomembranous adj2 (colitis or enterocolitis)) or Bacillus difficilis or Peptoclostridium difficile or antibiotic-associated diarrh?ea).mp.) and (human immunoglobulin/iv or immunoglobulin/iv or bezlotoxumab/ or (intravenous drug administration/ and immunoglobulin/dt) or ((immunoglobulin$ adj6 (monoclon$ or polyclon$)) or IVIG or ((intravenous$ or iv) adj2 (antibodies or immunoglobulin$ or immune globulin or gammaglobulin or gamma-globulin or ig)) or bezlotoxumab or Flebogamma DIF or Gamunex or Globulin-N or Globulin N or Intraglobin or Gammagard or Gamimune or Gamimmune or Privigen or Sandoglobulin or Venoglobulin or Venoglobulin-I or Venimmune or Iveegam or Alphaglobin or Endobulin or Gammonativ or zinplava).mp.)
-758 results including 47 out of the 49 validation articles below, incl all 8 in MEDLINE validation set
-limit 1 to (clinical trial or randomized controlled trial) = 98 results, including all 27 trials from the Cochrane validation set
 
-Need to alphabetize keywords if possible
+(exp Clostridium difficile infection/ or pseudomembranous colitis/ or (Clostridium difficile or Clostridioides difficile or difficile or (pseudomembranous adj2 (colitis or enterocolitis)) or Bacillus difficilis or Peptoclostridium difficile or antibiotic-associated diarrh?ea).mp.) and (human immunoglobulin/iv or immunoglobulin/iv or bezlotoxumab/ or (intravenous drug administration/ and immunoglobulin/dt) or ((immunoglobulin$ adj6 (monoclon$ or polyclon$)) or IVIG or igiv or ((intravenous$ or iv) adj2 (antibodies or immunoglobulin$ or immune globulin or gammaglobulin or gamma-globulin or ig)) or Flebogamma DIF or Gamunex or Globulin-N or Globulin N or Intraglobin or Gammagard or Gamimune or Gamimmune or Privigen or Sandoglobulin or Venoglobulin or Venoglobulin-I or Venimmune or Iveegam or Alphaglobin or Endobulin or Gammonativ or (passive$ adj3 (immunization$ or immunity or immunotherap$ or antibody transfer$ or transfer$ of immunity or serotherap$)) or ((immunity or antibody) adj2 transfer$) or Normal Serum Globulin Therapy).mp.)
+862 results including all 47 of the validation articles below
 
-Validation:
+Remarks: there is no emtree for IVIG - instead use in combination with subheading: human immunoglobulin/iv or immunoglobulin/iv
 
-embase accession number: 630839532 or 618769033(both conference abstracts)
+Full validation set (should retrieve 47):
+("630839532" or "618690823" or "618769033" or "38660298" or "629637544" or "631540539" or "632067302" or "626118412" or "629033525" or "2005160990" or "2005250641" or "631930625" or "632496971" or "632828146" or "2004292383" or "627971993" or "628091114" or "630469246" or "627805750" or "628120246" or "618669040" or "627987329" or "619891472" or "619891140" or "627972008" or "628091094" or "629389997" or "618668885" or "628232577" or "611569503").an or ("20924675" or "20063275" or "23429029" or "9378393" or "17327194" or "26025992" or "18836636" or "19186089" or "15073160" or "30792777" or "28331803" or "24926170" or "15040937" or "16525744").pm or ("10.1007/s10350-006-0511-8" or "10.1016/j.anaerobe.2019.06.001" or "10.1016/j.jval.2018.09.1354" or "10.1016/j.transproceed.2007.06.050" or "10.1016/j.vaccine.2003.11.030" or "10.1016/S0016-5085(16)30516-9" or "10.1016/S0016-5085(17)31400-2" or "10.1016/S0016-5085(17)31408-7" or "10.1016/S0924-8579(09)70018-4" or "10.1086/516220" or "10.1089/sur.2010.080" or "10.1093/clinids/20.Supplement_2.S266" or "10.1111/j.1399-3089.2006.00293.x" or "10.1136/gutjnl-2012-302514d.107" or "10.1378/chest.1823566" or "10.14309/00000434-200709002-00369" or "10.14309/00000434-200910003-00869" or "10.14309/00000434-201110002-00861" or "10.14309/00000434-201510001-00356" or "10.14309/00000434-201710001-01576" or "10.14309/01.ajg.0000595832.17792.20" or "10.14309/01.ajg.0000595896.09276.33").do.
+
+embase accession number: ("630839532" or "618769033").an (both conference abstracts)
 
 MEDLINE:
-("20924675" or "20063275" or "23429029" or "9378393" or "17327194" or "26025992" or "18836636" or "19186089").pm - 9 studies
+("20924675" or "20063275" or "23429029" or "9378393" or "17327194" or "26025992" or "18836636" or "19186089" or "15073160" or "30792777" or "28331803" or "24926170" or "15040937" or "16525744").pm - 11 results
 
 Cochrane:	
 ("618690823" or "618769033" or "38660298" or "629637544" or "631540539" or "632067302" or "626118412" or "629033525" or "2005160990" or "2005250641" or "631930625" or "632496971" or "632828146" or "2004292383" or "627971993" or "628091114" or "630469246" or "627805750" or "628120246" or "618669040" or "627987329" or "619891472" or "619891140" or "627972008" or "628091094" or "629389997" or "618668885" or "628232577" or "611569503").an.
 //should retrieve 27
 
 WOS:
-("10.1007/s10350-006-0511-8" or "10.1016/j.anaerobe.2019.06.001" or "10.1016/j.jval.2018.09.1354" or "10.1016/j.transproceed.2007.06.050" or "10.1016/j.vaccine.2003.11.030" or "10.1016/S0016-5085(16)30516-9" or "10.1016/S0016-5085(17)31400-2" or "10.1016/S0016-5085(17)31408-7" or "10.1016/S0924-8579(09)70018-4" or "10.1086/516220" or "10.1086/519257" or "10.1089/sur.2010.080" or "10.1093/clinids/20.Supplement_2.S266" or "10.1099/jmm.0.45753-0" or "10.1111/j.1399-3089.2006.00293.x" or "10.1136/gutjnl-2012-302514d.107" or "10.1378/chest.1823566" or "10.14309/00000434-200709002-00369" or "10.14309/00000434-200910003-00869" or "10.14309/00000434-201110002-00861" or "10.14309/00000434-201510001-00356" or "10.14309/00000434-201710001-01576" or "10.14309/01.ajg.0000595832.17792.20" or "10.14309/01.ajg.0000595896.09276.33").do.
+("10.1007/s10350-006-0511-8" or "10.1016/j.anaerobe.2019.06.001" or "10.1016/j.jval.2018.09.1354" or "10.1016/j.transproceed.2007.06.050" or "10.1016/j.vaccine.2003.11.030" or "10.1016/S0016-5085(16)30516-9" or "10.1016/S0016-5085(17)31400-2" or "10.1016/S0016-5085(17)31408-7" or "10.1016/S0924-8579(09)70018-4" or "10.1086/516220" or "10.1089/sur.2010.080" or "10.1093/clinids/20.Supplement_2.S266" or "10.1111/j.1399-3089.2006.00293.x" or "10.1136/gutjnl-2012-302514d.107" or "10.1378/chest.1823566" or "10.14309/00000434-200709002-00369" or "10.14309/00000434-200910003-00869" or "10.14309/00000434-201110002-00861" or "10.14309/00000434-201510001-00356" or "10.14309/00000434-201710001-01576" or "10.14309/01.ajg.0000595832.17792.20" or "10.14309/01.ajg.0000595896.09276.33").do.
 14 articles in WOS validation set; the strategy below returns 12 of them. the 2 not retrieved are older review papers and would not meet inclusion criteria(10.1099/jmm.0.45753-0 and 10.1086/519257)
 
 all 3 (With OR): 49
