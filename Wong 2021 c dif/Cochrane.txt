@@ -1,8 +1,6 @@
-([mh "Clostridioides difficile"] OR [mh ^"Enterocolitis, Pseudomembranous"] OR ("Clostridium difficile" OR "Clostridioides difficile" OR difficile OR (pseudomembranous NEAR/2 (colitis OR enterocolitis)) OR "Bacillus difficilis" OR "Peptoclostridium difficile" OR ("antibiotic-associated" NEAR/2 diarrh?ea)):ti,ab,kw) AND ([mh "Immunoglobulins, Intravenous"] OR [mh ^"Immunization, Passive"] OR ((immunoglobulin* NEAR/6 (monoclon* OR polyclon*)) OR IVIG OR igiv OR ((intravenous* OR iv) NEAR/2 (antibodies OR immunoglobulin* OR "immune globulin" OR gammaglobulin OR gamma-globulin OR ig)) OR "Flebogamma DIF" OR Gamunex OR Globulin-N OR "Globulin N" OR Intraglobin OR Gammagard OR Gamimune OR Gamimmune OR Privigen OR Sandoglobulin OR Venoglobulin OR Venoglobulin-I OR Venimmune OR Iveegam OR Alphaglobin OR Endobulin OR Gammonativ OR (passive* NEAR/3 (immunization* OR immunity OR immunotherap* OR serotherap*)) OR ((immunity OR antibody) NEAR/3 transfer*) OR "Normal Serum Globulin Therapy"):ti,ab,kw)
-15 results as of 3.8.21
+(([mh "Clostridioides difficile"] OR [mh "Enterocolitis, Pseudomembranous"] OR ("Clostridium difficile" OR "Clostridioides difficile" OR "C. difficile" OR (pseudomembranous NEAR/2 (colitis OR enterocolitis)) OR "Bacillus difficilis" OR "Peptoclostridium difficile" OR ("antibiotic-associated" NEAR/2 diarrh?ea)):ti,ab,kw) AND ([mh "Immunoglobulins, Intravenous"] OR [mh "Immunization, Passive"] OR ((immunoglobulin? NEAR/6 (monoclon? OR polyclon?)) OR IVIG OR igiv OR ((intravenous? OR iv) NEAR/2 (antibodies OR immunoglobulin? OR "immune globulin" OR gammaglobulin OR gamma-globulin OR ig)) OR "Flebogamma DIF" OR Gamunex OR Globulin-N OR "Globulin N" OR Intraglobin OR Gammagard OR Gamimune OR Gamimmune OR Privigen OR Sandoglobulin OR Venoglobulin OR Venoglobulin-I OR Venimmune OR Iveegam OR Alphaglobin OR Endobulin OR Gammonativ OR (passive? NEAR/3 (immunization? OR immunity OR immunotherap? OR ("antibody" NEAR/2 transfer?) OR (transfer? NEAR/2 "of immunity") OR serotherap?)) OR ((immunity OR antibody) NEAR/2 transfer?) OR "Normal Serum Globulin Therapy"):ti,ab,kw))
+14 results as of 3.10.21
 
-validation set: 10.1254/fpj.152.39 or 10.1093/jac/dky182 or 10.1093/cid/ciy171 or 10.1093/cid/cix809 or 10.1016/j.jiac.2017.10.005 or 10.1093/cid/cix523 or 10.1056/NEJMoa1602615
-should return 8 trials
 
 Cochrane trials:
 ("Intravenous immunoglobulin" AND "Clostridium difficile")
@@ -10,3 +8,4 @@ Cochrane trials:
 - Potential intravenous immunoglobulin mediated protection against severe infections in a randomized clinical trial in solid organ transplantation - same journal and authors as above - 2017 meeting abstract; also in Embase (618690823), CC said it meets inclusion criteria 3/4/21
 - Descriptive study of intravenous immunoglobulin for the treatment of recurrent Clostridium difficile diarrhoea
 - IVIG Versus Placebo for the Treatment of Patients With Severe C-Diff - https://clinicaltrials.gov/show/NCT00177970
+
