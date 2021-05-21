@@ -1,0 +1,4 @@
+https://sr-accelerator.com/#/polyglot
+
+isthmusectom* AND ("Thyroid Neoplasms" OR "Adenocarcinoma, Follicular" OR "Thyroid Cancer, Papillary" OR ("follicular adenocarcinoma*" OR (("differentiated thyroid" OR "papillary thyroid" OR "follicular thyroid" OR "nonmedullary thyroid") NEAR/3 (adenocarcinoma* OR cancer* OR carcinoma* OR neoplasm*))))
+45 results
