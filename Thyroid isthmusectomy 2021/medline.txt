@@ -1,0 +1,18 @@
+https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=main&SHAREDSEARCHID=2bO6wbjEVo8nQ0DhcoR5MogCQn01zuoV9GylvTsgZZTnlQiPMp9eGmm0RiXcsYKpd
+
+isthmusectom$.mp. and (exp Thyroid Neoplasms/ or exp Adenocarcinoma, Follicular/ or exp Thyroid Cancer, Papillary/ or (follicular adenocarcinoma$ or ((differentiated thyroid or papillary thyroid or follicular thyroid or nonmedullary thyroid) adj3 (adenocarcinoma$ or cancer$ or carcinoma$ or neoplasm$))).mp.)
+111 results
+
+Ovid MEDLINE(R) ALL <1946 to May 20, 2021>
+
+1	("20882418" or "33768393" or "31589005").ui.	3
+2	isthmusectom$.mp.	159
+3	exp Thyroid Neoplasms/ or ((thyroid$ or follicular) and (adenocarcinoma$ or cancer or tumo?r$ or neoplasm$)).ab,ti,ot. or exp Salivary glands/ or (salivary adj6 gland$).ab,ti,ot.	146196
+4	2 and 3	118
+5	1 and 4	3
+6	exp Thyroid Neoplasms/ or exp Adenocarcinoma, Follicular/ or exp Thyroid Cancer, Papillary/ or (follicular adenocarcinoma$ or ((differentiated thyroid or papillary thyroid or follicular thyroid or nonmedullary thyroid) adj3 (adenocarcinoma$ or cancer$ or carcinoma$ or neoplasm$))).mp.	59386
+7	2 and 6	111
+8	4 not 7	12
+9	2 not 4	41
+
+#Line 7 is the current working version of the MEDLINE search. Line 3 is the broader search (adapted from the Cochrane review); line 6 is the narrower search

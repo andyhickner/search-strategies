@@ -1,0 +1,5 @@
+https://sr-accelerator.com/#/polyglot
+
+isthmusectom?:ti,ab,kw AND ([mh "Thyroid Neoplasms"] OR [mh "Adenocarcinoma, Follicular"] OR [mh "Thyroid Cancer, Papillary"] OR (("follicular" NEAR/2 adenocarcinoma?) OR (("differentiated thyroid" OR "papillary thyroid" OR "follicular thyroid" OR "nonmedullary thyroid") NEAR/3 (adenocarcinoma? OR cancer? OR carcinoma? OR neoplasm?))):ti,ab,kw)
+
+1 trial, 0 SRs
