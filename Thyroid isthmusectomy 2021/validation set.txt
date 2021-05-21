@@ -1,0 +1,9 @@
+Provided by authors:
+   - Nixon IJ, Palmer FL, Whitcher MM, et al. Thyroid Isthmusectomy for Well-Differentiated Thyroid Cancer. Ann Surg Oncol. 2011;18(3):767-770. doi:10.1245/s10434-010-1358-8. https://pubmed.ncbi.nlm.nih.gov/20882418/
+   - Kwon O, Lee S, Bae JS, Jung CK. Thyroid Isthmusectomy with Prophylactic Central Compartment Neck Dissection is a Feasible Approach for Papillary Thyroid Cancer on the Isthmus. Ann Surg Oncol. Published online March 25, 2021. doi:10.1245/s10434-021-09833-y. https://pubmed.ncbi.nlm.nih.gov/33768393/
+   -- Not fully indexed in MEDLINE yet
+   - Park H, Harries V, McGill MR, Ganly I, Shah JP. Isthmusectomy in selected patients with well‐differentiated thyroid carcinoma. Head Neck. 2020;42(1):43-49. doi:10.1002/hed.25968. https://pubmed.ncbi.nlm.nih.gov/31589005/
+   -- Not fully indexed in MEDLINE yet
+
+MEDLINE:
+("20882418" or "33768393" or "31589005").ui.

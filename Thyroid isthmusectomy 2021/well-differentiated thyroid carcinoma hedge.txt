@@ -1,0 +1,10 @@
+(follicular adenocarcinoma$ or ((differentiated thyroid or papillary thyroid or follicular thyroid or nonmedullary thyroid) adj3 (adenocarcinoma$ or cancer$ or carcinoma$ or neoplasm$))).mp.
+
+1 Cochrane review on differentiated thyroid cancer:
+https://www-cochranelibrary-com.ezproxy.med.cornell.edu/cdsr/doi/10.1002/14651858.CD007956.pub2/appendices#CD007956-sec-0078
+They used a much broader search: 
+6.exp Thyroid Neoplasms/
+7.(thyroid$ and (cancer or tumo?r$ or neoplasm$)).ab,ti,ot.
+8.exp Salivary glands/
+9. (salivary adj6 gland$).ab,ti,ot.
+10.or/6-9
