@@ -1,10 +1,10 @@
 https://sr-accelerator.com/#/polyglot
 https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=main&SHAREDSEARCHID=2bFT2NYAMDLBPaUw4hNooRyizqlHuTg9CTxy7AgG3YFsI5qzSikt6KB0ybeJ6VFmx
 
-isthmusectom$.mp. AND (exp Thyroid Neoplasms/ OR exp Adenocarcinoma, Follicular/ OR exp Thyroid Cancer, Papillary/ OR (follicular adenocarcinoma$ OR ((differentiated thyroid OR papillary thyroid OR follicular thyroid OR nonmedullary thyroid) ADJ3 (adenocarcinoma$ OR cancer$ OR carcinoma$ OR neoplasm$))).mp.)
-168 results
+isthmusectom$.mp. AND (exp differentiated thyroid cancer/ or exp Thyroid tumor/ OR exp adenocarcinoma/ OR (follicular adenocarcinoma$ OR (((differentiated OR papillary OR follicular OR nonmedullary) ADJ3 thyroid) ADJ3 (adenocarcinoma$ OR cancer$ OR carcinoma$ or incidentaloma or neoplasm$ or nodule$ or tumo?r$))).mp.)
+169 results
 
 Validation set:
-("20882418" or "33768393" or "31589005").pm.
-.pm. = pmid
-Returns all 3
+("20882418" or "33768393" or "31589005" or "24447489").pm. or ("10.1017/S0022215106005238" or "10.1016/j.amjsurg.2017.09.008" or "10.12659/MSM.927407" or "10.1080/08941939.2020.1749329").do.
+.pm. = pmid, .do. = DOI
+Returns all 8

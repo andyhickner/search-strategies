@@ -1,9 +1,18 @@
-Provided by authors:
-   - Nixon IJ, Palmer FL, Whitcher MM, et al. Thyroid Isthmusectomy for Well-Differentiated Thyroid Cancer. Ann Surg Oncol. 2011;18(3):767-770. doi:10.1245/s10434-010-1358-8. https://pubmed.ncbi.nlm.nih.gov/20882418/
-   - Kwon O, Lee S, Bae JS, Jung CK. Thyroid Isthmusectomy with Prophylactic Central Compartment Neck Dissection is a Feasible Approach for Papillary Thyroid Cancer on the Isthmus. Ann Surg Oncol. Published online March 25, 2021. doi:10.1245/s10434-021-09833-y. https://pubmed.ncbi.nlm.nih.gov/33768393/
-   -- Not fully indexed in MEDLINE yet
-   - Park H, Harries V, McGill MR, Ganly I, Shah JP. Isthmusectomy in selected patients with well‐differentiated thyroid carcinoma. Head Neck. 2020;42(1):43-49. doi:10.1002/hed.25968. https://pubmed.ncbi.nlm.nih.gov/31589005/
-   -- Not fully indexed in MEDLINE yet
-
 MEDLINE:
-("20882418" or "33768393" or "31589005").ui.
+("20882418" or "33768393" or "31589005" or "24447489" or "17156579").ui. or ("10.1017/S0022215106005238" or "10.1016/j.amjsurg.2017.09.008" or "10.12659/MSM.927407" or "10.1080/08941939.2020.1749329").do.
+
+Provided by authors:
+1.     Skilbeck C, Leslie A, Simo R. Thyroid isthmusectomy: a critical appraisal. J Laryngol Otol. 2007;121(10):986-989. doi:10.1017/S0022215106005238
+https://pubmed.ncbi.nlm.nih.gov/17156579/
+2.     Nixon IJ, Palmer FL, Whitcher MM, et al. Thyroid Isthmusectomy for Well-Differentiated Thyroid Cancer. Ann Surg Oncol. 2011;18(3):767-770. doi:10.1245/s10434-010-1358-8
+https://pubmed.ncbi.nlm.nih.gov/20882418/
+3.     Kwon O, Lee S, Bae JS, Jung CK. Thyroid Isthmusectomy with Prophylactic Central Compartment Neck Dissection is a Feasible Approach for Papillary Thyroid Cancer on the Isthmus. Ann Surg Oncol. Published online March 25, 2021. doi:10.1245/s10434-021-09833-y
+https://pubmed.ncbi.nlm.nih.gov/33768393/
+4.     Vasileiadis I, Boutzios G, Karalaki M, Misiakos E, Karatzas T. Papillary thyroid carcinoma of the isthmus: Total thyroidectomy or isthmusectomy? Am J Surg. 2018;216(1):135-139. doi:10.1016/j.amjsurg.2017.09.008
+6.     Park H, Harries V, McGill MR, Ganly I, Shah JP. Isthmusectomy in selected patients with well-differentiated thyroid carcinoma. Head Neck. 2020;42(1):43-49. doi:10.1002/hed.25968
+https://pubmed.ncbi.nlm.nih.gov/31589005/
+   -- Not fully indexed in MEDLINE yet
+7.     Gui Z, Wang Z, Xiang J, et al. Comparison of Outcomes Following Thyroid Isthmusectomy, Unilateral Thyroid Lobectomy, and Total Thyroidectomy in Patients with Papillary Thyroid Microcarcinoma of the Thyroid Isthmus: A Retrospective Study at a Single Center. Med Sci Monit. 2020;26. doi:10.12659/MSM.927407
+8.     Huang H, Xu Z-G, Liu S-Y, Wang X-L. [Clinical analysis of 27 cases of well differentiated carcinoma of the thyroid isthmus]. Zhonghua Zhong Liu Za Zhi. 2013;35(11):871-874.
+https://pubmed.ncbi.nlm.nih.gov/24447489/
+9.     Seo HW, Song CM, Ji YB, Jeong JH, Koo HR, Tae K. Surgical Outcomes and Efficacy of Isthmusectomy in Single Isthmic Papillary Thyroid Carcinoma: A Preliminary Retrospective Study. J Invest Surg. Published online April 13, 2020:1-6. doi:10.1080/08941939.2020.1749329
