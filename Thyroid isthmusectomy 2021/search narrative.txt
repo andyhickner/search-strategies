@@ -1,0 +1,10 @@
+Ovid MEDLINE and Embase were searched in order to identify relevant published literature. The Cochrane Library was searched in order to identify any unpublished trials indexed in the Cochrane CENTRAL trials register. Web of Science Core Collection was searched in order to identify studies that had been presented as meeting abstracts but not yet published as a full-length journal article. Web of Science was searched rather than Scopus based on recommendations in Bramer (2017).
+
+The strategy consists of 2 concepts: thyroid isthmusectomy and well-differentiated thyroid carcinoma. Due to the small number of results retrieved, I considered eliminating the hedge for thyroid carcinoma and searching only for isthmusectomy; however, this added a large number of studies discussing horseshoe kidney instead of thyroid. 
+
+There is no MeSH corresponding to well-differentiated thyroid carcinoma, and the relevant MeSH fall into different branches of the tree. Controlled vocabulary terms were exploded whenever possible. 
+
+Additional keywords (e.g. nonmedullary, incidentaloma) were identified by examining entry terms in both MeSH and EMTREE. 
+
+References:
+Bramer WM, Rethlefsen ML, Kleijnen J, Franco OH. Optimal database combinations for literature searches in systematic reviews: a prospective exploratory study. Syst Rev. 2017;6(1):245. Published 2017 Dec 6. doi:10.1186/s13643-017-0644-y
