@@ -1,4 +1,7 @@
 https://sr-accelerator.com/#/polyglot
 
-isthmusectom* AND ("Thyroid Neoplasms" OR "Adenocarcinoma, Follicular" OR "Thyroid Cancer, Papillary" OR ("follicular adenocarcinoma*" OR (("differentiated thyroid" OR "papillary thyroid" OR "follicular thyroid" OR "nonmedullary thyroid") NEAR/3 (adenocarcinoma* OR cancer* OR carcinoma* OR neoplasm*))))
-45 results
+isthmusectom* AND (("follicular adenocarcinoma*" OR (((differentiated OR papillary OR follicular OR nonmedullary) NEAR/3 thyroid) NEAR/3 (adenocarcinoma* OR cancer* OR carcinoma* OR incidentaloma OR neoplasm* OR nodule* OR tumo*r*))))
+
+validation set: 7
+PMID=(20882418 or 33768393 or 31589005 or 17156579) or DO=(10.1017/S0022215106005238 or 10.1016/j.amjsurg.2017.09.008 or 10.12659/MSM.927407 or 10.1080/08941939.2020.1749329) 
+PMID 24447489 (Huang 2013) is not indexed in WOS

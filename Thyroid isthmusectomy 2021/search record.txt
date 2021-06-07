@@ -1,0 +1,7 @@
+Date of search: 6/7/21
+medline: 113
+embase: 169
+cochrane: 1
+WOS: 51
+Total imported into Covidence: 334 (Accidentally imported 51 WOS results from Covidence only, so reimported everything; deduct 51 from total for PRISMA flow chart) 
+Total after deduplication in Covidence: 214
