@@ -1,5 +1,6 @@
 palb2.mp. and (exp ovary tumor/ or (ovar* adj5 (adenocarcinoma* or cancer* or carcinoma* or neoplas* or malignan* or tumor* or tumour*)).mp.)
-769 results
+769 results; retrieves all 14 in validation set
 
 validation:
-("26315354" or "28418444" or "20122277" or "33670479" or "33976419" or "31841383" or "18281473" or "24870022" or "26980575").pm.
+	
+("26315354" or "28418444" or "20122277" or "33670479" or "33976419" or "31841383" or "18281473" or "24870022" or "26980575" or "27631815" or "27595995" or "26720728" or "22006311" or "24448499" or "31341520").pm. (14 results)

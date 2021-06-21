@@ -1,4 +1,5 @@
-("26075229" or "26315354" or "28418444" or "20122277" or "34113003" or "33670479" or "33976419" or "31841383" or "18281473" or "24870022" or "26980575" or "30400647").ui.
+("26075229" or "26315354" or "28418444" or "20122277" or "34113003" or "33670479" or "33976419" or "31841383" or "18281473" or "24870022" or "26980575" or "30400647" or "27631815" or "27595995" or "26720728" or "22006311" or "24448499" or "31341520").ui.
+(18 articles)
 
 Potential articles identified from Google Scholar:
 https://pubmed.ncbi.nlm.nih.gov/20122277/
@@ -14,5 +15,20 @@ Reviews:
 https://pubmed.ncbi.nlm.nih.gov/24870022/
 https://pubmed.ncbi.nlm.nih.gov/26980575/
 https://pubmed.ncbi.nlm.nih.gov/30400647/
+https://pubmed.ncbi.nlm.nih.gov/28858227/ (identified by Priyanka)
 
 24870022 or 26980575 or 30400647
+
+Additional identified by Priyanka:
+https://pubmed.ncbi.nlm.nih.gov/27631815/
+https://pubmed.ncbi.nlm.nih.gov/27595995/
+
+Identified from Janssen 2020 (https://pubmed.ncbi.nlm.nih.gov/31619740/):
+https://pubmed.ncbi.nlm.nih.gov/24448499/
+https://pubmed.ncbi.nlm.nih.gov/31341520/
+https://pubmed.ncbi.nlm.nih.gov/20122277/
+
+Does not include ovarian keywords in ti/ab/kw:
+https://pubmed.ncbi.nlm.nih.gov/28158555/
+
+
