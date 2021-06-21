@@ -1,0 +1,20 @@
+from Cochrane review: https://www-cochranelibrary-com.ezproxy.med.cornell.edu/cdsr/doi/10.1002/14651858.CD005589.pub2/appendices#CD005589-sec-0076
+30.genital neoplasms, female/ or ovarian neoplasms/
+31.ovari$ or ovary.ti,ab.
+32.cancer$ or carcino$ or tumour$ or tumor$ or neoplas$ or malig$
+33.exp Carcinoma/
+34.32 or 33
+35.31 and 34
+36.30 or 35
+
+https://www-cochranelibrary-com.ezproxy.med.cornell.edu/cdsr/doi/10.1002/14651858.CD007930.pub2/appendices#CD007930-sec1-0011
+ovar*.mp.
+(cancer* or carcinoma* or neoplasm* or tumor* or tumour* or malignan*).mp.
+12 and 13
+exp Ovarian Neoplasms/
+14 or 15
+
+https://www-cochranelibrary-com.ezproxy.med.cornell.edu/cdsr/doi/10.1002/14651858.CD008215.pub3/appendices#CD008215-sec-0110
+1 exp Ovarian Neoplasms/
+2 (ovar* adj5 (cancer* or neoplas* or carcinoma* or malignan* or tumor* or tumour* or adenocarcinoma*)).mp.
+3 1 or 2
