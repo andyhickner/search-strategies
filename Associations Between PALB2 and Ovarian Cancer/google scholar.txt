@@ -1,0 +1,3 @@
+palb2 "ovari|ovary" AROUND(5) "adenocarcinoma|cancer|carcinoma|neoplasm|malignant|malignancy|tumor|tumour"
+
+Publish or Perish translation: palb2 AND (ovari* OR ovary) AROUND(5) (adenocarcinoma OR cancer OR carcinoma OR neoplasm OR malignant OR malignancy OR tumor OR tumour)
