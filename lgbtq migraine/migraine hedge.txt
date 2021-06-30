@@ -1,0 +1,10 @@
+Recent Cochrane reviews: https://www-cochranelibrary-com.ezproxy.med.cornell.edu/cdsr/doi/10.1002/14651858.CD002286.pub3/appendices#CD002286-sec-0064
+7. exp Headache Disorders/
+8. exp Migraine Disorders/
+9. (migrain$ or headache$ or cephalgi$ or cephalalgi$).mp. [mp=title, abstract, original title, name of substance word, subject heading word, keyword heading word, protocol supplementary concept word, rare disease supplementary concept word, unique identifier]
+
+https://www-cochranelibrary-com.ezproxy.med.cornell.edu/cdsr/doi/10.1002/14651858.CD011616.pub2/appendices#CD011616-sec1-0012 (2018)
+#1 Exp headache disorders/
+#2 headache/
+#3 (headache* or migrain* or cephalgi* or cephalalgi* or hemicrani*).mp.
+#4 or/1-3

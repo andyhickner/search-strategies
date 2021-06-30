@@ -1,0 +1,7 @@
+validation set identified from Google Scholar:
+Mahdi 2017: 10.1158/1538-7445.AM2017-2471 (https://cancerres.aacrjournals.org/content/77/13_Supplement/2471.short)
+Nassikas 2016:10.1158/1538-7445.SABCS15-P6-06-03 (https://cancerres.aacrjournals.org/content/76/4_Supplement/P6-06-03.short)
+Chan 2017: 10.1200/JCO.2017.35.15_suppl.1512 (https://ascopubs.org/doi/abs/10.1200/JCO.2017.35.15_suppl.1512)
+Walsh 2011: 10.1073/pnas.1115052108
+(https://www.pnas.org/content/108/44/18032.short)
+Raupach 2020: 10.1158/1538-7445.AM2020-LB-038 (https://cancerres.aacrjournals.org/content/80/16_Supplement/LB-038.short)
