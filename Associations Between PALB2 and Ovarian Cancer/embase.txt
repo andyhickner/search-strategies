@@ -1,10 +1,13 @@
-palb2.mp. and (exp ovary tumor/ or (ovar* adj5 (adenocarcinoma* or cancer* or carcinoma* or neoplas* or malignan* or tumor* or tumour*)).mp.)
-769 results; retrieves all 22 in validation set
+Database: Embase via Ovid
+
+palb2.mp. and (exp ovary tumor/ or (ovar* adj5 (adenocarcinoma* or cancer* or carcinoma* or malignan* or neoplas* or tumor* or tumour*)).mp.)
+773 results; retrieves all 28 in validation set
 
 validation:
 	
-("26315354" or "28418444" or "20122277" or "33670479" or "33976419" or "31841383" or "18281473" or "24870022" or "26980575" or "27631815" or "27595995" or "26720728" or "22006311" or "24448499" or "31341520" or "23935836" or "18501021" or "23302520" or "21356067" or "20582465" or "28279176" or "21409391" or "16793542").pm. (22 results)
+("26315354" or "28418444" or "20122277" or "33670479" or "33976419" or "31841383" or "18281473" or "24870022" or "26980575" or "27631815" or "27595995" or "26720728" or "22006311" or "24448499" or "31341520" or "23935836" or "18501021" or "23302520" or "21356067" or "20582465" or "28279176" or "21409391" or "16793542" or "29486991" or "29053726" or "26541979" or "30128536" or "29052111" or "26681312").pm. (28 results)
 
 PMIDs not in embase:
 26843898
 25225577
+30441849

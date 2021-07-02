@@ -1,0 +1,14 @@
+Jul 2, 2021:
+WOS: 338
+embase: 773
+medline: 224
+Total: 1375
+396 duplicates removed in EndNote
+979 after EndNote deduplication
+Added 2 from hand-searching (Google Scholar)
+Total: 981
+
+Covidence:
+981 imported
+103 duplicates removed
+878 remaining after deduplication

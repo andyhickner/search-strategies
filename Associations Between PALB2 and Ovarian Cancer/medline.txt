@@ -1,2 +1,4 @@
-palb2.mp. and (exp ovarian neoplasms/ or (ovar* adj5 (adenocarcinoma* or cancer* or carcinoma* or neoplas* or malignan* or tumor* or tumour*)).mp.)
-263 articles; retrieves all 28 in validation set
+Database: MEDLINE(R) All via Ovid
+
+palb2.mp. and (exp ovarian neoplasms/ or (ovar* adj5 (adenocarcinoma* or cancer* or carcinoma* or malignan* or neoplas* or tumor* or tumour*)).mp.)
+264 articles; retrieves all 35 in validation set

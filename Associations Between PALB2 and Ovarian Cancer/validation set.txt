@@ -1,5 +1,5 @@
-("26075229" or "26315354" or "28418444" or "20122277" or "34113003" or "33670479" or "33976419" or "31841383" or "18281473" or "24870022" or "26980575" or "30400647" or "27631815" or "27595995" or "26720728" or "22006311" or "24448499" or "31341520" or "23935836" or "18501021" or "23302520" or "21356067" or "26843898" or "25225577" or "20582465" or "28279176" or "21409391" or "16793542").ui.
-(28 articles)
+("26075229" or "26315354" or "28418444" or "20122277" or "34113003" or "33670479" or "33976419" or "31841383" or "18281473" or "24870022" or "26980575" or "30400647" or "27631815" or "27595995" or "26720728" or "22006311" or "24448499" or "31341520" or "23935836" or "18501021" or "23302520" or "21356067" or "26843898" or "25225577" or "20582465" or "28279176" or "21409391" or "16793542" or "29486991" or "29053726" or "26541979" or "30441849" or "30128536" or "29052111" or "26681312").ui.
+(35 articles)
 
 Potential articles identified from Google Scholar(first 2 pages of results):
 https://pubmed.ncbi.nlm.nih.gov/20122277/
@@ -32,6 +32,14 @@ Identified from Janssen 2020 (https://pubmed.ncbi.nlm.nih.gov/31619740/):
 https://pubmed.ncbi.nlm.nih.gov/24448499/
 https://pubmed.ncbi.nlm.nih.gov/31341520/
 https://pubmed.ncbi.nlm.nih.gov/20122277/
+https://pubmed.ncbi.nlm.nih.gov/29486991/
+https://pubmed.ncbi.nlm.nih.gov/29053726/
+https://pubmed.ncbi.nlm.nih.gov/26541979/
+https://pubmed.ncbi.nlm.nih.gov/30441849/
+https://pubmed.ncbi.nlm.nih.gov/30128536/
+https://pubmed.ncbi.nlm.nih.gov/29052111/
+https://pubmed.ncbi.nlm.nih.gov/26681312/
+
 
 Does not include ovarian keywords in ti/ab/kw:
 https://pubmed.ncbi.nlm.nih.gov/28158555/

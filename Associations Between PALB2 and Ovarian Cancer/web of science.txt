@@ -1,7 +1,9 @@
-validation set identified from Google Scholar:
-Mahdi 2017: 10.1158/1538-7445.AM2017-2471 (https://cancerres.aacrjournals.org/content/77/13_Supplement/2471.short)
-Nassikas 2016:10.1158/1538-7445.SABCS15-P6-06-03 (https://cancerres.aacrjournals.org/content/76/4_Supplement/P6-06-03.short)
-Chan 2017: 10.1200/JCO.2017.35.15_suppl.1512 (https://ascopubs.org/doi/abs/10.1200/JCO.2017.35.15_suppl.1512)
-Walsh 2011: 10.1073/pnas.1115052108
-(https://www.pnas.org/content/108/44/18032.short)
-Raupach 2020: 10.1158/1538-7445.AM2020-LB-038 (https://cancerres.aacrjournals.org/content/80/16_Supplement/LB-038.short)
+Web of Science Core Collection, Indexes: SCI-EXPANDED, SSCI, A&HCI, CPCI-S, CPCI-SSH, BKCI-S, BKCI-SSH, ESCI, CCR-EXPANDED, IC.
+
+palb2 AND (ovar* NEAR/5 (adenocarcinoma* OR cancer* OR carcinoma* OR malignan* OR neoplas* OR tumor* OR tumour*))
+338 results; all 35 in validation set retrieved. 
+
+validation set:
+PMID: "26075229" or "26315354" or "28418444" or "20122277" or "34113003" or "33670479" or "33976419" or "31841383" or "18281473" or "24870022" or "26980575" or "30400647" or "27631815" or "27595995" or "26720728" or "22006311" or "24448499" or "31341520" or "23935836" or "18501021" or "23302520" or "21356067" or "26843898" or "25225577" or "20582465" or "28279176" or "21409391" or "16793542" or "29486991" or "29053726" or "26541979" or "30441849" or "30128536" or "29052111" or "26681312"
+(35)
+
