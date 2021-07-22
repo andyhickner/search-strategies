@@ -1,4 +1,12 @@
 Emtree: LGBTQIA+ people
 
-free-text keywords:
-asexual$ or bisexual$ or gay or homosexual$ or intersex$ or LGB$ or lesbian$ or men who have sex with men or pansexual or queer or questioning or transgender$ or transsexual$ or two-spirit or 2-spirit
+
+Emailed Robin Parker (robin.parker@dal.ca) on 7.21.21 to see if she would provide us with the filter she and her colleagues developed (reported https://colloquium2018.cochrane.org/abstracts/design-and-validation-search-filter-lgbtq-populations). 
+
+Adapted for Ovid MEDLINE from Lee 2016: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4878791/
+(Need to cite!)
+exp bisexuality/ or exp homosexuality/ or exp transsexualism/ or (asexual$ or bicurious or bisexual$ or cross sex or crossgender or F2M or female-to-male or gay$ or (gender adj2 (change or dysphoria or identity or queer or reassign or transform or transition)) or genderqueer or GLB or GLBQ or GLBs or GLBT or GLBTQ  or heteroflexible or homosexual$ or intersex$ or lesbian$ or lesbigay or LGB$ or M2F or male-to-female or men who have sex with men or msm or pansexual$ or queer or same gender loving or same sex attracted or same sex couple$ or same sex relations or sex change or sex reassign or sex reversal or sex transform or sex transition or sexual and gender minorit$ or sexual identity or sexual minorit$ or sexual orientation or sexual preference or (trans adj2 (female or male or man or men or people or person or woman)) or trans-sexuality or transexual or transgender$ or transsexual$ or transvestite or two-spirit or 2-spirit or women loving women or women who have sex with women or WSW).mp. 
+--Retrieves all 6 in validation set
+
+Lee 2016 also includes the following but it seems to break the query in Ovid:
+NOT (gay.au or (laparoscopic gastric bypass or markov state model or multiple source method).mp.)
