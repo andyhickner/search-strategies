@@ -1,12 +1,18 @@
+Ovid MEDLINE, adapted from Parker et al (2018) validated PubMed filter: https://colloquium2018.cochrane.org/abstracts/design-and-validation-search-filter-lgbtq-populations
+exp Bisexuality/ or exp gender identity/ or health services for transgender persons/ or exp Homosexuality/ or exp sex reassignment surgery/ or exp sex reassignment procedures/ or exp transgender persons/ or exp transsexualism/ or (bisexual$ or cross gender$ or female-to-male or gay$ or (gender adj2 (dysphoria or identity or reassignment or transition)) or homosexual$ or lesbian$ or men who have sex with men or msm or same sex or same gender or sex reassignment or (sexual adj2 (minorit$ or orientation)) or (trans adj2 (female$ or male$ or m?n or people or wom?n)) or transgender$ or transsexual$ or women who have sex with women or wsw).mp.
+
 Emtree: LGBTQIA+ people
 
-
-Emailed Robin Parker (robin.parker@dal.ca) on 7.21.21 to see if she would provide us with the filter she and her colleagues developed (reported https://colloquium2018.cochrane.org/abstracts/design-and-validation-search-filter-lgbtq-populations). 
-
-Adapted for Ovid MEDLINE from Lee 2016: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4878791/
-(Need to cite!)
-exp bisexuality/ or exp homosexuality/ or exp transsexualism/ or (asexual$ or bicurious or bisexual$ or cross sex or crossgender or F2M or female-to-male or gay$ or (gender adj2 (change or dysphoria or identity or queer or reassign or transform or transition)) or genderqueer or GLB or GLBQ or GLBs or GLBT or GLBTQ  or heteroflexible or homosexual$ or intersex$ or lesbian$ or lesbigay or LGB$ or M2F or male-to-female or men who have sex with men or msm or pansexual$ or queer or same gender loving or same sex attracted or same sex couple$ or same sex relations or sex change or sex reassign or sex reversal or sex transform or sex transition or sexual and gender minorit$ or sexual identity or sexual minorit$ or sexual orientation or sexual preference or (trans adj2 (female or male or man or men or people or person or woman)) or trans-sexuality or transexual or transgender$ or transsexual$ or transvestite or two-spirit or 2-spirit or women loving women or women who have sex with women or WSW).mp. 
---Retrieves all 6 in validation set
+Additional notes:
+Removed "male-to-female" from Parker filter because it adds over 1000 false positive articles in MEDLINE
+Alternate version based on Lee 2016: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4878791/
+exp bisexuality/ or exp homosexuality/ or exp "Sexual and Gender Minorities" or exp transsexualism/ or (asexual$ or bicurious or bisexual$ or cross sex or crossgender or F2M or female-to-male or gay$ or 
+(gender adj2 (change or diverse or dysphoria or identity or queer or reassign or transform or transition)) or genderqueer or GLB or GLBQ or GLBs or GLBT or GLBTQ or heteroflexible or homosexual$ or intersex$ or lesbian$ or lesbigay or LGB$ or M2F or male-to-female or men who have sex with men or msm or pansexual$ or queer or same gender loving or same sex attracted or same sex couple$ or same sex relations or sex change or sex reassign or sex reversal or sex transform or sex transition or sexual and gender minorit$ or sexual identity or sexual minorit$ or sexual orientation or sexual preference or 
+(trans adj2 (female or male or man or men or people or person or woman)) or trans-sexuality or transexual or transgender$ or transsexual$ or transvestite or two-spirit or 2-spirit or women loving women or women who have sex with women or WSW).mp. 
 
 Lee 2016 also includes the following but it seems to break the query in Ovid:
 NOT (gay.au or (laparoscopic gastric bypass or markov state model or multiple source method).mp.)
+
+Under exp Sexual and Gender Minorities:
+Intersex Persons
+Transgender Persons

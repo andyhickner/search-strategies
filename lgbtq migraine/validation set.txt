@@ -1,19 +1,18 @@
-1. check google scholar
-2. 14 results from embase (see onedrive for spreadsheet)
-3. anything the team has already ID'd
+("32986081" or "15304612" or "31373683" or "32815888" or "17379410" or "31879065" or "18090572" or "19878199" or "23758336" or "30418325" or "30851796" or "30844882").ui
+12 articles
 
-("31201295" or "32986081" or "15304612" or "31373683" or "32815888" or "17379410").ui
-6 articles
+Sources of MEDLINE and WOS validation sets: references provided by team; review of results from a preliminary search in Embase; snowballing references provided by team using SnowGlobe
 
-From Anson:
-​1.	Cochran, S. D., Björkenstam, C. & Mays, V. M. Sexual orientation and all-cause mortality among US adults aged 18 to 59 years, 2001-2011. American Journal of Public Health vol. 106 918–920 (2016). https://pubmed.ncbi.nlm.nih.gov/26985610/
-2.	Frost, D. M., Lehavot, K. & Meyer, I. H. Minority stress and physical health among sexual minority individuals. Journal of Behavioral Medicine 38, 1–8 (2015). https://pubmed.ncbi.nlm.nih.gov/23864353/
-3.	Rosendale, N. et al. American Academy of Neurology members’ preparedness to treat sexual and gender minorities. Neurology 93, 159–166 (2019). https://pubmed.ncbi.nlm.nih.gov/31201295/
-4.	Nagata, J. M., Ganson, K. T., Tabler, J., Blashill, A. J. & Murray, S. B. Disparities across Sexual Orientation in Migraine among US Adults. JAMA Neurology vol. 78 117–118 (2021). https://pubmed.ncbi.nlm.nih.gov/32986081/
-5.	Pringsheim, T. & Gooren, L. Migraine prevalence in male to female transsexuals on hormone therapy. Neurology 63, 593–594 (2004). https://pubmed.ncbi.nlm.nih.gov/15304612/
-6.	Hammond, N. G. & Stinchcombe, A. Health Behaviors and Social Determinants of Migraine in a Canadian Population-Based Sample of Adults Aged 45-85 Years: Findings From the CLSA. Headache 59, 1547–1564 (2019). https://pubmed.ncbi.nlm.nih.gov/31373683/
-7.	Heslin, K. C. Explaining Disparities in Severe Headache and Migraine among Sexual Minority Adults in the United States, 2013-2018. Journal of Nervous and Mental Disease vol. 208 876–883 (2020). https://pubmed.ncbi.nlm.nih.gov/32815888/
+Snowball:
+https://pubmed.ncbi.nlm.nih.gov/33616625/
 
-Additional snowballed validation refs from SnowGlobe search for Anson's refs:
-macgregor 2019: 10.1007/978-3-030-02988-3_9 - https://www.researchgate.net/publication/331092018_Transgender_and_Migraine_The_Brain_and_Machine_Eyes this is a book chapter, not MEDLINE-indexed
-Aloisi 2007: https://pubmed.ncbi.nlm.nih.gov/17379410/
+Web of Science (not medline-indexed):
+Hornby 2017: 
+https://pubmed.ncbi.nlm.nih.gov/29238388/, 10.1080/01658107.2017.1316744
+Ailani 2021: 10.1097/WCO.0000000000000926
+Nagata: 10.1001/jamaneurol.2020.3406
+Hranilovich 2019:  WOS:000475375100119
+Nguyen 2018: WOS:000442912506184
+Katz-Wise: https://pubmed.ncbi.nlm.nih.gov/26557475/
+Nye 2015: WOS:000354559400370 
+

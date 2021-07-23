@@ -1,0 +1,40 @@
+From Anson:
+​1.	Cochran, S. D., Björkenstam, C. & Mays, V. M. Sexual orientation and all-cause mortality among US adults aged 18 to 59 years, 2001-2011. American Journal of Public Health vol. 106 918–920 (2016). https://pubmed.ncbi.nlm.nih.gov/26985610/
+2.	Frost, D. M., Lehavot, K. & Meyer, I. H. Minority stress and physical health among sexual minority individuals. Journal of Behavioral Medicine 38, 1–8 (2015). https://pubmed.ncbi.nlm.nih.gov/23864353/
+3.	Rosendale, N. et al. American Academy of Neurology members’ preparedness to treat sexual and gender minorities. Neurology 93, 159–166 (2019). https://pubmed.ncbi.nlm.nih.gov/31201295/
+4.	Nagata, J. M., Ganson, K. T., Tabler, J., Blashill, A. J. & Murray, S. B. Disparities across Sexual Orientation in Migraine among US Adults. JAMA Neurology vol. 78 117–118 (2021). https://pubmed.ncbi.nlm.nih.gov/32986081/
+5.	Pringsheim, T. & Gooren, L. Migraine prevalence in male to female transsexuals on hormone therapy. Neurology 63, 593–594 (2004). https://pubmed.ncbi.nlm.nih.gov/15304612/
+6.	Hammond, N. G. & Stinchcombe, A. Health Behaviors and Social Determinants of Migraine in a Canadian Population-Based Sample of Adults Aged 45-85 Years: Findings From the CLSA. Headache 59, 1547–1564 (2019). https://pubmed.ncbi.nlm.nih.gov/31373683/
+7.	Heslin, K. C. Explaining Disparities in Severe Headache and Migraine among Sexual Minority Adults in the United States, 2013-2018. Journal of Nervous and Mental Disease vol. 208 876–883 (2020). https://pubmed.ncbi.nlm.nih.gov/32815888/
+
+Additional snowballed validation refs from SnowGlobe search for Anson's refs:
+macgregor 2019: 10.1007/978-3-030-02988-3_9 - https://www.researchgate.net/publication/331092018_Transgender_and_Migraine_The_Brain_and_Machine_Eyes this is a book chapter, not MEDLINE-indexed
+Aloisi 2007: https://pubmed.ncbi.nlm.nih.gov/17379410/
+
+Snowballed refs from Sarah using SnowGlobe:
+Rosendale 2017: No relevant references.
+Rosendale 2021: 10.1001/jamaneurol.2020.5536
+Identified the following:
+Wang 2019: https://pubmed.ncbi.nlm.nih.gov/31879065/
+Kogachi: https://pubmed.ncbi.nlm.nih.gov/30844882/
+
+From embase:
+Katz-Wise: https://pubmed.ncbi.nlm.nih.gov/26557475/
+
+Cited in https://pubmed.ncbi.nlm.nih.gov/31879065/
+(WOS validation - not medline-indexed) 5. Hornby C., Mollan S.P., Mitchell J., et. al.: What do transgender patients teach us about idiopathic intracranial hypertension. Neuroophthalmology 2017; 41: pp. 326-329.
+(will need to hand-search - not in WOS, scopus, medline, embase) 6. Buchanan I., Hansen K., Bedolla J.: Idiopathic intracranial hypertension in a transgender male on hormone therapy. Arch Emerg Med Crit Care 2017; 2: pp. 1019.
+7. Sheets C., Peden M., Guy J.: Idiopathic intracranial hypertension in a transgender man. J Neuroophthalmol 2007; 27: pp. 313-315. https://pubmed.ncbi.nlm.nih.gov/18090572/
+(authors cited is wrong) 8. Kapoor. Secondary pseudotumour cerebri in a patient undergoing sexual reassignment therapy. Clin Exp Optom 2009; 92: pp. 449-453.
+9. Park S., Cheng C.P., Lim L.T., Gerber D.: Secondary intracranial hypertension from testosterone therapy in a transgender patient. Semin Ophthalmol 2014; 29: pp. 156-158. https://pubmed.ncbi.nlm.nih.gov/23758336/
+10. Weinlander E., Derani T., Cornblath W.T., De Lott L.B.: Intracranial hypertension in transgender patients. J Neuroophthalmol 2019; 39: pp. 232-233. https://pubmed.ncbi.nlm.nih.gov/30418325/
+Sigireddi R.R., Lyons L.J., Lee A.G.: Idiopathic intracranial hypertension in a transgender female. Can J Ophthalmol 2019; 54: pp. e35-e38. https://pubmed.ncbi.nlm.nih.gov/30851796/
+
+From Sarah:
+X 1. Hammond NG, Stinchcombe A. Health behaviors and social determinants of migraine in a Canadian population-based sample of adults aged 45-85 years: findings from the CLSA. Headache. 2019;59(9):1547-1564. 
+2. Rosendale N, Wong JO, Flatt JD, Whitaker E. Sexual and Gender Minority Health in Neurology: A Scoping Review. JAMA Neurology. Published online February 22, 2021. https://pubmed.ncbi.nlm.nih.gov/33616625/
+x 3. Pringsheim T, Gooren L. Migraine prevalence in male to female transsexuals on hormone therapy. Neurology. 2004;63(3):593-594.
+x 4. Rosendale N, Ostendorf T, Evans DA, et al. American Academy of Neurology members' preparedness to treat sexual and gender minorities. Neurology. 2019; 93(4):159-166.
+x 5. Rosendale N, Hinson HE. LGBTQI Health in Neurology. Presented at American Academy of Neurology Annual Meeting; April 21, 2021; virtual.
+x 6. Kaiser E. Managing Neurologic Disorders in Transgender and Gender Diverse Patients. Presented at American Academy of Neurology Annual Meeting; April 22, 2021; virtual.
+7. Rosendale N, Josephson SA. Residency Training: The need for an integrated diversity curriculum for neurology residency. Neurology. 2017;89:e284-e287. https://pubmed.ncbi.nlm.nih.gov/29229692/
