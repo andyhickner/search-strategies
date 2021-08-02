@@ -1,0 +1,23 @@
+validation sets:
+("2010856309" or "634311730" or "2004571446" or "629683516" or "2003913512" or "629412297" or "628695345" or "625666621" or "628536150" or "621393778" or "616100698" or "617713172" or "617799414" or "606187648" or "72062183" or "71920414" or "71835454" or "630692639" or "610922218" or "610465209" or "615421018").an.
+21 results	
+("32986081" or "15304612" or "31373683" or "32815888" or "17379410" or "31879065" or "18090572" or "19878199" or "23758336" or "30418325" or "30851796" or "30844882" or "33395320" or "33741810" or "26364263" or "30961782" or "27020963" or "25265092" or "28301425").pm.
+19 results
+
+1. (exp "headache and facial pain"/ or exp meningioma/ or exp brain pseudotumor/ or (aura$ or cephalalgi$ or cephalgi$ or cerebral venous thrombosis or (cluster ADJ2 (headache$ or neuralgia$)) or giant cell arteritis or headache$ or hemicrani$ or (intracranial ADJ2 (hypertension or hypotension)) or meningioma$ or migrain$ or pseudotumor cerebri$ or rcvs or reversible cerebral vasoconstriction syndrome or temporal arteritis or trigemin$ neuralgia$).ti,ab,kw.) AND (exp Bisexuality/ or exp gender dysphoria/ or exp gender identity/ or exp Homosexuality/ or exp sex reassignment/ or exp Sexual and Gender Minority/ or ((asexual$ not (parasit$ or reproduc$)) or (bisexual$ not (parasit$ or reproduc$)) or cross gender$ or gay$ or ((gender or sex) ADJ2 (change or dysphoria or identity or queer or reassignment or transition)) or homosexual$ or lesbian$ or men who have sex with men or msm or queer or same sex or same gender or (sexual ADJ2 (minorit$ or orientation)) or (trans ADJ2 (female$ or male$ or m?n or people or wom?n)) or transgender$ or transsexual$ or women who have sex with women or wsw).ti,ab,kw. or pre-exposure prophylaxis/ or (cimduo or descovy or (emtricitabine AND (tenofovir alafenamide)) or pre-exposure prophylaxi$ or (tenofovir disoproxil AND (emtricitabine or lamivudine)) or truvada).ti,ab,kw.)
+2. limit 1 to human
+3. limit 1 not animal
+4. 3 not 2
+5. 1 not 4
+780 results
+Retrieves 18/19 from the MEDLINE validation set (except for Kapoor, 19878199)
+Retrieves all 21 from Embase validation set 
+
+Remarks:
+used .ti,ab,kw. instead of .mp. - otherwise we end up with a very large number of 
+
+
+EMTREE:
+exp headache/ and trigeminus neuralgia/ falls under exp "headache and facial pain"/
+transgenderism/ falls under gender identity/
+transsexualism/ falls under gender dysphoria/

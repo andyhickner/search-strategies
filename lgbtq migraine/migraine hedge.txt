@@ -1,8 +1,6 @@
-exp Headache/ or exp Headache Disorders/ or exp Pseudotumor Cerebri/ or exp trigeminal neuralgia/ or (aura$ or cephalalgi$ or cephalgi$ or cluster neuralgia$ or headache$ or hemicrani$ or intracranial hypertension or migrain$ or pseudotumor cerebri$ or trigeminal neuralgia$).mp.
+exp Headache/ or exp Headache Disorders/ or exp meningioma/ or exp Pseudotumor Cerebri/ or exp trigeminal neuralgia/ or (aura$ or cephalalgi$ or cephalgi$ or cerebral venous thrombosis or (cluster adj2 (headache$ or neuralgia$)) or giant cell arteritis or headache$ or hemicrani$ or (intracranial adj2 (hypertension or hypotension)) or meningioma$ or migrain$ or pseudotumor cerebri$ or rcvs or reversible cerebral vasoconstriction syndrome or temporal arteritis or trigeminal neuralgia$).mp. 
 MeSH: migraine disorders/ is captured by exploding headache disorders/
 
-if we add meningioma:
-exp Headache/ or exp Headache Disorders/ or exp meningioma/ or exp Pseudotumor Cerebri/ or exp trigeminal neuralgia/ or (aura$ or cephalalgi$ or cephalgi$ or cluster neuralgia$ or headache$ or hemicrani$ or intracranial hypertension or meningioma$ or migrain$ or pseudotumor cerebri$ or trigeminal neuralgia$).mp.
 
 Additional notes:
 Recent Cochrane reviews: https://www-cochranelibrary-com.ezproxy.med.cornell.edu/cdsr/doi/10.1002/14651858.CD002286.pub3/appendices#CD002286-sec-0064

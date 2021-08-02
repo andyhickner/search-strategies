@@ -1,5 +1,6 @@
-("32986081" or "15304612" or "31373683" or "32815888" or "17379410" or "31879065" or "18090572" or "19878199" or "23758336" or "30418325" or "30851796" or "30844882").ui
-12 articles
+MEDLINE validation set:
+("32986081" or "15304612" or "31373683" or "32815888" or "17379410" or "31879065" or "18090572" or "19878199" or "23758336" or "30418325" or "30851796" or "30844882" or "33395320" or "33741810" or "26364263" or "30961782" or "27020963" or "25265092" or "28301425").ui
+19 articles
 
 Sources of MEDLINE and WOS validation sets: references provided by team; review of results from a preliminary search in Embase; snowballing references provided by team using SnowGlobe
 
