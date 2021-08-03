@@ -2,4 +2,8 @@
 embase: 871
 medline: 286
 WOS: 250
-total in endnote before dedup: 1472
+total in endnote before dedup: 1407
+191 dups automatically removed in endnote
+total in endnote post-dedup: 1124
+dedups removed by covidence: 45
+total remaining post-dedup in covidence: 1079
