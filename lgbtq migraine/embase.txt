@@ -4,18 +4,20 @@ validation sets:
 ("32986081" or "15304612" or "31373683" or "32815888" or "17379410" or "31879065" or "18090572" or "19878199" or "23758336" or "30418325" or "30851796" or "30844882" or "33395320" or "33741810" or "26364263" or "30961782" or "27020963" or "25265092" or "28301425").pm.
 19 results
 
-1. (exp "headache and facial pain"/ or exp meningioma/ or exp brain pseudotumor/ or (aura$ or cephalalgi$ or cephalgi$ or cerebral venous thrombosis or (cluster ADJ2 (headache$ or neuralgia$)) or giant cell arteritis or headache$ or hemicrani$ or (intracranial ADJ2 (hypertension or hypotension)) or meningioma$ or migrain$ or pseudotumor cerebri$ or rcvs or reversible cerebral vasoconstriction syndrome or temporal arteritis or trigemin$ neuralgia$).ti,ab,kw.) AND (exp Bisexuality/ or exp gender dysphoria/ or exp gender identity/ or exp Homosexuality/ or exp sex reassignment/ or exp Sexual and Gender Minority/ or ((asexual$ not (parasit$ or reproduc$)) or (bisexual$ not (parasit$ or reproduc$)) or cross gender$ or gay$ or ((gender or sex) ADJ2 (change or dysphoria or identity or queer or reassignment or transition)) or homosexual$ or lesbian$ or men who have sex with men or msm or queer or same sex or same gender or (sexual ADJ2 (minorit$ or orientation)) or (trans ADJ2 (female$ or male$ or m?n or people or wom?n)) or transgender$ or transsexual$ or women who have sex with women or wsw).ti,ab,kw. or pre-exposure prophylaxis/ or (cimduo or descovy or (emtricitabine AND (tenofovir alafenamide)) or pre-exposure prophylaxi$ or (tenofovir disoproxil AND (emtricitabine or lamivudine)) or truvada).ti,ab,kw.)
-2. limit 1 to human
-3. limit 1 not animal
-4. 3 not 2
-5. 1 not 4
-780 results
-Retrieves 18/19 from the MEDLINE validation set (except for Kapoor, 19878199)
+Embase <1974 to 2021 July 30> 
+
+1	(exp "headache and facial pain"/ or exp meningioma/ or exp brain pseudotumor/ or (aura or auras or cephalalgi$ or cephalgi$ or cerebral venous thrombosis or (cluster adj2 (headache$ or neuralgia$)) or giant cell arteritis or headache$ or hemicrani$ or (intracranial adj2 (hypertension or hypotension)) or meningioma$ or migrain$ or pseudotumo?r cerebri$ or rcvs or reversible cerebral vasoconstriction syndrome or temporal arteritis or trigemin$ neuralgia$).ti,ab,kw.) and (exp Bisexuality/ or exp gender dysphoria/ or exp gender identity/ or exp Homosexuality/ or exp sex reassignment/ or exp "Sexual and Gender Minority"/ or ((asexual$ not (parasit$ or reproduc$)) or (bisexual$ not (parasit$ or reproduc$)) or cross gender$ or gay$ or ((gender or sex) adj2 (change or dysphoria or identity or queer or reassignment or transition)) or homosexual$ or lesbian$ or men who have sex with men or msm or queer or same sex or same gender or (sexual adj2 (minorit$ or orientation)) or (trans adj2 (female$ or male$ or m?n or people or wom?n)) or transgender$ or transsexual$ or women who have sex with women or wsw).ti,ab,kw. or pre-exposure prophylaxis/ or (cimduo or descovy or (emtricitabine and tenofovir alafenamide) or pre-exposure prophylaxi$ or (tenofovir disoproxil and (emtricitabine or lamivudine)) or truvada).ti,ab,kw.)	874
+2	limit 1 to human	838
+3	limit 1 to animal	3
+4	3 not 2	3
+5	1 not 4	871
+871, saved in ovid as "lgbtq migraine 8-3-21 embase"
+Retrieves all 19 from the MEDLINE validation set (except for Kapoor, 19878199)
 Retrieves all 21 from Embase validation set 
 
 Remarks:
-used .ti,ab,kw. instead of .mp. - otherwise we end up with a very large number of 
-
+used .ti,ab,kw. instead of .mp. - otherwise we end up with double the number of articles
+aura or auras used instead of aura$ to avoid false-positives for fish studies (auratus/aurata)
 
 EMTREE:
 exp headache/ and trigeminus neuralgia/ falls under exp "headache and facial pain"/

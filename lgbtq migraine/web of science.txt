@@ -1,0 +1,16 @@
+validation set: 32986081 or 15304612 or 31373683 or 32815888 or 17379410 or 31879065 or 18090572 or 19878199 or 23758336 or 30418325 or 30851796 or 30844882 or 33395320 or 33741810 or 26364263 or 30961782 or 27020963 or 25265092 or 28301425 (PubMed ID)
+retrieves 17 articles
+
+Selected indexes:
+Book Citation Index – Science (BKCI-S), Conference Proceedings Citation Index – Science (CPCI-S), Conference Proceedings Citation Index – Social Science & Humanities (CPCI-SSH), Current Chemical Reactions (CCR-EXPANDED), Emerging Sources Citation Index (ESCI), Index Chemicus (IC), Science Citation Index Expanded (SCI-EXPANDED)
+
+https://www.webofscience.com/wos/woscc/summary/5198ea87-b2d1-4dc5-8d67-0711ef2b493d-030bce25/relevance/1
+
+1. TS=(asexual* OR bisexual* OR "cross gender*" OR gay* OR ((gender OR sex*) NEAR/2 (change OR dysphoria OR identity OR queer OR reassignment OR transition)) OR homosexual* OR lesbian* OR "men who have sex with men" OR msm OR queer OR "same sex" OR "same gender" OR (sexual NEAR/2 (minorit* OR orientation)) OR (trans NEAR/2 (female* OR male* OR m?n OR people OR wom?n)) OR transgender* OR transsexual* OR "women who have sex with women" OR wsw OR cimduo OR descovy OR (emtricitabine AND "tenofovir alafenamide") OR "pre-exposure prophylaxi*" OR ("tenofovir disoproxil" AND (emtricitabine OR lamivudine)) OR truvada)
+2. TS=(aura or auras OR cephalalgi* OR cephalgi* OR "cerebral venous thrombosis" OR (cluster NEAR/2 (headache* OR neuralgia*)) OR "giant cell arteritis" OR headache* OR hemicrani* OR (intracranial NEAR/2 (hypertension OR hypotension)) OR meningioma* OR migrain* OR "pseudotumo$r cerebri*" OR rcvs OR "reversible cerebral vasoconstriction syndrome" OR "temporal arteritis" OR "trigemin* neuralgia*")
+3. #1 AND #2
+250 results
+Retrieves all 17 in validation set
+
+Notes:
+Wildcards: https://images.webofknowledge.com/images/help/WOS/hs_wildcards.html
