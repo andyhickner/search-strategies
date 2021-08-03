@@ -1,0 +1,14 @@
+from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6145761/bin/jamainternmed-178-830-s001.pdf
+saved in Ovid as "chronic pain hedge 8-3-21"
+
+Ovid MEDLINE(R) ALL <1946 to August 02, 2021>
+1	chronic pain/	17239
+2	exp arthralgia/	14199
+3	exp arthritis/	271457
+4	exp back pain/	41150
+5	musculoskeletal pain/	3716
+6	exp osteoarthritis/	67969
+7	exp arthritis, rheumatoid/	117048
+8	(arthralgia or arthros?s or coxarthros?s or arthritides or arthritis or polyarthritides or polyarthritis or joint pain or back pain or backache or chronic pain or chronic non?cancer pain or cncp or musculoskeletal pain or osteoarthritis or OA or osteoporos?s or rheumat* or caplan* syndrome or Felty* Syndrome orsicca syndrome or sjogren* syndrome or still* disease).mp.	616788
+9	((ach* or dull or persistent or tingl* or split* or sharp or radiat* or crushing or suffering* or migratory or burn* or throb* or tender* or sore*) adj3 pain).mp.	31441
+10	or/1-9	663170

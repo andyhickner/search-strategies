@@ -1,0 +1,34 @@
+Embase <1974 to 2021 July 30> 
+saved as "chronic pain hedge 8-3-21 embase"
+
+Embase <1974 to 2021 July 30> 
+
+1	chronic pain/	66270
+2	exp arthralgia/	66081
+3	exp arthritis/	496165
+4	exp backache/	117675
+5	musculoskeletal pain/	12308
+6	exp osteoarthritis/	138610
+7	exp rheumatoid arthritis/	211635
+8	(arthralgia or arthros?s or coxarthros?s or arthritides or arthritis or polyarthritides or polyarthritis or joint pain or back pain or backache or chronic pain or chronic non?cancer pain or cncp or musculoskeletal pain or osteoarthritis or OA or osteoporos?s or rheumat* or caplan* syndrome or Felty* Syndrome orsicca syndrome or sjogren* syndrome or still* disease).mp.	997168
+9	((ach* or dull or persistent or tingl* or split* or sharp or radiat* or crushing or suffering* or migratory or burn* or throb* or tender* or sore*) adj3 pain).mp.	49104
+10	or/1-9	1084692
+11	exp outcome assessment/	614484
+12	exp patient-reported outcome/	32705
+13	(outcome$ adj3 (assess$ or measur$)).mp.	963351
+14	((patient-reported or patient reported) adj2 outcome$).mp.	51782
+15	or/11-14	998503
+16	10 and 15	70812
+17	cognitive therapy/	43665
+18	cognitive behavioral therapy/	16078
+19	"acceptance and commitment therapy"/	1715
+20	mindfulness/	10332
+21	meditation/	7975
+22	behavior therapy/	43412
+23	(CBT or "Acceptance and Commitment Therapy" or mindfulness or meditation).mp.	41034
+24	(cognit* adj2 (therap* or treatment* or training or educat* or strateg* or technique* or psychotherap* or program* or intervention* or analys* or method* or approach* or modif* or adapt*)).mp.	105222
+25	(behav* adj2 (therap* or treatment* or training or educat* or strateg* or technique* or psychotherap* or program* or intervention* or analys* or method* or approach* or modif* or adapt*)).mp.	227163
+26	(group adj (therap* or treat* or intervention*)).mp.	48598
+27	or/17-26	(saved as cbt hedge 8-3-21)
+28	10 and 15 and 27	2072 (saved as Reid and Scher 8-3-21)
+
