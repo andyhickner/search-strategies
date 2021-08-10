@@ -1,34 +1,77 @@
-Embase <1974 to 2021 July 30> 
-saved as "chronic pain hedge 8-3-21 embase"
+validation set:
+("26304771" or "22078217" or "26903081").pm.
 
-Embase <1974 to 2021 July 30> 
+Embase <1974 to 2021 August 09> 
 
-1	chronic pain/	66270
-2	exp arthralgia/	66081
-3	exp arthritis/	496165
-4	exp backache/	117675
-5	musculoskeletal pain/	12308
-6	exp osteoarthritis/	138610
-7	exp rheumatoid arthritis/	211635
-8	(arthralgia or arthros?s or coxarthros?s or arthritides or arthritis or polyarthritides or polyarthritis or joint pain or back pain or backache or chronic pain or chronic non?cancer pain or cncp or musculoskeletal pain or osteoarthritis or OA or osteoporos?s or rheumat* or caplan* syndrome or Felty* Syndrome orsicca syndrome or sjogren* syndrome or still* disease).mp.	997168
-9	((ach* or dull or persistent or tingl* or split* or sharp or radiat* or crushing or suffering* or migratory or burn* or throb* or tender* or sore*) adj3 pain).mp.	49104
-10	or/1-9	1084692
-11	exp outcome assessment/	614484
-12	exp patient-reported outcome/	32705
-13	(outcome$ adj3 (assess$ or measur$)).mp.	963351
-14	((patient-reported or patient reported) adj2 outcome$).mp.	51782
-15	or/11-14	998503
-16	10 and 15	70812
-17	cognitive therapy/	43665
-18	cognitive behavioral therapy/	16078
-19	"acceptance and commitment therapy"/	1715
-20	mindfulness/	10332
-21	meditation/	7975
-22	behavior therapy/	43412
-23	(CBT or "Acceptance and Commitment Therapy" or mindfulness or meditation).mp.	41034
-24	(cognit* adj2 (therap* or treatment* or training or educat* or strateg* or technique* or psychotherap* or program* or intervention* or analys* or method* or approach* or modif* or adapt*)).mp.	105222
-25	(behav* adj2 (therap* or treatment* or training or educat* or strateg* or technique* or psychotherap* or program* or intervention* or analys* or method* or approach* or modif* or adapt*)).mp.	227163
-26	(group adj (therap* or treat* or intervention*)).mp.	48598
-27	or/17-26	(saved as cbt hedge 8-3-21)
-28	10 and 15 and 27	2072 (saved as Reid and Scher 8-3-21)
+1	("26304771" or "22078217" or "26903081").pm.	3
+2	chronic pain/	66407
+3	exp arthralgia/	66272
+4	exp arthritis/	496890
+5	exp backache/	117890
+6	musculoskeletal pain/	12333
+7	exp osteoarthritis/	138849
+8	exp rheumatoid arthritis/	211916
+9	(arthralgia or arthros?s or coxarthros?s or arthritides or arthritis or polyarthritides or polyarthritis or joint pain or back pain or backache or chronic pain or chronic non?cancer pain or cncp or musculoskeletal pain or osteoarthritis or OA or osteoporos?s or rheumat* or caplan* syndrome or Felty* Syndrome orsicca syndrome or sjogren* syndrome or still* disease).mp.	998807
+10	((ach* or dull or persistent or tingl* or split* or sharp or radiat* or crushing or suffering* or migratory or burn* or throb* or tender* or sore*) adj3 pain).mp.	49192
+11	or/2-10	1086455
+12	cognitive therapy/	43664
+13	cognitive behavioral therapy/	16139
+14	"acceptance and commitment therapy"/	1726
+15	mindfulness/	10372
+16	meditation/	7990
+17	behavior therapy/	43445
+18	(CBT or "Acceptance and Commitment Therapy" or mindfulness or meditation).mp.	41128
+19	(cognit* adj2 (therap* or treatment* or training or educat* or strateg* or technique* or psychotherap* or program* or intervention* or analys* or method* or approach* or modif* or adapt*)).mp.	105404
+20	(behav* adj2 (therap* or treatment* or training or educat* or strateg* or technique* or psychotherap* or program* or intervention* or analys* or method* or approach* or modif* or adapt*)).mp.	227489
+21	(group adj (therap* or treat* or intervention*)).mp.	48657
+22	or/12-21	343963
+23	exp catastrophizing/	4051
+24	exp depression/	511661
+25	exp mood/	46100
+26	numeric pain rating scale/	10121
+27	exp outcome assessment/	616474
+28	exp pain assessment/	180459
+29	exp pain intensity/	20881
+30	exp patient-reported outcome/	33031
+31	exp quality of life/	542654
+32	"roland and morris disability questionnaire"/	18
+33	exp treatment outcome/	1831602
+34	exp wellbeing/	95090
+35	((assess$ or measur$ or outcome$) and (ability to function or acceptance or anxiety or catastrophizing belief$ or depress$ or emotional well?being or function$ or mindfulness or mood or pain or patient?reported or quality of life or "Roland and Morris" or self-efficacy)).mp.	3235477
+36	or/23-35	4982347
+37	11 and 22 and 36	9550
+38	37 not ((exp animal/ or nonhuman/) not exp human/)	9356
+39	1 and 38	3
+40	Clinical trial/	1010587
+41	Randomized controlled trial/	670163
+42	Randomization/	91549
+43	Single blind procedure/	43370
+44	Double blind procedure/	186356
+45	Crossover procedure/	67743
+46	Placebo/	369444
+47	Randomi?ed controlled trial$.tw.	263746
+48	Rct.tw.	43039
+49	Random allocation.tw.	2236
+50	Randomly allocated.tw.	39073
+51	Allocated randomly.tw.	2693
+52	(allocated adj2 random).tw.	909
+53	Single blind$.tw.	27376
+54	Double blind$.tw.	222029
+55	((treble or triple) adj blind$).tw.	1400
+56	Placebo$.tw.	329399
+57	Prospective study/	703355
+58	or/40-57	2413032
+59	Case study/	80170
+60	Case report.tw.	456981
+61	Abstract report/ or letter/	1205979
+62	or/59-61	1730947
+63	58 not 62	2354595
+64	38 and 63	3351
+65	1 and 64	2
+66	1 not 65	1
+
+Line 37: 9550 results, no RCT or species filters, retrieves all 3 in validation set. 
+Line 64: 3351 results WITH RCT and species filters. Alonso-Fernandez (2016) drops out but might be retrieved in MEDLINE. 
+
+ (saved as Reid and Scher 8-10-21 embase)
 

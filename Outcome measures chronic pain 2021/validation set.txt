@@ -1,0 +1,10 @@
+MEDLINE:
+("26304771" or "22078217" or "26903081").ui. 
+
+
+From Clara:
+- Alonso-Fernández M, López-López A, Losada A, González JL, Wetherell JL. Acceptance and Commitment Therapy and Selective Optimization with Compensation for Institutionalized Older People with Chronic Pain. Pain Med. 2016 Feb;17(2):264-77. doi: 10.1111/pme.12885. PMID: 26304771.
+- Andersson G, Johansson C, Nordlander A, Asmundson GJ. Chronic pain in older adults: a controlled pilot trial of a brief cognitive-behavioural group treatment. Behav Cogn Psychother. 2012 Mar;40(2):239-44. doi: 10.1017/S1352465811000646. Epub 2011 Nov 14. PMID: 22078217.
+- Morone NE, Greco CM, Moore CG, Rollman BL, Lane B, Morrow LA, Glynn NW, Weiner DK. A Mind-Body Program for Older Adults With Chronic Low Back Pain: A Randomized Clinical Trial. JAMA Intern Med. 2016 Mar;176(3):329-37. doi: 10.1001/jamainternmed.2015.8033. PMID: 26903081; PMCID: PMC6361386.
+https://pubmed.ncbi.nlm.nih.gov/26903081/
+

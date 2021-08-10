@@ -1,3 +1,13 @@
 See Table 2 of 2018 meta-analysis:  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6145761/table/ioi180019t2/
 
-MeSH: Patient Reported Outcome Measures
+MeSH: 
+pain measurement/
+Patient Reported Outcome Measures/
+quality of life/
+therapy.fs
+treatment outcome/
+
+
+Miriam Alonso-Fernández, Andersson:
+((assess$ or (effect$ AND treat$) or measur$ or outcome$) and (ability to function or acceptance or anxiety or catastrophizing belief$ or depression or depressive or emotional well being or function$ or mindfulness or mood or pain or quality of life or "Roland and Morris" or self-efficacy).mp.
+

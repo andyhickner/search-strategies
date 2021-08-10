@@ -1,0 +1,25 @@
+RCTs: https://tools.ovid.com/ovidtools/expertsearches.html
+Clinical trial/
+Randomized controlled trial/
+Randomization/
+Single blind procedure/
+Double blind procedure/
+Crossover procedure/
+Placebo/
+Randomi?ed controlled trial$.tw.
+Rct.tw.
+Random allocation.tw.
+Randomly allocated.tw.
+Allocated randomly.tw.
+(allocated adj2 random).tw.
+Single blind$.tw.
+Double blind$.tw.
+((treble or triple) adj (blind$)).tw.
+Placebo$.tw.
+Prospective study/
+Or/1-18
+Case study/
+Case report.tw.
+Abstract report/ or letter/
+Or/20-22
+19 not 23
