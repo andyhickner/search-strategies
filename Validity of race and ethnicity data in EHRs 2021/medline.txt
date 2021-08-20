@@ -1,0 +1,24 @@
+concepts:
+
+race and ethnicity of patients:
+exp Continental population groups/
+exp ethnic groups/
+kw: ethnic$, race, racial
+
+administrative and EHR data:
+*databases, factual/
+datasets as topic/
+exp electronic Health Records/
+Hospital Information Systems/
+exp Medical records/
+Medicare/
+exp Registries/
+kw: administrative data, Biomedical Translational Research Information System, btris, CAHPS, dataset$, electronic adj2 (health record$ or medical record$), ehr, emr, hcup, "Healthcare Cost and Utilization Project," Medicare, ((observational or health) adj3 database$), registr$, State Inpatient Databases, "Surveillance, Epidemiology, and End Results," (seer adj2 (program or data)), Survey of Healthcare Experiences of Patients, American Cancer Society and ("Studies of Cancer Survivors" or scs), VA Corporate Data Warehouse, VA Defense Identity Repository, (veterans and (cdw or shep or vadir))
+
+self-reported data:
+data accuracy/
+Self Report/
+kw: agreement, categoriz$, (accura$ or collect$ or complete$ or quality or incomplete or inaccurate or missing$ or quality or standardize$ or valid$ or unknown or unreliable or unusable) adj4 (data$ or ethnic$ or race or racial or value$), concordance$, data source precedence, demographic, describe$ or description$, difference-in-differences, discrepanc$, identif$, kappa, misclassification, "statistics & numerical data".fs, response$, self-classif$, self-record$, self-report$, under-classif$
+
+US: 
+United States/

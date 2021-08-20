@@ -1,0 +1,15 @@
+embase validation:
+("26172936" or "26147864" or "22515953" or "31329882" or "30392148" or "31603222" or "29135782" or "17219013" or "31365089").pm.
+(9 total)
+
+Embase <1974 to 2021 August 19> 
+
+1	exp ancestry group/ or ethnic difference/ or ethnic group/ or ethnicity/ or race/ or race difference/ or (ethnic$ or race or racial).mp.	688015
+2	cancer registry/ or exp data base/ or exp disease registry/ or exp electronic health record/ or exp medical record/ or medicare/ or exp register/ or (administrative data or Biomedical Translational Research Information System or btris or CAHPS or dataset$ or (electronic adj2 (health record$ or medical record$)) or ehr or emr or hcup or "Healthcare Cost and Utilization Project" or Medicare or ((observational or health) adj3 database$) or registr$ or State Inpatient Databases or "Surveillance, Epidemiology, and End Results" or (seer adj2 (program or data)) or Survey of Healthcare Experiences of Patients or (American Cancer Society and ("Studies of Cancer Survivors" or scs)) or VA Corporate Data Warehouse or VA Defense Identity Repository or (veterans and (cdw or shep or vadir))).mp.	1414851
+3	self report/ or (((agreement or accura$ or categoriz$ or complete$ or concordance$ or data source precedence or discrepanc$ or incomplete or inaccurate or kappa or misclassification or missing$ or quality or self-classif$ or self-record$ or self-report$ or standardize$ or valid$ or under-classif$ or unknown or unreliable or unusable) adj4 (data$ or ethnic$ or race or racial)) or difference-in-differences).mp.	442561
+4	1 and 2 and 3	7349
+//retrieves all 9
+saved as "validity of race and ethnicity embase 8-20-21"
+
+US: 
+Can't use united states.mp as a keyword because you lose a lot of included articles that way. 

@@ -1,0 +1,48 @@
+embase validation:
+("26172936" or "26147864" or "22515953" or "27631381" or "31329882" or "30392148" or "31603222" or "29135782" or "17219013" or "31365089").pm.
+(12 total)
+
+Baker ("16449590") should not be used for validation as it does not include a comparison to with EHR/administrative data.
+ 
+ DOIs:
+ 10.2105/AJPH.2005.062620
+10.1097/MLR.0000000000000409
+10.1097/MLR.0000000000000392
+10.1111/j.1475-6773.2012.01411.x
+10.1007/s40615-016-0283-3
+10.1093/jamia/ocz040
+10.1007/s10552-018-1091-3
+10.1093/milmed/usz322
+10.1097/MLR.0000000000000608
+10.1007/s10552-006-0089-4
+10.1093/jamia/ocz113
+(13 total)
+ 
+ 1.
+   Baker DW, Cameron KA, Feinglass J, Thompson JA, Georgas P, Foster S, et al. A system for rapidly and accurately collecting patients’ race and ethnicity. Am J Public Health. 2006 Mar;96(3):532–7.
+   2.
+   Kressin NR. Race/ethnicity identification: vital for disparities research, quality improvement, and much more than “meets the eye”. Med Care. 2015 Aug;53(8):663–5.
+   3.
+   Chakkalakal RJ, Green JC, Krumholz HM, Nallamothu BK. Standardized data collection practices and the racial/ethnic distribution of hospitalized patients. Med Care. 2015 Aug;53(8):666–72.
+   4.
+   Zaslavsky AM, Ayanian JZ, Zaborski LB. The validity of race and ethnicity in enrollment data for Medicare beneficiaries. Health Serv Res. 2012 Jun;47(3 Pt 2):1300–21.
+   5.
+   Sholle ET, Pinheiro LC, Adekkanattu P, Davila MA, Johnson SB, Pathak J, et al. Underserved populations with missing race ethnicity data differ significantly from those with structured race/ethnicity documentation. J Am Med Inform Assoc. 2019 Aug 1;26(8–9):722–9.
+   6.
+   ProQuestDocuments-2021-08-17 (1).pdf.
+   7.
+   Magaña López M, Bevans M, Wehrlen L, Yang L, Wallen GR. Discrepancies in race and ethnicity documentation: a potential barrier in identifying racial and ethnic disparities. J Racial Ethn Health Disparities. 2016 Sep 8;
+   8.
+   Layne TM, Ferrucci LM, Jones BA, Smith T, Gonsalves L, Cartmel B. Concordance of cancer registry and self-reported race, ethnicity, and cancer type: a report from the American Cancer Society’s studies of cancer survivors. Cancer Causes Control. 2019 Jan;30(1):21–9.
+   9.
+   Hernandez SE, Sylling PW, Mor MK, Fine MJ, Nelson KM, Wong ES, et al. Developing an algorithm for combining race and ethnicity data sources in the veterans health administration. Mil Med. 2020 Mar 2;185(3–4):e495–500.
+   10.
+   Filice CE, Joynt KE. Examining race and ethnicity information in medicare administrative data. Med Care. 2017 Dec;55(12):e170–6.
+   11.
+   Clegg LX, Reichman ME, Hankey BF, Miller BA, Lin YD, Johnson NJ, et al. Quality of race, Hispanic ethnicity, and immigrant status in population-based cancer registry data: implications for health disparity studies. Cancer Causes Control. 2007 Mar;18(2):177–87.
+   12.
+   Lee SJC, Grobe JE, Tiro JA. Assessing race and ethnicity data quality across cancer registries and EMRs in two hospitals. J Am Med Inform Assoc. 2016 May;23(3):627–34.
+   13.
+   Jarrín OF, Nyandege AN, Grafova IB, Dong X, Lin H. Validity of Race and Ethnicity Codes in Medicare Administrative Data Compared With Gold-standard Self-reported Race Collected During Routine Home Health Care Visits. Med Care. 2020 Jan;58(1):e1–8.
+   14.
+   Polubriaginof FCG, Ryan P, Salmasian H, Shapiro AW, Perotte A, Safford MM, et al. Challenges with quality of race and ethnicity data in observational databases. J Am Med Inform Assoc. 2019 Aug 1;26(8–9):730–6.
