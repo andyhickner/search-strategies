@@ -1,0 +1,13 @@
+validation set: 32986081 or 15304612 or 31373683 or 32815888 or 17379410 or 31879065 or 18090572 or 19878199 or 23758336 or 30418325 or 30851796 or 30844882 or 33395320 or 33741810 or 26364263 or 30961782 or 27020963 or 25265092 or 28301425 (PubMed ID)
+retrieves 17 articles
+
+Web of Science Core Collection, Editions = A&HCI, BKCI-SSH, BKCI-S, CCR-EXPANDED, ESCI, IC, CPCI-SSH, CPCI-S, SCI-EXPANDED, SSCI
+
+https://www.webofscience.com/wos/woscc/summary/ee02f531-9d12-4619-93ac-d6a25a5ee760-069dc57f/relevance/1
+
+TS=(asexual* OR bisexual* OR "cross gender*" OR gay* OR ((gender OR sex*) NEAR/2 (change OR dysphoria OR identity OR queer OR reassignment OR transition)) OR homosexual* OR lesbian* OR "men who have sex with men" OR msm OR queer OR "same sex" OR "same gender" OR (sexual NEAR/2 (minorit* OR orientation)) OR (trans NEAR/2 (female* OR male* OR m?n OR people OR wom?n)) OR transgender* OR transsexual* OR "women who have sex with women" OR wsw) AND TS=(aura or auras OR cephalalgi* OR cephalgi* OR "cerebral venous thrombosis" OR (cluster NEAR/2 (headache* OR neuralgia*)) OR "giant cell arteritis" OR headache* OR hemicrani* OR (intracranial NEAR/2 (hypertension OR hypotension)) OR meningioma* OR migrain* OR "pseudotumo$r cerebri*" OR rcvs OR "reversible cerebral vasoconstriction syndrome" OR "temporal arteritis" OR "trigemin* neuralgia*")
+247 results
+Retrieves all 17 in validation set
+
+Notes:
+Wildcards: https://images.webofknowledge.com/images/help/WOS/hs_wildcards.html

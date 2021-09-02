@@ -1,0 +1,8 @@
+9.2.21
+exported the following:
+ovid medline: 244
+embase: 574
+web of science: 247
+total, endnote pre-deduplication: 1065
+total, endnote deduplicated: 810 after removal of 255 duplicate references
+Covidence deduplicated: 773 after removal of 37 duplicates

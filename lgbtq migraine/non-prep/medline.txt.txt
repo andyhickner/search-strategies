@@ -1,0 +1,14 @@
+Ovid MEDLINE(R) ALL 1946 to August 02, 2021
+saved as "lgbtq migraine final 9-2-21"
+
+Ovid MEDLINE(R) ALL <1946 to September 01, 2021>
+
+1	(exp Headache/ or exp Headache Disorders/ or exp meningioma/ or exp Pseudotumor Cerebri/ or exp trigeminal neuralgia/ or (aura or auras or cephalalgi$ or cephalgi$ or cerebral venous thrombosis or (cluster adj2 (headache$ or neuralgia$)) or giant cell arteritis or headache$ or hemicrani$ or (intracranial adj2 (hypertension or hypotension)) or meningioma$ or migrain$ or pseudotumor cerebri$ or rcvs or reversible cerebral vasoconstriction syndrome or temporal arteritis or trigemin$ neuralgia$).mp.) and (exp Bisexuality/ or exp gender identity/ or health services for transgender persons/ or exp Homosexuality/ or exp sex reassignment surgery/ or exp sex reassignment procedures/ or exp "Sexual and Gender Minorities"/ or exp transsexualism/ or (asexual$ or bisexual$ or cross gender$ or gay$ or ((gender or sex) adj2 (change or dysphoria or identity or queer or reassignment or transition)) or homosexual$ or lesbian$ or men who have sex with men or msm or queer or same sex or same gender or (sexual adj2 (minorit$ or orientation)) or (trans adj2 (female$ or male$ or man or men or people or wom?n)) or transgender$ or transsexual$ or women who have sex with women or wsw).mp.)	244
+
+validation set:
+6	(32986081 or 15304612 or 31373683 or 32815888 or 17379410 or 31879065 or 18090572 or 19878199 or 23758336 or 30418325 or 30851796 or 30844882 or 33395320 or 33741810 or 26364263 or 30961782 or 27020963 or 25265092 or 28301425).ui.	19
+
+244 results; retrieved all 19 in validation set
+
+Remarks
+aura or auras used instead of aura$ to avoid false-positives for fish studies (auratusaurata)
