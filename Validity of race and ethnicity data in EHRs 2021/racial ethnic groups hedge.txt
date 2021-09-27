@@ -1,0 +1,23 @@
+Embase:
+exp ancestry group/ or exp ethnic difference/ or exp ethnic group/ or exp ethnicity/ or exp race/ or exp race difference/ or (ethnic$ or race or racial or ((african or asian or black or caucasian or european or native or white) adj2 american$) or african-american$ or afro-american$ or (american adj2 (black$ or indian$ or native$ or negro$)) or amerindian or biracial or euro-american$ or euroamerican$ or hispanic or Kanaka Maoli or latino or multiracial or native hawaiian$ or pacific islander$).mp.
+
+african american
+european american
+hispanic
+latino
+native american
+native hawaiian
+pacific islander$
+
+exp ancestry group/ captures the following:
+African American/ (under exp Black person/)
+American Indian/ (under exp indigenous people/)
+Asian American/
+European American (under exp Caucasian/)
+Hispanic/
+multiracial person/
+Pacific Islander/
+
+exp ethnic group/ captures the following:
+exp native hawaiian/
+
