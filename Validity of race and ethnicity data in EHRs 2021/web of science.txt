@@ -1,0 +1,18 @@
+Web of Science Core Collection
+Editions = A&HCI, BKCI-SSH, BKCI-S, CCR-EXPANDED, ESCI, IC, CPCI-SSH, CPCI-S, SCI-EXPANDED, SSCI
+searched 9.30.21:
+
+1	TS=(ethnic? OR race OR racial OR ((african OR asian OR black OR caucasian OR european OR native OR white) NEAR/2 american?) OR african-american? OR afro-american? OR (american NEAR/2 (black? OR indian? OR native? OR negro*)) OR amerindian OR biracial OR euro-american? OR euroamerican? OR hispanic OR "Kanaka Maoli" OR latino OR multiracial OR "native hawaiian?" OR "pacific islander?")
+2	TS=((electronic NEAR/2 ("health record*" OR "medical record*")) OR ehr OR emr OR hcup OR "Healthcare Cost and Utilization Project" OR Medicare OR "National Cancer Database" OR ncdb OR ((observational OR health) NEAR/3 database?) OR registr* OR "State Inpatient Databases" OR "Surveillance, Epidemiology, and End Results" OR (seer NEAR/2 (program OR data)) OR "Survey of Healthcare Experiences of Patients" OR ("American Cancer Society" AND ("Studies of Cancer Survivors" OR scs)) OR "VA Corporate Data Warehouse" OR "VA Defense Identity Repository" OR (veterans AND (cdw OR shep OR vadir)))
+3	TS=(((agreement OR accura* OR categoriz* OR complete* OR concordance? OR "data source precedence" OR discrepanc* OR identif* OR incomplete OR inaccurate OR kappa OR misclassification OR missing* OR quality OR self-classif* OR self-record* OR self-report* OR standardiz* OR valid* OR under-classif* OR unknown OR unreliable OR unusable) NEAR/3 (ethnic* OR race OR racial)) OR difference-in-differences)
+#1 and #2 and #3	958
+validation:
+  PMID=(26147864  or  22515953  or  31329882  or  30392148  or  31603222  or  29135782  or  17219013  or  31365089  or  33241548)
+  9 articles
+
+https://www.webofscience.com/wos/woscc/summary/a73e1305-217e-4350-8565-daa149c508a2-0acb1963/relevance/1
+
+Remarks:
+Following PMIDs removed from validation set:
+26172936: no abstract, no keywords in line 2 
+16449590: does not include a comparison to with EHR/administrative data so no keywords from line 2.

@@ -1,0 +1,7 @@
+9.30.21
+medline: 2142
+embase: 5769
+WOS: 958
+imported to Covidence: 8869
+Duplicates automatically removed by Covidence: 820
+Total after automatic deduplication: 8049

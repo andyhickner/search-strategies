@@ -1,3 +1,22 @@
+Ovid MEDLINE(R) ALL <1946 to September 29, 2021>
+
+1	exp Population Groups/ or (ethnic$ or race or racial or ((african or asian or black or caucasian or european or native or white) adj2 american$) or african-american$ or afro-american$ or (american adj2 (black$ or indian$ or native$ or negro$)) or amerindian or biracial or euro-american$ or euroamerican$ or hispanic or Kanaka Maoli or latino or multiracial or native hawaiian$ or pacific islander$).mp.	525591
+2	exp medical records/ or exp medicare/ or exp registries/ or (administrative data or all of us or Biomedical Translational Research Information System or btris or CAHPS or (collect$ adj3 data) or dataset$ or (electronic adj2 (health record$ or medical record$)) or ehr or emr or hcup or "Healthcare Cost and Utilization Project" or Medicare or National Cancer Database or ncdb or ((observational or health) adj3 database$) or registr$ or State Inpatient Databases or "Surveillance, Epidemiology, and End Results" or (seer adj2 (program or data)) or Survey of Healthcare Experiences of Patients or (American Cancer Society and ("Studies of Cancer Survivors" or scs)) or VA Corporate Data Warehouse or VA Defense Identity Repository or (veterans and (cdw or shep or vadir))).mp.	1163090
+3	self report/ or (((agreement or accura$ or categoriz$ or complete$ or concordance$ or data source precedence or discrepanc$ or identif$ or incomplete or inaccurate or kappa or misclassification or missing$ or quality or self-classif$ or self-record$ or self-report$ or standardize$ or valid$ or under-classif$ or unknown or unreliable or unusable) adj3 (ethnic$ or race or racial)) or difference-in-differences).mp.	48389
+4	1 and 2 and 3	2142
+
+validate:
+5	("26172936" or "26147864" or "22515953" or "31329882" or "30392148" or "31603222" or "29135782" or "17219013" or "31365089" or "33241548" or "16449590").ui.	11
+
+MEDLINE validation: ("26172936" or "26147864" or "22515953" or "31329882" or "30392148" or "31603222" or "29135782" or "17219013" or "31365089" or "33241548" or "16449590").ui.
+11 results
+
+
+Remarks:
+
+exp Population Groups/ retrieves ethnic groups/ and continental population groups/
+exp Medical Records/ retrieves electronic health records/
+exp registries retrieves seer program/
 concepts:
 
 race and ethnicity of patients:

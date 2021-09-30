@@ -1,6 +1,8 @@
 embase validation:
 ("26172936" or "26147864" or "22515953" or "27631381" or "31329882" or "30392148" or "31603222" or "29135782" or "17219013" or "31365089").pm.
-(12 total)
+(10 total)
+
+MEDLINE validation: ("26172936" or "26147864" or "22515953" or "31329882" or "30392148" or "31603222" or "29135782" or "17219013" or "31365089" or "33241548" or "16449590").ui.
 
 Baker ("16449590") should not be used for validation as it does not include a comparison to with EHR/administrative data.
  

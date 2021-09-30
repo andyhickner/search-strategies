@@ -1,20 +1,19 @@
-Narrower search:
-embase validation:
-validation set: ("26172936" or "26147864" or "22515953" or "31329882" or "30392148" or "31603222" or "29135782" or "17219013" or "31365089" or "33241548" or "16449590").pm. or "635823922".an.
-(12 total)
+Embase <1974 to 2021 September 29>
 
-Embase <1974 to 2021 September 01>
+1	exp ancestry group/ or exp ethnic difference/ or exp ethnic group/ or exp ethnicity/ or exp race/ or exp race difference/ or (ethnic$ or race or racial or ((african or asian or black or caucasian or european or native or white) adj2 american$) or african-american$ or afro-american$ or (american adj2 (black$ or indian$ or native$ or negro$)) or amerindian or biracial or euro-american$ or euroamerican$ or hispanic or Kanaka Maoli or latino or multiracial or native hawaiian$ or pacific islander$).mp.	801698
+2	cancer registry/ or exp data base/ or exp disease registry/ or exp electronic health record/ or exp medical record/ or exp medicare/ or exp register/ or (administrative data or all of us or Biomedical Translational Research Information System or btris or CAHPS or (collect$ adj3 data) or dataset$ or (electronic adj2 (health record$ or medical record$)) or ehr or emr or hcup or "Healthcare Cost and Utilization Project" or Medicare or National Cancer Database or ncdb or ((observational or health) adj3 database$) or registr$ or State Inpatient Databases or "Surveillance, Epidemiology, and End Results" or (seer adj2 (program or data)) or Survey of Healthcare Experiences of Patients or (American Cancer Society and ("Studies of Cancer Survivors" or scs)) or VA Corporate Data Warehouse or VA Defense Identity Repository or (veterans and (cdw or shep or vadir))).mp.	1926858
+3	self report/ or (((agreement or accura$ or categoriz$ or complete$ or concordance$ or data source precedence or discrepanc$ or identif$ or incomplete or inaccurate or kappa or misclassification or missing$ or quality or self-classif$ or self-record$ or self-report$ or standardize$ or valid$ or under-classif$ or unknown or unreliable or unusable) adj3 (ethnic$ or race or racial)) or difference-in-differences).mp.	147299
+4	1 and 2 and 3	5769
+saved as "validity of race and ethnicity embase 9-30-21"
 
-1	exp ancestry group/ or exp ethnic difference/ or exp ethnic group/ or exp ethnicity/ or exp race/ or exp race difference/ or (ethnic$ or race or racial).mp.	690282
-2	cancer registry/ or exp data base/ or exp disease registry/ or exp electronic health record/ or exp medical record/ or medicare/ or exp register/ or (administrative data or all of us or Biomedical Translational Research Information System or btris or CAHPS or (collect$ adj3 data) or dataset$ or (electronic adj2 (health record$ or medical record$)) or ehr or emr or hcup or "Healthcare Cost and Utilization Project" or Medicare or National Cancer Database or ncdb or ((observational or health) adj3 database$) or registr$ or State Inpatient Databases or "Surveillance, Epidemiology, and End Results" or (seer adj2 (program or data)) or Survey of Healthcare Experiences of Patients or (American Cancer Society and ("Studies of Cancer Survivors" or scs)) or VA Corporate Data Warehouse or VA Defense Identity Repository or (veterans and (cdw or shep or vadir))).mp.	1912537
-3	self report/ or (((agreement or accura$ or categoriz$ or complete$ or concordance$ or data source precedence or discrepanc$ or incomplete or inaccurate or kappa or misclassification or missing$ or quality or self-classif$ or self-record$ or self-report$ or standardize$ or valid$ or under-classif$ or unknown or unreliable or unusable) adj3 (ethnic$ or race or racial)) or difference-in-differences).mp.	141619
-4	1 and 2 and 3	4419
-saved as "validity of race and ethnicity embase 9-2-21"
+validation:
+5	("26172936" or "26147864" or "22515953" or "31329882" or "30392148" or "31603222" or "29135782" or "17219013" or "31365089" or "33241548" or "16449590").pm. or "635823922".an.	12
+6	4 and 5	12
 
 US: 
-Can't use united states.mp as a keyword because you lose a lot of included articles that way. 
+Can't use united states.mp as a keyword because you lose a lot of the validation set that way. 
 
-Broader search (includes solutions such as NLP):
+The following broader search includes keywords for some suggested solutions such as NLP and text mining, but was not used in the final strategy:
 saved as "validity of race and ethnicity embase with solutions"
 Embase <1974 to 2021 September 01>
 
