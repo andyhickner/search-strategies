@@ -1,6 +1,39 @@
+This file reports the search methods for the review using the PRISMA extension for searching (Rethlefsen 2021).
+
+Information Sources and Methods
+MEDLINE (Ovid), Embase (Ovid), the Cochrane Library (Wiley), and Web of Science Core Collection (all editions) (Clarivate) were searched. The study registry Cochrane Central Register of Controlled Trials was included as part of the Cochrane Library search. Citation searching was conducted on August 13, 2021 examining both cited and citing references. Citation searching was initially conducted using SnowGlobe, with Scopus (Elsevier) used to retrieve the complete references.
+
+Search strategies
+MEDLINE (Ovid): 
+isthmusectom$.mp. and (exp Thyroid Neoplasms/ or exp Adenocarcinoma, Follicular/ or exp Thyroid Cancer, Papillary/ or (follicular adenocarcinoma$ or (((differentiated or papillary or follicular or nonmedullary) adj3 thyroid) adj3 (adenocarcinoma$ or cancer$ or carcinoma$ or incidentaloma or neoplasm$ or nodule$ or tumo?r$))).mp.)
+
+Embase (Ovid):
+isthmusectom$.mp. AND (exp differentiated thyroid cancer/ or exp Thyroid tumor/ OR exp adenocarcinoma/ OR (follicular adenocarcinoma$ OR (((differentiated OR papillary OR follicular OR nonmedullary) ADJ3 thyroid) ADJ3 (adenocarcinoma$ OR cancer$ OR carcinoma$ or incidentaloma or neoplasm$ or nodule$ or tumo?r$))).mp.)
+
+The Cochrane Library (Wiley):
+isthmusectom?:ti,ab,kw AND ([mh "Thyroid Neoplasms"] OR [mh "Adenocarcinoma, Follicular"] OR [mh "Thyroid Cancer, Papillary"] OR (("follicular" NEAR/2 adenocarcinoma?) OR (((differentiated OR papillary OR follicular OR nonmedullary) NEAR/3 thyroid) NEAR/3 (adenocarcinoma? OR cancer? OR carcinoma? OR incidentaloma OR neoplasm? OR nodule? OR tumo?r?))):ti,ab,kw)
+
+Web of Science Core Collection (all editions) (Wiley):
+TS=(isthmusectom* AND (("follicular adenocarcinoma*" OR (((differentiated OR papillary OR follicular OR nonmedullary) NEAR/3 thyroid) NEAR/3 (adenocarcinoma* OR cancer* OR carcinoma* OR incidentaloma OR neoplasm* OR nodule* OR tumo*r*)))))
+
+No limits or published search filters were used. The search was last updated on June 7, 2021.
+
+Peer review
+The search strategy was peer reviewed by Judy Stribling on June 1, 2021.
+
+Managing records
+The total number of records from each database were as follows:
+MEDLINE: 113
+Embase: 169
+The Cochrane Library: 1
+Web of Science: 51
+334 records were imported into Covidence; 120 duplicate records were automatically removed upon import. During citation searching, 203 cited and cited references were uploaded to Covidence; 17 duplicate records were automatically removed upon import.
+
+
+Discussion of search methods:
 Ovid MEDLINE and Embase were searched in order to identify relevant published literature. The Cochrane Library was searched in order to identify any unpublished trials indexed in the Cochrane CENTRAL trials register. Web of Science Core Collection was searched in order to identify studies that had been presented as meeting abstracts but not yet published as a full-length journal article. Web of Science was searched rather than Scopus based on recommendations in Bramer (2017).
 
-The strategy consists of 2 concepts: thyroid isthmusectomy and well-differentiated thyroid carcinoma. Due to the small number of results retrieved, I considered eliminating the hedge for thyroid carcinoma and searching only for isthmusectomy; however, this added a large number of studies discussing horseshoe kidney instead of thyroid. 
+The strategy consists of 2 concepts: thyroid isthmusectomy and well-differentiated thyroid carcinoma. Due to the small number of results retrieved, the authors considered eliminating the hedge for thyroid carcinoma and searching only for isthmusectomy; however, this added a large number of studies discussing horseshoe kidney instead of thyroid. 
 
 There is no MeSH corresponding to well-differentiated thyroid carcinoma, and the relevant MeSH fall into different branches of the tree. Controlled vocabulary terms were exploded whenever possible. 
 
@@ -8,3 +41,4 @@ Additional keywords (e.g. nonmedullary, incidentaloma) were identified by examin
 
 References:
 Bramer WM, Rethlefsen ML, Kleijnen J, Franco OH. Optimal database combinations for literature searches in systematic reviews: a prospective exploratory study. Syst Rev. 2017;6(1):245. Published 2017 Dec 6. doi:10.1186/s13643-017-0644-y
+Rethlefsen ML, Kirtley S, Waffenschmidt S, Ayala AP, Moher D, Page MJ, Koffel JB; PRISMA-S Group. PRISMA-S: an extension to the PRISMA Statement for Reporting Literature Searches in Systematic Reviews. Syst Rev. 2021 Jan 26;10(1):39. doi: 10.1186/s13643-020-01542-z. PMID: 33499930; PMCID: PMC7839230.

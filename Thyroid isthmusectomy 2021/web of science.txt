@@ -1,6 +1,7 @@
 https://sr-accelerator.com/#/polyglot
 
-isthmusectom* AND (("follicular adenocarcinoma*" OR (((differentiated OR papillary OR follicular OR nonmedullary) NEAR/3 thyroid) NEAR/3 (adenocarcinoma* OR cancer* OR carcinoma* OR incidentaloma OR neoplasm* OR nodule* OR tumo*r*))))
+TS=(isthmusectom* AND (("follicular adenocarcinoma*" OR (((differentiated OR papillary OR follicular OR nonmedullary) NEAR/3 thyroid) NEAR/3 (adenocarcinoma* OR cancer* OR carcinoma* OR incidentaloma OR neoplasm* OR nodule* OR tumo*r*)))))
+https://www.webofscience.com/wos/woscc/summary/e8ab3f79-8c6e-413a-a068-d5e241ab23a9-0faa96e4/relevance/1
 
 validation set: 7
 PMID=(20882418 or 33768393 or 31589005 or 17156579) or DO=(10.1017/S0022215106005238 or 10.1016/j.amjsurg.2017.09.008 or 10.12659/MSM.927407 or 10.1080/08941939.2020.1749329) 
