@@ -1,0 +1,26 @@
+Ovid MEDLINE(R) ALL <1946 to November 08, 2021>
+
+1	clinical skills.mp. or exp Clinical Competence/	103074
+2	assess$.mp.	3675273
+3	artificial intelligence.mp. or exp Artificial Intelligence/	136650
+4	1 and 2 and 3	295
+
+Add MeSH:
+educational measurement
+
+AI:
+computational intelligence
+machine intelligence
+computer reasoning
+computer vision system$
+machine learning
+deep learning
+Computer Heuristic$
+Expert System$
+Fuzzy Logic
+Knowledge Base$
+Biological Ontolog$
+Machine Learning
+Natural Language Processing
+Neural Networks
+Robotics

@@ -1,0 +1,2 @@
+TS=("clinical skills" AND assess* AND "artificial intelligence")
+5 results

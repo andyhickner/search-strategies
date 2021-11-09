@@ -1,0 +1,4 @@
+Publish or Perish search of Google Scholar using the following keywords:
+undergraduate medical education "clinical skills" assessment "artificial intelligence"
+
+Exported first 100 to endnote library "GS first 100 AI in CS assessment 11-9-21" in folder "tech-in-cs-skills-assessment"
