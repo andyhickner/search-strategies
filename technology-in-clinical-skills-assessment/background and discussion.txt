@@ -1,0 +1,3 @@
+- Briganti G, Le Moine O. Artificial Intelligence in Medicine: Today and Tomorrow. Front Med (Lausanne). 2020 Feb 5;7:27. doi: 10.3389/fmed.2020.00027. PMID: 32118012; PMCID: PMC7012990. https://pubmed.ncbi.nlm.nih.gov/32118012/
+- Katsufrakis PJ, Chaudhry HJ. Evolution of Clinical Skills Assessment in the USMLE: Looking to the Future After Step 2 CS Discontinuation. Acad Med. 2021 Sep 1;96(9):1236-1238. doi: 10.1097/ACM.0000000000004214. PMID: 34166234. https://pubmed.ncbi.nlm.nih.gov/34166234/
+- Roberts LW. Emerging Issues in Assessment in Medical Education: A Collection. Acad Med. 2021 Feb 1;96(2):159-160. doi: 10.1097/ACM.0000000000003855. PMID: 33492817. https://pubmed.ncbi.nlm.nih.gov/33492817/
