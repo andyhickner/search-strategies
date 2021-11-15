@@ -1,37 +1,25 @@
 Ovid MEDLINE(R) ALL <1946 to November 09, 2021>
-
-1	(exp clinical competence/ or exp clinical reasoning/ or exp competency-based education/ or (clinical adj2 (competenc$ or reasoning or skill$)).mp.) and (exp educational measurement/ or (assess$ or checklist$ or evaluat$ or measur$).mp.) and (artificial intelligence/ or computer heuristics/ or exp computer neural networks/ or expert systems/ or fuzzy logic/ or exp knowledge bases/ or exp machine learning/ or natural language processing/ or ((artificial or computational or machine) adj2 (intelligence or learning or scoring)).mp. or ((computer adj2 (heuristic$ or reasoning or vision system$)) or automatic analysis or bayesian network$ or biological ontolog$ or clustering$ or cluster analys$ or data mining or deep learning or expert system$ or fuzzy logic or natural language processing or nlp or neural network$ or predictive analytic$ or support vector machine$ or text mining or text-mining).mp.) and (exp clinical clerkship/ or exp curriculum/ or exp learning/ or exp medical education/ or exp medical students/ or education.fs. or (clerkship$ or learner$ or learning or medical education or rotation$ or student$ or trainee$ or training or undergraduate$).mp.)	545
-//tested, retrieves all 11 in validation set
-Saved as "AI in CS assessment 11-10-21"
+Recommended search (simpler, slightly broader)*:
+(exp clinical competence/ or exp clinical reasoning/ or exp competency-based education/ or (clinical adj2 (competenc$ or reasoning or skill$)).mp.) and (exp educational measurement/ or (assess$ or checklist$ or evaluat$ or measur$).mp.) and (artificial intelligence/ or computer heuristics/ or exp computer neural networks/ or expert systems/ or fuzzy logic/ or exp knowledge bases/ or exp machine learning/ or natural language processing/ or ((artificial or computational or machine) adj2 (intelligence or learning or scoring)).mp. or ((computer adj2 (heuristic$ or reasoning or vision system$)) or automatic analysis or bayesian network$ or biological ontolog$ or clustering$ or cluster analys$ or data mining or deep learning or expert system$ or fuzzy logic or natural language processing or nlp or neural network$ or predictive analytic$ or support vector machine$ or text mining or text-mining).mp.) and (exp clinical clerkship/ or exp curriculum/ or exp health occupations schools/ or exp health occupations students/ or exp learning/ or exp professional education/ or education.fs. or (clerkship$ or education or intern or intern$ or learner$ or learning or pgy$ or postgraduate$ or residency or resident$ or rotation$ or school$ or student$ or trainee$ or training$ or undergraduate$).mp.)	574
+//retrieves all 11 in validation set
 
 Excluded:
 Robotics, simulation, AR/VR
 
+exp professional education retrieves dental, medical, nursing, pharmacy, and veterinary education
 
-AI:
-computational intelligence
-machine intelligence
-computer reasoning
-computer vision system$
-machine learning
-deep learning
-Computer Heuristic$
-Expert System$
-Fuzzy Logic
-Knowledge Base$
-Biological Ontolog$
-Machine Learning
-Natural Language Processing
-Neural Networks
+new health professions education mesh:
+exp dental education/
+exp nursing education/
+exp pharmacy education/
+exp veterinary education
 
-add:
-exp Clinical reasoning/ or exp competency-based education/
-exp Educational Measurement/ or exp reproducibility of results/
-exp curriculum/ or exp learning/ or exp medical education/ or exp medical students/ or education.fs
+exp health occupations students/ retrieves dental, medical, nursing, pharmacy
 
-keywords:
-automatic analysis
-machine scoring
+exp health occupations schools retrieves dental, medical, nursing, pharm, and veterinary education/schools, as well as internship and residency/ (under exp medical education)
+
+narrower search (med ed only) saved as "AI in CS assessment 11-10-21"
+
 
 other candidate terms identified through MeSH analysis:
 exp competency-based education/ 
@@ -40,3 +28,7 @@ formative feedback/
 exp medical licensure/
 exp reproducibility of results/
 exp algorithms/
+
+*alternate, narrower search (uses specific terms for health professions education hedge):
+(exp clinical competence/ or exp clinical reasoning/ or exp competency-based education/ or (clinical adj2 (competenc$ or reasoning or skill$)).mp.) and (exp educational measurement/ or (assess$ or checklist$ or evaluat$ or measur$).mp.) and (artificial intelligence/ or computer heuristics/ or exp computer neural networks/ or expert systems/ or fuzzy logic/ or exp knowledge bases/ or exp machine learning/ or natural language processing/ or ((artificial or computational or machine) adj2 (intelligence or learning or scoring)).mp. or ((computer adj2 (heuristic$ or reasoning or vision system$)) or automatic analysis or bayesian network$ or biological ontolog$ or clustering$ or cluster analys$ or data mining or deep learning or expert system$ or fuzzy logic or natural language processing or nlp or neural network$ or predictive analytic$ or support vector machine$ or text mining or text-mining).mp.) and (exp clinical clerkship/ or exp curriculum/ or exp dental education/ or exp health occupations schools/ or exp learning/ or exp medical education/ or exp medical students/ or exp nursing education/ or exp pharmacy education/ or exp veterinary education/ or education.fs. or (clerkship$ or learner$ or learning or ((allied health or audiology or chiropractic or clinical or dental or dietetic$ or emergency medical services or ems or medical midwifery or nursing or occupational therapy or pharmacy or physical therapy or podiatry or respiratory therapy or veterinary) adj3 (education or school$ or training)) or residency or resident$ or rotation$ or student$ or trainee$ or undergraduate$).mp.)	516
+//tested, retrieves all 11 in validation set

@@ -3,5 +3,5 @@ undergraduate medical education "clinical skills" assessment "artificial intelli
 
 Exported first 100 to endnote library "GS first 100 AI in CS assessment 11-9-21" in folder "tech-in-cs-skills-assessment"
 
-11.10.21
-Exported embase and midline into endnote; 999 after removal of 164 duplicate refs.
+11.15.21
+Exported and deduped medline and endnote; 907, 706 after deduplication. 
