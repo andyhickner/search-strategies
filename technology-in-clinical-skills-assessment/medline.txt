@@ -7,6 +7,10 @@ Saved as "AI in CS assessment 11-10-21"
 Excluded:
 Robotics, simulation, AR/VR
 
+add as keywords to the last hedge:
+(Dental or dentist$) adj2 education
+Health professions education?
+Nursing education?
 
 AI:
 computational intelligence

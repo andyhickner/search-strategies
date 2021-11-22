@@ -1,0 +1,21 @@
+Embase <1974 to 2021 November 19>
+
+1	((exp breast/ or exp breast disease/) and exp neoplasm/) or exp breast tumor/ or exp breast cancer/ or exp breast carcinoma/ or (breast$ adj5 (neoplas$ or cancer$ or carcin$ or tumo$ or metasta$ or malig$)).mp.	692744
+2	(((exp breast/ or exp breast disease/) and exp neoplasm/) or exp breast tumor/ or exp breast cancer/ or exp breast carcinoma/ or (breast$ adj5 (neoplas$ or cancer$ or carcin$ or tumo$ or metasta$ or malig$)).mp.) and (exp diabetes mellitus/ or diabet$.mp.) and (educational interventions/ or health promotion/ or attitude to health/ or health education/ or (health$ adj3 (promot$ or knowledge$ or practice$ or educat$)).mp.)	443
+saved as "educational interventions diabetic breast cancer 11-22-21"
+
+(education$ and breast and diabet$).ti. - 4 results, none relevant. Bad news - i don't think there are any studies whatsoever on this topic. 
+
+breast cancer:
+Derived from Brown T, Cruickshank S, Noblet M. Specialist breast care nurses for support of women with breast cancer. Cochrane Database of Systematic Reviews 2021, Issue 2. Art. No.: CD005634. DOI: 10.1002/14651858.CD005634.pub3. Accessed 22 November 2021.
+https://www-cochranelibrary-com.ezproxy.med.cornell.edu/cdsr/doi/10.1002/14651858.CD005634.pub3/appendices#CD005634-sec-0090 
+
+((exp breast/ or exp breast disease/) and exp neoplasm/) or exp breast tumor/ or exp breast cancer/ or exp breast carcinoma/ or (breast$ adj5 (neoplas$ or cancer$ or carcin$ or tumo$ or metasta$ or malig$)).mp.
+
+diabetes:
+exp diabetes mellitus/ or diabet$.mp
+
+educational interventions:
+Derived from:
+Cheewakriangkrai C, Kietpeerakool C, Charoenkwan K, Pattanittum P, John D, Aue‐aungkul A, Lumbiganon P. Health education interventions to promote early presentation and referral for women with symptoms of endometrial cancer. Cochrane Database of Systematic Reviews 2020, Issue 3. Art. No.: CD013253. DOI: 10.1002/14651858.CD013253.pub2. Accessed 22 November 2021.
+educational interventions/ or health promotion/ or attitude to health/ or health education/ or (health$ adj3 (promot$ or knowledge$ or practice$ or educat$)).mp.
