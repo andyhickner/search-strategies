@@ -1,0 +1,47 @@
+#1	MeSH descriptor: [Chronic Pain] this term only 
+
+#2	MeSH descriptor: [Arthralgia] explode all trees 
+
+#3	MeSH descriptor: [Arthritis] 1 tree(s) exploded 
+
+#4	MeSH descriptor: [Back Pain] explode all trees 
+
+#5	MeSH descriptor: [Musculoskeletal Pain] this term only 
+
+#6	MeSH descriptor: [Osteoarthritis] 2 tree(s) exploded 
+
+#7	MeSH descriptor: [Arthritis, Rheumatoid] 4 tree(s) exploded 
+
+#8	(arthralgia or arthros?s or coxarthros?s or arthritides or arthritis or polyarthritides or polyarthritis or "joint pain" or "back pain" or backache or "chronic pain" or "chronic non?cancer pain" or cncp or "musculoskeletal pain" or osteoarthritis or OA or osteoporos?s or rheumat* or caplan* next syndrome or Felty* next Syndrome or sicca next syndrome or sjogren* next syndrome or still* next disease):ti,ab  
+
+#9	((ach* or dull or persistent or tingl* or split* or sharp or radiat* or crushing or suffering* or migratory or burn* or throb* or tender* or sore*) near/3 pain):ti,ab  
+
+#10	{or #1-#9}  
+
+#11	MeSH descriptor: [Aged] explode all trees 
+
+#12	(Old or aged or elderly or senior* or geriatric*):ti,ab  
+
+#13	#11 or #12  
+
+#14	MeSH descriptor: [Cognitive Therapy] this term only 
+
+#15	MeSH descriptor: [Acceptance and Commitment Therapy] this term only 
+
+#16	MeSH descriptor: [Mindfulness] this term only 
+
+#17	MeSH descriptor: [Meditation] this term only 
+
+#18	MeSH descriptor: [Behavior Therapy] this term only 
+
+#19	(CBT or mindfulness or meditation or "Acceptance and Commitment Therapy"):ti,ab  
+
+#20	(cognit* near/2 (therap* or treatment* or training or educat* or strateg* or technique* or psychotherap* or program* or intervention* or analys* or method* or approach* or modif* or adapt*)):ti,ab  
+
+#21	(behav* near/2 (therap* or treatment* or training or educat* or strateg* or technique* or psychotherap* or program* or intervention* or analys* or method* or approach* or modif* or adapt*)):ti,ab  
+
+#22	(group next (therap* or treat* or intervention*)):ti,ab  
+
+#23	{or #14-#22}  
+
+#24	#10 and #13 and #23 

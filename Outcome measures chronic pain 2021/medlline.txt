@@ -1,0 +1,134 @@
+without outcome hedge (broader)
+Ovid MEDLINE(R) ALL <1946 to November 19, 2021>
+
+1	Chronic Pain/	18295
+2	exp Arthralgia/	14479
+3	exp Arthritis/	276120
+4	exp Back Pain/	41894
+5	Musculoskeletal Pain/	3921
+6	exp Osteoarthritis/	69554
+7	exp Arthritis, Rheumatoid/	118779
+8	(arthralgia or arthros?s or coxarthros?s or arthritides or arthritis or polyarthritides or polyarthritis or joint pain or back pain or backache or chronic pain or chronic non?cancer pain or cncp or musculoskeletal pain or osteoarthritis or OA or osteoporos?s or rheumat$ or caplan$ syndrome or Felty$ Syndrome or sicca syndrome or sjogren$ syndrome or still$ disease).mp.	627722
+9	((ach$ or dull or persistent or tingl$ or split$ or sharp or radiat$ or crushing or suffering$ or migratory or burn$ or throb$ or tender$ or sore$) adj3 pain).mp.	32090
+10	or/1-9	674629
+11	exp Aged/	3333154
+12	(Old or aged or elderly or senior* or geriatric*).mp.	6568201
+13	or/11-12	6568201
+14	Cognitive Therapy/	28045
+15	"Acceptance and Commitment Therapy"/	616
+16	Mindfulness/	4723
+17	Meditation/	3276
+18	Behavior Therapy/	29251
+19	(CBT or "Acceptance and Commitment Therapy" or mindfulness or meditation).mp.	27736
+20	(cognit$ adj2 (therap$ or treatment$ or training or educat$ or strateg$ or technique$ or psychotherap$ or program$ or intervention$ or analys$ or method$ or approach$ or modif$ or adapt$)).mp.	62040
+21	(behav$ adj2 (therap$ or treatment$ or training or educat$ or strateg$ or technique$ or psychotherap$ or program$ or intervention$ or analys$ or method$ or approach$ or modif$ or adapt$)).mp.	138064
+22	(group adj (therap$ or treat$ or intervention$)).mp.	24911
+23	or/14-22	197097
+24	10 and 13 and 23	2613
+25	24 not (animals not humans).sh.	2586
+26	Randomized controlled trials as Topic/	150326
+27	Randomized controlled trial/	550718
+28	Random allocation/	106217
+29	Double blind method/	168401
+30	Single blind method/	31214
+31	Clinical trial/	532375
+32	exp Clinical Trials as Topic/	366681
+33	or/26-32	1251944
+34	(clinic$ adj trial$).tw.	418050
+35	((singl$ or doubl$ or treb$ or tripl$) adj (blind$3 or mask$3)).tw.	184345
+36	Placebos/	35774
+37	Placebo$.tw.	230459
+38	Randomly allocated.tw.	32275
+39	(allocated adj2 random).tw.	806
+40	or/34-39	701887
+41	33 or 40	1563572
+42	Case report.tw.	348371
+43	Letter/	1159503
+44	Historical article/	366545
+45	Review of reported cases.pt.	0
+46	Review, multicase.pt.	0
+47	or/42-46	1857099
+48	41 not 47	1526458
+49	25 and 48	1166
+50	("26304771" or "22078217" or "26903081").ui.	3
+51	49 and 50	3
+
+saved as "Reid and Scher 11-22-21 medline without outcome measure hedge"
+
+$$$
+with outcome hedge (narrower):
+Ovid MEDLINE(R) ALL <1946 to November 19, 2021>
+
+1	Chronic Pain/	18295
+2	exp Arthralgia/	14479
+3	exp Arthritis/	276120
+4	exp Back Pain/	41894
+5	Musculoskeletal Pain/	3921
+6	exp Osteoarthritis/	69554
+7	exp Arthritis, Rheumatoid/	118779
+8	(arthralgia or arthros?s or coxarthros?s or arthritides or arthritis or polyarthritides or polyarthritis or joint pain or back pain or backache or chronic pain or chronic non?cancer pain or cncp or musculoskeletal pain or osteoarthritis or OA or osteoporos?s or rheumat$ or caplan$ syndrome or Felty$ Syndrome or sicca syndrome or sjogren$ syndrome or still$ disease).mp.	627722
+9	((ach$ or dull or persistent or tingl$ or split$ or sharp or radiat$ or crushing or suffering$ or migratory or burn$ or throb$ or tender$ or sore$) adj3 pain).mp.	32090
+10	or/1-9	674629
+11	exp Aged/	3333154
+12	(Old or aged or elderly or senior$ or geriatric$).mp.	6568201
+13	or/11-12	6568201
+14	Cognitive Therapy/	28045
+15	"Acceptance and Commitment Therapy"/	616
+16	Mindfulness/	4723
+17	Meditation/	3276
+18	Behavior Therapy/	29251
+19	(CBT or "Acceptance and Commitment Therapy" or mindfulness or meditation).mp.	27736
+20	(cognit$ adj2 (therap$ or treatment$ or training or educat$ or strateg$ or technique$ or psychotherap$ or program$ or intervention$ or analys$ or method$ or approach$ or modif$ or adapt$)).mp.	62040
+21	(behav$ adj2 (therap$ or treatment$ or training or educat$ or strateg$ or technique$ or psychotherap$ or program$ or intervention$ or analys$ or method$ or approach$ or modif$ or adapt$)).mp.	138064
+22	(group adj (therap$ or treat$ or intervention$)).mp.	24911
+23	or/14-22	197097
+24	exp Catastrophization/	1664
+25	exp Depression/	134845
+26	exp Affect/	35365
+27	exp Outcome Assessment, Health Care/	1244066
+28	exp Pain Measurement/	91534
+29	exp Patient Reported Outcome Measures/	10190
+30	exp "Quality of Life"/	227009
+31	(roland and morris disability questionnaire).mp. [mp=title, abstract, original title, name of substance word, subject heading word, floating sub-heading word, keyword heading word, organism supplementary concept word, protocol supplementary concept word, rare disease supplementary concept word, unique identifier, synonyms]	1164
+32	exp Treatment Outcome/	1156845
+33	((assess$ or measur$ or outcome$) and (ability to function or acceptance or anxiety or catastrophizing belief$ or depress$ or emotional well?being or function$ or mindfulness or mood or pain or patient?reported or quality of life or "Roland and Morris" or self-efficacy)).mp.	2131499
+34	or/24-33	3164802
+35	10 and 13 and 23 and 34	2012
+36	35 not (animals not humans).sh.	2005
+37	Randomized controlled trials as Topic/	150326
+38	Randomized controlled trial/	550718
+39	Random allocation/	106217
+40	Double blind method/	168401
+41	Single blind method/	31214
+42	Clinical trial/	532375
+43	exp Clinical Trials as Topic/	366681
+44	or/37-43	1251944
+45	(clinic$ adj trial$).tw.	416788
+46	((singl$ or doubl$ or treb$ or tripl$) adj (blind$3 or mask$3)).tw.	184345
+47	Placebos/	35774
+48	Placebo$.tw.	230459
+49	Randomly allocated.tw.	32275
+50	(allocated adj2 random).tw.	806
+51	or/45-50	700844
+52	44 or 51	1563006
+53	Case report.tw.	348371
+54	Letter/	1159503
+55	Historical article/	366545
+56	Review of reported cases.pt.	0
+57	Review, multicase.pt.	0
+58	or/53-57	1857099
+59	52 not 58	1525895
+60	36 and 59	1005
+Retrieves the 3 articles in validation set
+
+saved as "Reid and Scher 8-13-21 embase with RCT and outcome measure filters"
+
+no equivalent mesh:
+28	numeric pain rating scale/
+31	exp pain intensity/
+34	"roland and morris disability questionnaire"/
+36	exp wellbeing/
+
+
+	
+24 not (animals not humans).sh.
