@@ -57,6 +57,7 @@ Embase <1974 to 2021 August 12>
 51	26 and 50	1291
 
 saved as "Reid and Scher 8-13-21 embase without outcome measure hedge"
+exported 1324 results at 11:02am on 11.23.21
 
 Alternate version, WITH outcome hedge:
 1	chronic pain/	66451

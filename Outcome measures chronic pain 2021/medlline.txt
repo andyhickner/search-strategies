@@ -54,6 +54,7 @@ Ovid MEDLINE(R) ALL <1946 to November 19, 2021>
 51	49 and 50	3
 
 saved as "Reid and Scher 11-22-21 medline without outcome measure hedge"
+exported 1,166 at 11:05am on 11.23.21
 
 $$$
 with outcome hedge (narrower):
