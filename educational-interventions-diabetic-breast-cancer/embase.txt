@@ -1,10 +1,10 @@
-Embase <1974 to 2021 November 19>
+Embase <1974 to 2021 November 24>
 
-1	((exp breast/ or exp breast disease/) and exp neoplasm/) or exp breast tumor/ or exp breast cancer/ or exp breast carcinoma/ or (breast$ adj5 (neoplas$ or cancer$ or carcin$ or tumo$ or metasta$ or malig$)).mp.	692744
-2	(((exp breast/ or exp breast disease/) and exp neoplasm/) or exp breast tumor/ or exp breast cancer/ or exp breast carcinoma/ or (breast$ adj5 (neoplas$ or cancer$ or carcin$ or tumo$ or metasta$ or malig$)).mp.) and (exp diabetes mellitus/ or diabet$.mp.) and (educational interventions/ or health promotion/ or attitude to health/ or health education/ or (health$ adj3 (promot$ or knowledge$ or practice$ or educat$)).mp.)	443
-saved as "educational interventions diabetic breast cancer 11-22-21"
+1	(((exp breast/ or exp breast disease/) and exp neoplasm/) or exp breast tumor/ or exp breast cancer/ or exp breast carcinoma/ or (breast$ adj5 (neoplas$ or cancer$ or carcin$ or tumo$ or metasta$ or malig$)).mp.) and (exp diabetes mellitus/ or diabet$.mp.) and (educational interventions/ or health promotion/ or attitude to health/ or health education/ or exp patient education/ or (education$ or ((health$ or patient$) adj3 (promot$ or knowledge$ or practice$ or educat$))).mp.)	1079
 
-(education$ and breast and diabet$).ti. - 4 results, none relevant. Bad news - i don't think there are any studies whatsoever on this topic. 
+saved as "educational interventions diabetic breast cancer embase 11-29-21"
+
+(education$ and breast cancer$ and diabet$).ti. - 4 results, none relevant. Bad news - i don't think there are any studies whatsoever on this topic. 
 
 breast cancer:
 Derived from Brown T, Cruickshank S, Noblet M. Specialist breast care nurses for support of women with breast cancer. Cochrane Database of Systematic Reviews 2021, Issue 2. Art. No.: CD005634. DOI: 10.1002/14651858.CD005634.pub3. Accessed 22 November 2021.

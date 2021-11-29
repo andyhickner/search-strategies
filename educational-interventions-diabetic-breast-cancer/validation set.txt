@@ -1,10 +1,13 @@
 Virtually none of the PMIDs provided by Micayla are relevant; instead, screen the Google Scholar results and ask her to do it too.
 
 embase:
-(32289471 or 27857255).pm.
+(23113633 or 32298407 or 19349267).pm.
 
 medline: 
-(32289471 or 27857255).ui.
+(23113633 or 32298407 or 19349267).ui.
+
+only if survivors are included:
+27857255 or 32289471 or 334229690
 
 Articles from Micayla - do not use:
 embase:
@@ -16,5 +19,4 @@ medline:
 https://pubmed.ncbi.nlm.nih.gov/?sort=date&term=((%22Breast+Neoplasms%22%5BMesh%5D)+AND+%22Diabetes+Mellitus%22%5BMesh%5D)+AND+%22Patient+Education+as+Topic%22%5BMesh%5D
 
 Relevant:
-https://pubmed.ncbi.nlm.nih.gov/27857255/
 Possibly relevant, but it's in German: https://pubmed.ncbi.nlm.nih.gov/15487387/ 
