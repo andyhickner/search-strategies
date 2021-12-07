@@ -1,0 +1,15 @@
+Embase <1974 to 2021 December 06>
+
+(exp neoplasm/ or (neoplas$ or cancer$ or carcin$ or tumo$ or metasta$ or malig$).mp.) and (exp diabetes mellitus/ or diabet$.mp.) and (educational interventions/ or health promotion/ or health education/ or exp patient education/ or (diabetes education or ((diet$ or lifestyle) adj2 advice) or (patient adj2 (educat$ or handout$)) or (education$ adj2 (handout$ or intervention$ or material$)) or (health adj2 (educat$ or promotion$))).mp.)	2556
+saved as "educational interventions diabetic cancer embase 12-7-21"
+//retrieves all 6 in validation set
+
+
+diabetes:
+exp diabetes mellitus/ or diabet$.mp
+
+educational interventions:
+Derived from:
+Cheewakriangkrai C, Kietpeerakool C, Charoenkwan K, Pattanittum P, John D, Aue‐aungkul A, Lumbiganon P. Health education interventions to promote early presentation and referral for women with symptoms of endometrial cancer. Cochrane Database of Systematic Reviews 2020, Issue 3. Art. No.: CD013253. DOI: 10.1002/14651858.CD013253.pub2. Accessed 22 November 2021.
+educational interventions/ or health promotion/ or attitude to health/ or health education/ or (health$ adj3 (promot$ or knowledge$ or practice$ or educat$)).mp.
+
