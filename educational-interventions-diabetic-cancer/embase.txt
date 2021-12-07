@@ -2,11 +2,8 @@ Embase <1974 to 2021 December 06>
 
 (exp neoplasm/ or (neoplas$ or cancer$ or carcin$ or tumo$ or metasta$ or malig$).mp.) and (exp diabetes mellitus/ or diabet$.mp.) and (educational interventions/ or health promotion/ or health education/ or exp patient education/ or (diabetes education or ((diet$ or lifestyle) adj2 advice) or (patient adj2 (educat$ or handout$)) or (education$ adj2 (handout$ or intervention$ or material$)) or (health adj2 (educat$ or promotion$))).mp.)	2556
 saved as "educational interventions diabetic cancer embase 12-7-21"
-//retrieves all 6 in validation set
+//retrieves all 7 in validation set
 
-
-diabetes:
-exp diabetes mellitus/ or diabet$.mp
 
 educational interventions:
 Derived from:
