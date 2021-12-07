@@ -1,0 +1,7 @@
+Embase <1974 to 2021 December 06>
+
+1	(exp adolescent/ or (adolescen$ or teen$).mp.) and ((exp african/ not exp african american/) or ((Africa$ or Angola$ or Benin$ or Botswan$ or Burkina Faso or Burundi$ or Cameroon$ or Canary Island$ or Cape Verde$ or Chad or Comoros or Congo$ or Djibouti$ or Equatorial Guinea$ or Eritrea$ or Ethiopia$ or Gabon$ or Gambia$ or Ghana$ or Guinea$ or Guinea Bissau or Ivory Coast or Cote d'Ivoire or Jamahiriya or Jamahiryia or Kenya$ or Lesotho or Liberia$ or Madagascar or malagasy or Malawi or Mali or Mauritania$ or Mauritius or Mozambique or Mocambique or Mozambique or Namibia$ or Niger$ or Principe or Reunion or Rwanda$ or Sao Tome or Senegal$ or Seychelles or Sierra Leone$ or Somalia$ or St Helena or Sudan$ or Swaziland or Tanzania$ or Togo or Uganda$ or Zaire$ or Zambia$ or Zimbabwe$ or sub-Saharan) not (african american or african-american or guinea pig$ or aspergillus niger)).mp.) and (exp hypertension/ or (hypertens$ or blood pressure).mp.)	2099
+//retrieves all 4 in validation set
+saved as "hypertension African adolescents embase 12-7-21"
+
+Sub-Saharan Africa hedge is derived from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4577976/ (with modifications)
