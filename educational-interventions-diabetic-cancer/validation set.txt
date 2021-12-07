@@ -1,10 +1,10 @@
 Virtually none of the PMIDs provided by Micayla are relevant; instead, screen the Google Scholar results and ask her to do it too.
 
 embase:
-(11855234 or 19683095 or 21920998 or 23113633 or 32298407 or 19349267).pm.
+(11855234 or 19349267 or 19683095 or 21920998 or 22983823 or 23113633 or 32298407 or 32537812).pm.
 
 medline: 
-(11855234 or 19683095 or 21920998 or 23113633 or 32298407 or 19349267).ui.
+(11855234 or or 19349267 or 19683095 or 21920998 or 23113633 or 32298407 or 32537812).ui.
 
 only if survivors are included:
 27857255 or 32289471 or 334229690
