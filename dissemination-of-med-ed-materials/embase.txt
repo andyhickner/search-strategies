@@ -1,0 +1,16 @@
+Currently too many; consider restricting to undergrad med ed
+Medical only:
+Embase <1974 to 2021 December 10>
+
+1	exp medical student/ or exp medical education/ or (clerkship$ or intern or intern$ or medical education or pgy$ or postgraduate$ or residency or resident$ or rotation$ or trainee$ or undergraduate$).mp.	2431558
+2	exp information dissemination/ or exp social media/ or (disseminat$ or facebook or social media or twitter or uptake or youtube).mp.	803661
+3	exp curriculum/ or exp education/ or exp learning/ or exp simulation training/ or exp teaching/ or (curricul$ or e-learning or elearning or simulation$ or osce or observed structured or ((educational or instructional) adj2 (content$ or module$ or material$))).mp.	2440382
+4	1 and 2 and 3	19778
+5	("26352761" or "28919148" or "31220594" or "32592211").pm.	4
+saved as "dissemination of med ed embase 12-13-21"
+
+Other possible
+line 1: training$.mp. 
+line 2: exp mass communication/ -- retrieved too many results
+for line 3: exp workshop/
+

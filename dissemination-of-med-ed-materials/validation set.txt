@@ -1,0 +1,9 @@
+send him this link - how many of the 30 would he include? this will be our validation set. https://pubmed.ncbi.nlm.nih.gov/?term=%28%28%22Diffusion+of+Innovation%22%5BMajr%5D%29+OR+%22Information+Dissemination%22%5BMajr%5D%29+AND+%28%22Education%2C+Medical%2C+Undergraduate%22%5BMajr%5D%29&size=100
+This is UGME only - i think he will need to pick either UGME or GME, not both.
+
+embase:
+(26352761 or 28919148 or 31220594 or 32592211).pm.
+
+Found by team but do not meet inclusion criteria:
+32592211 - is about research dissemination, not med ed materials
+28864427 - is about research, not med ed
