@@ -1,12 +1,26 @@
 Embase <1974 to 2021 December 06>
 
-1	(exp neoplasm/ or (neoplas$ or cancer$ or carcin$ or tumo$ or metasta$ or malig$).mp.) and (exp diabetes mellitus/ or diabet$.mp.) and (educational interventions/ or health promotion/ or health education/ or exp patient education/ or (diabetes education or ((diet$ or lifestyle) adj2 advice) or ((patient or diabet$ or self-manag$) adj2 (educat$ or handout$)) or (education$ adj2 (handout$ or intervention$ or material$)) or (health adj2 (educat$ or promotion$))).mp.)	2636
-//retrieves all 8 in validation set
+(exp neoplasm/ or (neoplas$ or cancer$ or carcin$ or tumo$ or metasta$ or malig$).tw,kf.) and (exp diabetes mellitus/ or diabet$.tw,kf.) and (educational interventions/ or health promotion/ or health education/ or exp patient education/ or (diabetes education or ((diet$ or lifestyle) adj2 advice) or ((patient or diabet$ or self-manag$) adj2 (educat$ or handout$)) or (education$ adj2 (handout$ or intervention$ or material$ or resource$)) or (health adj2 (educat$ or promotion$))).tw,kf.)	2262
+//retrieves all 12 in validation set
+saved as "educational interventions diabetic cancer embase 12-15-21"
+
+Lower-specificity search (uses .mp. instead of .tw,kf):
+1	(exp neoplasm/ or (neoplas$ or cancer$ or carcin$ or tumo$ or metasta$ or malig$).mp.) and (exp diabetes mellitus/ or diabet$.mp.) and (educational interventions/ or health promotion/ or health education/ or exp patient education/ or (diabetes education or ((diet$ or lifestyle) adj2 advice) or ((patient or diabet$ or self-manag$) adj2 (educat$ or handout$)) or (education$ adj2 (handout$ or intervention$ or material$ or resource$)) or (health adj2 (educat$ or promotion$))).mp.)	2636
 saved as "educational interventions diabetic cancer embase 12-7-21"
 
+Remarks:
+The Textword field in Embase includes Title (TI), Abstract (AB) and Drug Trade Name (TN).
+The Keyword Heading Word (KF) index allows you to retrieve every Keyword Headings defined by the authors that include a particular word. Do this by searching a single word in the Keyword Heading Word (KF) field.
+The Keyword Heading (KW) field contains keywords defined by the author of the article. To retrieve every Keyword Heading that includes a particular word, search for the word in the Keyword Heading Word (KF) index.
 
 educational interventions:
 Derived from:
 Cheewakriangkrai C, Kietpeerakool C, Charoenkwan K, Pattanittum P, John D, Aue‐aungkul A, Lumbiganon P. Health education interventions to promote early presentation and referral for women with symptoms of endometrial cancer. Cochrane Database of Systematic Reviews 2020, Issue 3. Art. No.: CD013253. DOI: 10.1002/14651858.CD013253.pub2. Accessed 22 November 2021.
 educational interventions/ or health promotion/ or attitude to health/ or health education/ or (health$ adj3 (promot$ or knowledge$ or practice$ or educat$)).mp.
 
+does not focus on diabetes: 1
+does not discuss cancer: 2
+focuses on neither: 1
+does not focus on pts with both cancer and diabetes: 4
+"" educational materials for diabetic cancer disease mgt: 9
+focuses on patients with one disease, not both: 1
