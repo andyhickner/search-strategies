@@ -4,8 +4,10 @@ embase:
 saved as "educational interventions diabetic cancer embase validation set"
 
 medline: 
-(11855234 or or 19349267 or 19683095 or 21920998 or 23113633 or 32298407 or 32537812 or 32368173 or 34018032 or 34652424).ui.
-(11 articles)
+(11855234 or 19349267 or 19683095 or 21920998 or 22983823 or 23113633 or 32298407 or 32537812 or 34018032).ui.
+(9 articles)
+34652424 - no abstract and no diabetes keywords in Medline record
+32368173 - ""
 
 only if survivors are included:
 27857255 or 32289471 or 334229690

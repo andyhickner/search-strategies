@@ -1,0 +1,12 @@
+Web of Science Core Collection, all editions (SCI-EXPANDED, SSCI, AHCI, CPCI-S, CPCI-SSH, BKCI-SSH, ESCI, CCR-EXPANDED, IC)
+
+TS=((neoplas* OR cancer* OR carcin* OR tumo* OR metasta* OR malig*) AND diabet* AND ("consumer health information" OR "health education" OR "health promotion" OR "patient education as topic" OR "teach-back communication" OR "diabetes education" OR ((diet* OR lifestyle) NEAR/2 advice) OR ((patient OR diabet* OR self-manag*) NEAR/2 (educat* OR handout*)) OR (education* NEAR/2 (handout* OR intervention* OR material* OR resource*)) OR (health NEAR/2 (educat* OR promotion*))))
+863 articles, saved as "diabetic cancer pt ed 12-16-21"
+
+https://www.webofscience.com/wos/woscc/summary/77a548bb-a58d-40fa-a173-dcb9781161f6-198f6161/relevance/1
+
+WOS Quick Reference: http://wokinfo.com/media/pdf/qrc/wos-corecoll_qrc_en.pdf 
+
+Validation set: PMID=("11855234" or "19349267" or "19683095" or "22983823" or "23113633" or "32298407" or "32537812" or "34018032")
+7 articles retrieved
+PMID 21920998 does not contain any education-related keywords in title or abstract

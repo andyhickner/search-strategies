@@ -1,3 +1,12 @@
+12.16.21
+Imported (all times US Eastern):
+Embase: 2236 (9:30am)
+MEDLINE: 1169 (10am)
+WOS: 863 (10:44am)
+Total retrieved/imported: 4468 (including 200 GS records)
+Dups removed by Covidence: 596 (including the 1 GS dup removed on 12.8.21)
+Total to screen post-deduplication: 3872
+
 12.8.21
 imported 199 Google Scholar records into covidence
-dups removed by covidence: 199
+dups removed by covidence: 1

@@ -1,0 +1,5 @@
+Ovid MEDLINE(R) ALL <1946 to December 15, 2021>
+
+1	(exp neoplasms/ or (neoplas$ or cancer$ or carcin$ or tumo$ or metasta$ or malig$).tw,kw.) and (exp diabetes mellitus/ or diabet$.tw,kw.) and (exp consumer health information/ or health education/ or exp health promotion/ or exp patient education as topic/ or teach-back communication/ or (diabetes education or ((diet$ or lifestyle) adj2 advice) or ((patient or diabet$ or self-manag$) adj2 (educat$ or handout$)) or (education$ adj2 (handout$ or intervention$ or material$ or resource$)) or (health adj2 (educat$ or promotion$))).tw,kw.)	1169
+Retrieves all 9 in validation set
+saved as "diabetic cancer pt ed medline 12-16-21"
