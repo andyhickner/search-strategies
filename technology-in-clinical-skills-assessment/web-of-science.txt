@@ -1,2 +1,3 @@
+How to quickly record which WOS editions you searched: https://twitter.com/pingue7/status/1471576277236973569/photo/2
 TS=("clinical skills" AND assess* AND "artificial intelligence")
 5 results
