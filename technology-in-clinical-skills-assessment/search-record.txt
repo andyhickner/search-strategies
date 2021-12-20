@@ -1,0 +1,3 @@
+Database: number exported, date, time (US Eastern):
+Embase: 340, 8:40am on Dec 20, 2021
+MEDLINE: 587, 8:50am on Dec 20, 2021
