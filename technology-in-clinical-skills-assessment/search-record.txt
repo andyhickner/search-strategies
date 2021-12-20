@@ -1,5 +1,11 @@
 Database: number exported, date, time (US Eastern):
-Google Scholar via Publish or Perish: first 100 results (
 Embase: 340, 8:40am on Dec 20, 2021
 MEDLINE: 587, 8:50am on Dec 20, 2021
 WOS: 178, 10:15am on Dec 20, 2021
+Total imported: (-100 from Google Scholar, see below)
+Duplicates automatically removed by Covidence:
+Total after deduplication: 
+
+Other methods:
+Google Scholar via Publish or Perish: first 100 results, 12:30pm on Dec 20, 2021
+0 duplicates removed by Covidence

@@ -1,4 +1,4 @@
-12.20.21 Publish or Perish seems to be broken today. If/when I'm able to get it working, follow this workflow:
-Export the first 100 to Publish or Perish, then to RIS, then imported into EndNote; "Find Reference Updates" completed. 
+12.20.21 at 12:30pm
+"clinical skills"|"clinical reasoning"|"clinical competence" assess|evaluate|measure "artificial intelligence"|"data mining"|"text mining"|"neural networks"|"natural language processing" clerkship|education|intern|learner|pgy|rotation|resident|school|training|undergraduate
 
-"clinical skills|reasoning|competence" assess|evaluate|measure "artificial intelligence"|"data mining"|"text mining"|"neural networks"|"natural language processing" clerkship|education|intern|learner|pgy|rotation|resident|school|training|undergraduate
+Exported first 100 using Publish or Perish. 

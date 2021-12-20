@@ -1,0 +1,18 @@
+Update (Database, number of results, time/date):
+- Cochrane Library (Wiley) (Cochrane Reviews, Cochrane Protocols, Trials): 32, 11:35 on Dec 20, 2021
+(From Jan 2021-Dec 2021)
+- CINAHL (Published Date: 20210101-20221231): 210, 11:50am on Dec 20, 2021
+- Embase (limit yr="2021 -Current"): 672, 11:52am on Dec 20, 2021
+- MEDLINE (limit yr="2021 -Current"): 364, 11:57am on Dec 20, 2021
+total: 1278
+212 duplicates removed by Covidence
+imported after deduplication: 1066
+
+
+Initial search, January 29, 2021:
+- Cochrane: 265; 264 imported (1 editorial not imported) 
+- CINAHL: 2707 84 dups removed in endnote 
+- Embase: 6302; 77 dups removed in endnote, 6225 remained 
+- MEDLINE: 4260; 26 dups removed in endnote, 4234 remained 
+3168 duplicates removed by Covidence
+9927 after dedup in covidence 
