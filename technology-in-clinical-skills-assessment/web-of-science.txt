@@ -1,3 +1,16 @@
 How to quickly record which WOS editions you searched: https://twitter.com/pingue7/status/1471576277236973569/photo/2
-TS=("clinical skills" AND assess* AND "artificial intelligence")
-5 results
+
+Web of Science Core Collection, Editions = A&HCI , BKCI-SSH , BKCI-S , CCR-EXPANDED , ESCI , IC , CPCI-SSH , CPCI-S , SCI-EXPANDED , SSCI
+
+TS=((clinical NEAR/2 (competenc* OR reasoning OR skill?)) AND (((artificial OR computational OR machine) NEAR/2 (intelligence OR learning OR scoring)) OR "automated reasoning" OR "automatic analysis" OR (bayesian NEAR/2 network?) OR (biological NEAR/2 ontolog*) OR clustering* OR (cluster NEAR/2 analys*) OR (computer NEAR/2 (heuristic? OR reasoning OR vision)) OR "deep learning" OR (expert NEAR/2 system?) OR "fuzzy logic" OR ("multifactor dimensionality" NEAR/2 reduction) OR ("natural language" NEAR/2 processing?) OR nlp OR (neural NEAR/2 network?) OR (predictive NEAR/2 analytic?) OR (sentiment NEAR/2 (analys* OR classification?)) OR ("support vector" NEAR/2 machine?) OR "text classification" OR ((text OR opinion) NEAR/2 mining) OR text-mining OR "transfer learning" OR (topic NEAR/2 model?)) AND (clerkship? OR education OR intern OR intern* OR learner? OR learning OR pgy? OR postgraduate? OR residency OR resident? OR rotation? OR school* OR student? OR trainee? OR training? OR undergraduate?))	178
+Retrieved 5 from validation set*
+saved as "AI in CS assessment 12-20-21"
+https://www.webofscience.com/wos/woscc/summary/a8b50c3e-7a97-422f-9d13-3bac336de7cd-1a312254/relevance/1
+
+WOS Quick Reference: http://wokinfo.com/media/pdf/qrc/wos-corecoll_qrc_en.pdf 
+
+*Articles from validation set not retrieved due to lack of CS keywords:
+10.1097/ICU.0000000000000788
+10.1007/s10459-020-10009-8
+10.1080/10503307.2020.1741047
+10.1097/MOU.0000000000000824
