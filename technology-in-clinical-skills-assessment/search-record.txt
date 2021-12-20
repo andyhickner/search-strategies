@@ -1,4 +1,5 @@
 Database: number exported, date, time (US Eastern):
+Google Scholar via Publish or Perish: first 100 results (
 Embase: 340, 8:40am on Dec 20, 2021
 MEDLINE: 587, 8:50am on Dec 20, 2021
 WOS: 178, 10:15am on Dec 20, 2021
