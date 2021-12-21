@@ -1,0 +1,34 @@
+embase:
+(12450163 or 15982428 or 27940902 or 28941542 or 29056764 or 31651628 or 31874458 or 32330969 or 32855234 or 34698760 or 34805041 or 34871044).pm.
+9 results
+
+MEDLINE:
+(12450163 or 15982428 or 27940902 or 28941542 or 29056764 or 31651628 or 31874458 or 32330969 or 32855234 or 34698760 or 34805041 or 34871044).ui.
+12 results
+
+34805041 lacks any keywords/indexing for religion/spiritual; closest it gets is "coping strategies"
+34698760 and 34871044 lacks any keywords/indexing for children
+
+1. Loewenstein K, Barroso J, Phillips S. The experiences of parents in the neonatal intensive care unit: an integrative review of qualitative studies within the transactional model of stress and coping. J Perinat Neonatal Nurs. 2019;33(4):340–349. PMID: 31651628
+   
+   2. Brelsford GM, Doheny KK. Religious and Spiritual Journeys: Brief Reflections from Mothers and Fathers in a Neonatal Intensive Care Unit (NICU). Pastoral Psychol. 2016 Feb;65(1):79–87. PMID 29056764, PMCID: PMC5647828
+   
+   3. Zuniga-Villanueva G, Widger K, Medeiros C, Trenholm M, Streuli JC. Specialized Pediatric Palliative Care in Neonates with Life-Limiting Illness: A Systematic Review. Am J Perinatol. 2021 Aug;38(S 01):e318–e329. PMID: 32330969
+   
+   4. Santos PMD, Rodrigues K de S, Pinheiro LA, Santana B de S, Ipólito MZ, Magro MC da S. Religious and spiritual support in the conception of nurses and families of critical patients: a cross-sectional study. Rev Esc Enferm USP. 2021 Oct 25;55:e20200508. PMID: 34698760
+   
+   5. Grandjean C, Ullmann P, Marston M, Maitre M-C, Perez M-H, Ramelet A-S, OCToPuS Consortium. Sources of stress, family functioning, and needs of families with a chronic critically ill child: A qualitative study. Front Pediatr. 2021 Nov 4;9:740598. PMID 34805041, PMCID: PMC8600118
+   
+   6. Arutyunyan T, Odetola F, Swieringa R, Niedner M. Religion and spiritual care in pediatric intensive care unit: parental attitudes regarding physician spiritual and religious inquiry. Am J Hosp Palliat Care. 2018 Jan;35(1):28–33. PMID: 27940902
+   
+   7. Meert KL, Thurston CS, Briller SH. The spiritual needs of parents at the time of their child’s death in the pediatric intensive care unit and during bereavement: a qualitative study. Pediatr Crit Care Med. 2005 Jul;6(4):420–427. PMID: 15982428
+   
+   8. Kestenbaum A, Fitchett G, Galchutt P, Labuschagne D, Varner-Perez SE, Torke AM, Kamal AH. Top ten tips palliative care clinicians should know about spirituality in serious illness. J Palliat Med. 2021 Dec 6; PMID: 34871044
+   
+   9. Suttle ML, Jenkins TL, Tamburro RF. End-of-Life and Bereavement Care in Pediatric Intensive Care Units. Pediatr Clin North Am. 2017 Oct;64(5):1167–1183. PMID 28941542, PMCID: PMC5747301
+   
+   10. Abela KM, Wardell D, Rozmus C, LoBiondo-Wood G. Impact of pediatric critical illness and injury on families: an updated systematic review. J Pediatr Nurs. 2020;51:21–31. PMID: 31874458
+   
+   11. Desai PP, Ng JB, Bryant SG. Care of children and families in the CICU: A focus on their developmental, psychosocial, and spiritual needs. Crit Care Nurs Q. 2002 Nov;25(3):88–97. PMID: 12450163
+   
+   12. Gradick K, October T, Pascoe D, Fleming J, Moore D. “I’m praying for a miracle”: characteristics of spiritual statements in paediatric intensive care unit care conferences. BMJ Support Palliat Care. 2020 Aug 27; PMID: 32855234

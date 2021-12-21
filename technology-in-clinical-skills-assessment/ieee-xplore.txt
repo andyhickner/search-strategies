@@ -1,4 +1,5 @@
 http://ezproxy.med.cornell.edu/login?url=http://ieeexplore.ieee.org/Xplore/dynhome.jsp
+*DO NOT USE FOR FUTURE PROJECTS, this database is not suited to systematic searching and the developers are 
 
 (clinical NEAR/1 (competence OR reasoning OR skill*)) AND assess* AND ("artificial intelligence" OR "data mining" OR "natural language processing" OR "neural network*" OR "text mining")
 12 results

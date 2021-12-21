@@ -1,0 +1,5 @@
+Ovid MEDLINE(R) ALL <1946 to December 20, 2021>
+
+1	(exp child/ or exp infant/ or exp pediatrics/ or (child$ or neonat$ or newborn$ or p?ediatric$).tw,kf.) and (exp pastoral care/ or exp religion/ or exp spirituality/ or (pastoral or religio$ or spiritual$).tw,kf.) and (exp critical care/ or exp Intensive Care, Neonatal/ or exp Intensive Care Units, Pediatric/ or exp terminal care/ or (((critical$ or intensive or palliative or serious$) adj1 (care or ill$)) or hospice$ or life-limiting or nicu or picu).tw,kf.)	989
+Retrieves 9/12 in validation set
+saved as "spiritual needs of critically ill children 12-21-21"
