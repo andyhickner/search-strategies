@@ -1,0 +1,9 @@
+http://ezproxy.med.cornell.edu/login?url=https://dl.acm.org/
+
+ACM Guide to Computing Literature (ACM Digital Library)
+("clinical skills" or "clinical reasoning") AND (assess* OR or checklist* or evaluat* or measur*) AND ("artificial intelligence" OR "data mining" OR "natural language processing" OR "neural network*" OR "text mining") AND (clerkship? OR education OR intern OR intern* OR learner? OR learning OR pgy OR postgraduate? OR residency OR resident? OR rotation? OR school* OR student? OR trainee? OR training? OR undergraduate)
+159 results
+saved as "AI in CS assessment 12-21-21"
+
+Documentation: https://dl.acm.org/search/advanced
+No proximity operators in this database

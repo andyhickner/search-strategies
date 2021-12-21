@@ -2,9 +2,13 @@ Database: number exported, date, time (US Eastern):
 Embase: 340, 8:40am on Dec 20, 2021
 MEDLINE: 587, 8:50am on Dec 20, 2021
 WOS: 178, 10:15am on Dec 20, 2021
-Total imported: (-100 from Google Scholar, see below)
-Duplicates automatically removed by Covidence:
-Total after deduplication: 
+IEEE Xplore: 12, 9:30am on Dec 21, 2021
+Engineering Village (Elsevier): 10, 10am on Dec 21, 2021
+ACM Guide to Computing Literature (ACM Digital Library): 159*, 10:20am on Dec 21, 2021
+*160 were imported; 1 appears to be an accidental duplicate import
+Total imported: 1287
+Duplicates automatically removed by Covidence: 148
+Total after deduplication: 1139
 
 Other methods:
 Google Scholar via Publish or Perish: first 100 results, 12:30pm on Dec 20, 2021

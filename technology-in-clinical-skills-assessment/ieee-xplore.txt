@@ -1,0 +1,31 @@
+http://ezproxy.med.cornell.edu/login?url=http://ieeexplore.ieee.org/Xplore/dynhome.jsp
+
+(clinical NEAR/1 (competence OR reasoning OR skill*)) AND assess* AND ("artificial intelligence" OR "data mining" OR "natural language processing" OR "neural network*" OR "text mining")
+12 results
+
+Remarks:
+Eliminated education hedge and most of the AI hedge because they caused the search to exceed the limit on number of terms and wildcards. 
+
+Database documentation:
+https://ieeexplore-ieee-org.ezproxy.med.cornell.edu/Xplorehelp/searching-ieee-xplore/search-engine
+
+There is a limit of 40 terms within a search. Operators and field names do not count towards the maximum limit.
+A maximum of 20 terms are allowed within each clause. A clause is any search criteria included between the Boolean operators AND, OR, NOT.
+
+Asterisk wildcard (*) can be used:
+for a single character or multiple characters.
+for zero or more characters.
+at the end of a word.
+at the beginning of the word (left truncation).
+in the middle of a word.
+Maximum wildcards per search: 7
+Minimum characters required: 3
+Exception: Author Facet (2)
+Supported with proximity operators.
+Supported for full-text searches.
+Supported with phrased searching.
+Supports a question mark (?) for single character wildcard.
+
+Operators must be in ALL CAPS.
+Boolean operators can be combined with proximity searches, for example:
+(A OR B) NEAR/5 (C OR D)

@@ -1,0 +1,9 @@
+Engineering Village (Elsevier):
+(clinical NEAR/1 skills) AND assess* AND ("artificial intelligence" OR "data mining" OR "natural language processing" OR "neural network*" OR "text mining") AND (clerkship? OR education OR intern OR intern* OR learner? OR learning OR pgy OR postgraduate? OR residency OR resident? OR rotation? OR school* OR student? OR trainee? OR training? OR undergraduate)
+10 records
+saved as "AI in CS assessment 12-21-21"
+
+https://service-elsevier-com.ezproxy.med.cornell.edu/app/answers/detail/a_id/25941/supporthub/engineering-village/#syntax
+Please note that NEAR searches are transformed to a Boolean operator AND query when wildcard or truncation operators are present.
+Wildcards or truncation operators are ignored for exact searches.
+Can't use NEAR in combination with parentheses
