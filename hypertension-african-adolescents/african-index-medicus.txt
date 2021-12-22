@@ -1,0 +1,7 @@
+https://search.bvsalud.org/aimafro/advanced/?lang=en
+
+tw:((mh:("Adolescent") OR adolescen* OR teen* OR youth*) AND (mh:("hypertension") OR "arterial hypertension" OR "blood pressure"))
+15 results
+
+Documentation: https://www.globalindexmedicus.net/wp-content/themes/globalindexmedicus/img/guiaen.pdf 
+$ = multiple character truncation

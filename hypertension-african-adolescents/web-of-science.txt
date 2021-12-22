@@ -1,0 +1,15 @@
+https://www-webofscience-com.ezproxy.med.cornell.edu/wos/woscc/basic-search
+Editions = A&HCI , BKCI-SSH , BKCI-S , CCR-EXPANDED , ESCI , IC , CPCI-SSH , CPCI-S , SCI-EXPANDED , SSCI
+
+TS=((adolescen* or teen* or youth$) and ((Africa* or Angola* or Benin* or Botswan* or Burkina Faso or Burundi* or Cameroon* or (Canary NEAR/1 island*) or (Cape NEAR/2 Verde*) or Chad or Comoros or Congo* or Djibouti* or (Equatorial NEAR/1 Guinea) or Eritrea* or Ethiopia* or Gabon* or Gambia* or Ghana* or Guinea* or "Guinea Bissau" or "Ivory Coast" or "Cote d'Ivoire" or Jamahiriya or Kenya* or Lesotho or Liberia* or Madagascar or malagasy or Malawi or Mali or Mauritania* or Mauritius or Mozambique or Mocambique or Mozambique or Namibia* or Niger* or Principe or Reunion or Rwanda* or "Sao Tome" or Senegal* or Seychelles or "Sierra Leone" or Somalia* or "saint helena" or "St. Helena" or Sudan* or Swaziland or Tanzania* or Togo or Uganda* or Zaire* or Zambia* or Zimbabwe* or sub-Saharan) not (african-american or (african NEAR/1 american$) or (guinea NEAR/1 pig$) or "aspergillus niger")) and ((hypertens* or (blood NEAR/1 pressure*)) NOT (("portal hypertension" or "pulmonary hypertension") NOT "arterial hypertension")))
+https://www.webofscience.com/wos/woscc/summary/36c6dab4-e544-4222-b76b-290ca061632f-1aa05d73/relevance/1
+373 results
+Retrieves all 10 in validation set
+
+(17954720 or 25427456 or 28082664 or 28353557 or 29253478 or 29854068 or 30811099 or 31037205 or 31781715 or 33235075 or 34152698 or 34331050).ui.
+
+WOS Quick Reference: http://wokinfo.com/media/pdf/qrc/wos-corecoll_qrc_en.pdf 
+truncation:
+* = unlimited
+$ = zero or 1 character
+? = 1 character

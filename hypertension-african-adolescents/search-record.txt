@@ -1,0 +1,10 @@
+Databases, number of results, time/date of export
+African Index Medicus: 15, 9:12am on Dec 22, 2021
+Web of Science: 373, 9:30am on Dec 22, 2021
+MEDLINE ALL: 1882, 9:45am on Dec 22, 2021
+Embase: 1538, 9:58am on Dec 22, 2021
+Total before deduplication: 3,808 (excludes Google Scholar*)
+
+*Other sources:
+Google Scholar: first 200, 8:52am on Dec 22, 2021
+1 duplicate removed by Covidence

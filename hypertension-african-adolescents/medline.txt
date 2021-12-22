@@ -1,0 +1,6 @@
+Ovid MEDLINE(R) ALL <1946 to December 21, 2021>
+
+1	(exp adolescent/ or (adolescen$ or teen$ or youth$).tw,kf.) and ((exp African Continental Ancestry Group/ not exp african americans/) or ((Africa$ or Angola$ or Benin$ or Botswan$ or Burkina Faso or Burundi$ or Cameroon$ or Canary Island$ or Cape Verde$ or Chad or Comoros or Congo$ or Djibouti$ or Equatorial Guinea$ or Eritrea$ or Ethiopia$ or Gabon$ or Gambia$ or Ghana$ or Guinea$ or Guinea Bissau or Ivory Coast or Cote d'Ivoire or Jamahiryia or Kenya$ or Lesotho or Liberia$ or Madagascar or malagasy or Malawi or Mali or Mauritania$ or Mauritius or Mozambique or Mocambique or Mozambique or Namibia$ or Niger$ or Principe or Reunion or Rwanda$ or Sao Tome or Senegal$ or Seychelles or Sierra Leone$ or Somalia$ or ((Saint or St or "St.") adj1 Helena) or Sudan$ or Swaziland or Tanzania$ or Togo or Uganda$ or Zaire$ or Zambia$ or Zimbabwe$ or sub-Saharan) not (african american$ or african-american$ or guinea pig$ or aspergillus niger)).tw,kf.) and (exp hypertension/ or (arterial hypertens$ or blood pressure$).tw,kf.)	1882
+
+Retrieves all 12 in validation set
+saved as "hypertension African adolescents medline 12-22-21"
