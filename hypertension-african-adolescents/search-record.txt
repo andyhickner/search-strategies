@@ -1,3 +1,5 @@
+All times US Eastern
+
 Databases, number of results, time/date of export
 African Index Medicus: 15, 9:12am on Dec 22, 2021
 Web of Science: 373, 9:30am on Dec 22, 2021
