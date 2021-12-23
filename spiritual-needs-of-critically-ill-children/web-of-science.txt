@@ -1,0 +1,7 @@
+Web of Science, Editions = A&HCI , BKCI-SSH , BKCI-S , CCR-EXPANDED , ESCI , IC , CPCI-SSH , CPCI-S , SCI-EXPANDED , SSCI
+
+TS=((child* or infant* or neonat* or newborn* or p$ediatric*) and (pastoral or religio* or spiritual*) and ((artificial* NEAR/1 (feed* or ventilat*)) or ((critical* or intensive or palliative or serious* or terminal*) NEAR/1 (care or ill*)) or "end of life" or "end-of-life" or hospice* or life-limiting or "life support" or nicu or picu))	660
+Retrieved all 16 in validation sette
+saved as "spiritual needs of critically ill children 12-23-21"
+
+https://www.webofscience.com/wos/woscc/summary/5d987651-6dba-47ec-ba57-732efe9d0d50-1ad7a5e5/relevance/1

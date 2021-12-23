@@ -1,0 +1,14 @@
+https://www-proquest-com.ezproxy.med.cornell.edu/socabs/index?accountid=10267
+
+Relevancy is low; don't use this database in the search.
+
+ab(((child* OR infant* OR neonat* OR newborn* OR p*ediatric*) AND (pastoral OR religio* OR spiritual*) AND ((artificial* NEAR/1 (feed* OR ventilat*)) OR ((critical* OR intensive OR palliative OR serious* OR terminal*) NEAR/1 (care OR ill*)) OR "end of life" OR "end-of-life" OR hospice* OR life-limiting OR "life support" OR nicu OR picu))) OR ti(((child* OR infant* OR neonat* OR newborn* OR p*ediatric*) AND (pastoral OR religio* OR spiritual*) AND ((artificial* NEAR/1 (feed* OR ventilat*)) OR ((critical* OR intensive OR palliative OR serious* OR terminal*) NEAR/1 (care OR ill*)) OR "end of life" OR "end-of-life" OR hospice* OR life-limiting OR "life support" OR nicu OR picu)))	30
+Limit to Source types: Books, Conference Papers & Proceedings, Dissertations & Theses, Scholarly Journals
+saved as "spiritual needs of critically ill children 12-23-21"
+https://www-proquest-com.ezproxy.med.cornell.edu/search/2064365?accountid=10267
+
+search help: 
+https://www-proquest-com.ezproxy.med.cornell.edu/help/academic/webframe.html?Help_Overview.html#Search_Tips.html
+? single char
+* 0 to many characters (use this)
+NEAR/n

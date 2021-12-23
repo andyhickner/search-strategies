@@ -1,1 +1,9 @@
 https://rtabstracts-org.ezproxy.med.cornell.edu/search/
+
+((child$ or infant$ or neonat$ or newborn* or p?ediatric*) and (pastoral or religio* or spiritual*) and ((artificial* NEAR/1 (feed* or ventilat*)) or ((critical* or intensive or palliative or serious* or terminal*) NEAR/1 (care or ill*)) or "end of life" or "end-of-life" or hospice* or life-limiting or "life support" or nicu or picu))
+
+Search documentation:
+https://rtabstracts-org.ezproxy.med.cornell.edu/search/help/index.php
+
++child* spiritual* religio* +"critical care" = 0
++child* spiritual* religio* +"intensive care" = only 1 result, 10.1007/s11089-015-0673-1 (Brelsford 2016), which is also retrieved by WOS search.
