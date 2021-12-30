@@ -1,3 +1,6 @@
+
+ADD exp spiritual therapies/
+
 Ovid MEDLINE(R) ALL <1946 to December 21, 2021>
 
 1	(exp child/ or exp infant/ or exp pediatrics/ or (child$ or infant$ or neonat$ or newborn$ or p?ediatric$).tw,kf.) and (exp pastoral care/ or exp religion/ or exp spirituality/ or (pastoral or religio$ or spiritual$).tw,kf.) and (exp critical care/ or exp Intensive Care, Neonatal/ or exp Intensive Care Units/ or exp palliative care/ or exp terminal care/ or ((artificial$ adj1 (feed$ or ventilat$)) or ((critical$ or intensive or palliative or serious$ or terminal$) adj1 (care or ill$)) or "end of life" or "end-of-life" or hospice$ or life-limiting or life support or nicu or picu).tw,kf.)	1094
