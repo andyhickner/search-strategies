@@ -1,17 +1,11 @@
-Embase <1974 to 2021 December 21>
+Embase <1974 to 2021 December 29>
 
-1	(exp child/ or exp pediatrics/ or (child$ or infant$ or neonat$ or newborn$ or p?ediatric$).tw,kf.) and (exp pastoral care/ or exp religion/ or (pastoral or religio$ or spiritual$).tw,kf.) and (exp intensive care/ or exp intensive care unit/ or exp palliative therapy/ or exp terminal care/ or ((artificial$ adj1 (feed$ or ventilat$)) or ((critical$ or intensive or palliative or serious$ or terminal$) adj1 (care or ill$)) or "end of life" or "end-of-life" or hospice$ or life-limiting or life support or nicu or picu).tw,kf.)	1663
+1	(exp child/ or exp pediatrics/ or (child$ or infant$ or neonat$ or newborn$ or nicu or p?ediatric$ or prenatal or pre-natal or picu).tw,kf.) and (exp pastoral care/ or exp religion/ or (pastoral or religio$ or spiritual$).tw,kf.) and (exp intensive care/ or exp intensive care unit/ or ((artificial$ adj1 (feed$ or ventilat$)) or ((critical$ or intensive or serious$) adj1 (care or ill$)) or life support or nicu or picu).tw,kf.)	805
+Retrieves all 9 in validation set
+saved as "spiritual needs of critically ill children embase 12-30-21"
 
-Retrieves all 11 in validation set
-saved as "spiritual needs of critically ill children embase 12-22-21"
-
-Notes:
+Remarks:
+nicu and picu are repeated intentionally in order to increase sensitivity
 exp child/ retrieves infant/ 
 religion/ is the EMTREE for spirituality 
 intensive care/ is the emtree for critical care
-
-Add: 
-artificial feeding
-artificial ventilation
-life support
-palliative care
