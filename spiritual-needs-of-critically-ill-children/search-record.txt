@@ -1,8 +1,12 @@
 All times US Eastern
 
 Databases:
-PsycINFO: 689, 2:40pm on Dec 22, 2021
-Web of Science: 660, 10:10am on Dec 23, 2021
+Embase: 909, 10am on January 6, 2022 
+MEDLINE: 495, 9:57am on January 6, 2022 
+PsycINFO: 279, 9:54am on January 6, 2022 
+Web of Science: 374, 9:36am on January 6, 2022
+415 duplicates removed by Covidence
+1842 studies after automatic deduplication (includes the 200 from GS)
 
 Other sources:
-Google Scholar via Harzing's Publish or Perish: first 100 results, 11:35am on Dec 22, 2021
+Google Scholar via Harzing's Publish or Perish: first 200 results, 10:10am on January 6, 2022

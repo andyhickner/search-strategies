@@ -1,11 +1,14 @@
 PsycINFO (EBSCOhost):
 
-(DE "Pediatrics" OR TX(child* or infant* or neonat* or newborn* or p#ediatric*)) and (DE "Pastoral Counseling" or DE "Religion" OR DE "Spirituality" OR DE "Spiritual Care" or TX(pastoral or religio* or spiritual*)) and (DE "Hospice" OR DE "Palliative Care" or DE "Terminally Ill Patients" or TX((artificial* N1 (feed* or ventilat*)) or ((critical* or intensive or palliative or serious* or terminal*) N1 (care or ill*)) or "end of life" or "end-of-life" or hospice* or life-limiting or life support or nicu or picu))
-689 results
+(DE "Pediatrics" OR TX(child* or infant* or neonat* or newborn* or p#ediatric* or prenatal or pre-natal or picu)) and (DE "Meditation" OR DE "Pastoral Counseling" or DE "Religion" OR DE "Religious Beliefs" OR DE "Religious Communities" OR DE "Religious Conversion" OR DE "Religious Experiences" OR DE "Religious Groups" OR DE "Religious Literature" OR DE "Religious Practices" OR DE "Spirituality" OR DE "Spiritual Well Being" OR DE "Spiritual Care" or TX(belief in god or existential or faith in god or meditat* or mindfulness or pastoral or prayer# or religio* or spiritual*)) and (TX((artificial* N1 (feed* or ventilat*)) or ((critical* or intensive or serious*) N1 (care or ill*)) or life support or nicu or picu))
+279 results
+saved as "spiritual needs of critically ill children psycinfo 1-6-22"
+
+(exp child/ or exp infant/ or exp pediatrics/ or (child$ or infant$ or neonat$ or newborn$ or nicu or p?ediatric$ or prenatal or pre-natal or picu).tw,kf.) and (exp meditation/ or exp pastoral care/ or exp religion/ or exp spiritual therapies/ or exp spirituality/ or (belief in god or existential or faith in god or meditat$ or mindfulness or pastoral or prayer? or religio$ or spiritual$).tw,kf.) and (exp critical care/ or exp Intensive Care, Neonatal/ or exp Intensive Care Units/ or ((artificial$ adj1 (feed$ or ventilat$)) or ((critical$ or intensive or serious$) adj1 (care or ill$)) or life support or nicu or picu).tw,kf.)
 
 Search modes - Boolean/Phrase
 permalink:
-http://ezproxy.med.cornell.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=psyh&bquery=(DE+%26quot%3bPediatrics%26quot%3b+OR+TX(child*+or+infant*+or+neonat*+or+newborn*+or+p%23ediatric*))+and+(DE+%26quot%3bPastoral+Counseling%26quot%3b+or+DE+%26quot%3bReligion%26quot%3b+OR+DE+%26quot%3bSpirituality%26quot%3b+OR+DE+%26quot%3bSpiritual+Care%26quot%3b+or+TX(pastoral+or+religio*+or+spiritual*))+and+(DE+%26quot%3bHospice%26quot%3b+OR+DE+%26quot%3bPalliative+Care%26quot%3b+or+DE+%26quot%3bTerminally+Ill+Patients%26quot%3b+or+TX((artificial*+N1+(feed*+or+ventilat*))+or+((critical*+or+intensive+or+palliative+or+serious*+or+terminal*)+N1+(care+or+ill*))+or+%26quot%3bend+of+life%26quot%3b+or+%26quot%3bend-of-life%26quot%3b+or+hospice*+or+life-limiting+or+life+support+or+nicu+or+picu))&type=1&searchMode=Standard&site=ehost-live&scope=site
+http://ezproxy.med.cornell.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=psyh&bquery=(DE+%26quot%3bPediatrics%26quot%3b+OR+TX(child*+or+infant*+or+neonat*+or+newborn*+or+p%23ediatric*+or+prenatal+or+pre-natal+or+picu))+and+(DE+%26quot%3bMeditation%26quot%3b+OR+DE+%26quot%3bPastoral+Counseling%26quot%3b+or+DE+%26quot%3bReligion%26quot%3b+OR+DE+%26quot%3bReligious+Beliefs%26quot%3b+OR+DE+%26quot%3bReligious+Communities%26quot%3b+OR+DE+%26quot%3bReligious+Conversion%26quot%3b+OR+DE+%26quot%3bReligious+Experiences%26quot%3b+OR+DE+%26quot%3bReligious+Groups%26quot%3b+OR+DE+%26quot%3bReligious+Literature%26quot%3b+OR+DE+%26quot%3bReligious+Practices%26quot%3b+OR+DE+%26quot%3bSpirituality%26quot%3b+OR+DE+%26quot%3bSpiritual+Well+Being%26quot%3b+OR+DE+%26quot%3bSpiritual+Care%26quot%3b+or+TX(belief+in+god+or+existential+or+faith+in+god+or+meditat*+or+mindfulness+or+pastoral+or+prayer%23+or+religio*+or+spiritual*))+and+(TX((artificial*+N1+(feed*+or+ventilat*))+or+((critical*+or+intensive+or+serious*)+N1+(care+or+ill*))+or+life+support+or+nicu+or+picu))&type=1&searchMode=Standard&site=ehost-live&scope=site
 
 https://support-ebsco-com.ezproxy.med.cornell.edu/help/?int=ehost&lang=en&feature_id=&TOC_ID=Always&SI=0&BU=0&GU=1&PS=0&ver=&dbs=psyh
 truncation and wildcard:
@@ -16,5 +19,6 @@ The question mark (?) matches exactly one character.
 proximity: https://support-ebsco-com.ezproxy.med.cornell.edu/help/index.php?help_id=55
 
 Not in thesaurus: child, infant, 
+DE "Religion" retrieves thesaurus term "meditation"
 
 

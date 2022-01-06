@@ -1,2 +1,2 @@
-
-child|children|infant|pediatric|neonatal|newborn|newborns religion|religious|spiritual|spirituality "critical care"|"critical illness"|"end of life"|"end-of-life"|hospice|"intensive care"|nicu|palliative|picu|"serious illness"|"terminal care"
+first 200 Google Scholar references via Harzing's Publish or Perish:
+child|children|infant|pediatric|neonatal|newborn|newborn|pre-natal "belief in god"|chaplain|"faith in god"|existential|meditation|pastoral|prayer|religion|religious|spiritual|spirituality "critical care"|"critical illness"|"intensive care"|"life support"|nicu||picu|"serious illness"

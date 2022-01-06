@@ -1,12 +1,9 @@
+Ovid MEDLINE(R) ALL <1946 to January 05, 2022>
 
-ADD exp spiritual therapies/
+1	(exp child/ or exp infant/ or exp pediatrics/ or (child$ or infant$ or neonat$ or newborn$ or nicu or p?ediatric$ or prenatal or pre-natal or picu).tw,kf.) and (exp meditation/ or exp pastoral care/ or exp religion/ or exp spiritual therapies/ or exp spirituality/ or (belief in god or existential or faith in god or meditat$ or mindfulness or pastoral or prayer? or religio$ or spiritual$).tw,kf.) and (exp critical care/ or exp Intensive Care, Neonatal/ or exp Intensive Care Units/ or ((artificial$ adj1 (feed$ or ventilat$)) or ((critical$ or intensive or serious$) adj1 (care or ill$)) or life support or nicu or picu).tw,kf.)	495
 
-Ovid MEDLINE(R) ALL <1946 to December 21, 2021>
+Retrieves all 10 in validation set
+saved as "spiritual needs of critically ill children medline 1-6-22"
 
-1	(exp child/ or exp infant/ or exp pediatrics/ or (child$ or infant$ or neonat$ or newborn$ or p?ediatric$).tw,kf.) and (exp pastoral care/ or exp religion/ or exp spirituality/ or (pastoral or religio$ or spiritual$).tw,kf.) and (exp critical care/ or exp Intensive Care, Neonatal/ or exp Intensive Care Units/ or exp palliative care/ or exp terminal care/ or ((artificial$ adj1 (feed$ or ventilat$)) or ((critical$ or intensive or palliative or serious$ or terminal$) adj1 (care or ill$)) or "end of life" or "end-of-life" or hospice$ or life-limiting or life support or nicu or picu).tw,kf.)	1094
-
-Retrieves all 12 in validation set
-saved as "spiritual needs of critically ill children medline 12-22-21"
-
-More focused:
-(exp child/ or exp infant/ or exp pediatrics/ or (child$ or infant$ or neonat$ or newborn$ or p?ediatric$).tw,kf.) and (exp pastoral care/ or exp religion/ or exp spirituality/ or (pastoral or religio$ or spiritual$).tw,kf.) and (exp critical care/ or exp Intensive Care, Neonatal/ or exp Intensive Care Units/ or ((artificial$ adj1 (feed$ or ventilat$)) or ((critical$ or intensive or serious$) adj1 (care or ill$)) or nicu or picu).tw,kf.)
+Remarks:
+nicu and picu are repeated intentionally in order to increase sensitivity

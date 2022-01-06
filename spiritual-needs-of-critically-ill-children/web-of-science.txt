@@ -1,7 +1,14 @@
-Web of Science, Editions = A&HCI , BKCI-SSH , BKCI-S , CCR-EXPANDED , ESCI , IC , CPCI-SSH , CPCI-S , SCI-EXPANDED , SSCI
+Web of Science, Editions = A&HCI, BKCI-SSH, BKCI-S, CCR-EXPANDED, ESCI, IC, CPCI-SSH, CPCI-S, SCI-EXPANDED, SSCI
 
-TS=((child* or infant* or neonat* or newborn* or p$ediatric*) and (pastoral or religio* or spiritual*) and ((artificial* NEAR/1 (feed* or ventilat*)) or ((critical* or intensive or palliative or serious* or terminal*) NEAR/1 (care or ill*)) or "end of life" or "end-of-life" or hospice* or life-limiting or "life support" or nicu or picu))	660
-Retrieved all 16 in validation sette
-saved as "spiritual needs of critically ill children 12-23-21"
+TS=((child* or infant* or neonat* or newborn* or p$ediatric* or prenatal or pre-natal or picu) and (belief in god or existential or faith in god or meditat* or mindfulness or pastoral or prayer$ or religio* or spiritual*) and ((artificial* NEAR/1 (feed* or ventilat*)) or ((critical* or intensive or serious*) NEAR/1 (care or ill*)) or "life support" or nicu or picu))	374
+Retrieved all 8 in validation set
 
-https://www.webofscience.com/wos/woscc/summary/5d987651-6dba-47ec-ba57-732efe9d0d50-1ad7a5e5/relevance/1
+https://www.webofscience.com/wos/woscc/summary/b3bc07da-e50b-4aa3-8e6f-2f722b20e57c-1d406670/relevance/1
+
+medline:
+(exp child/ or exp infant/ or exp pediatrics/ or (child$ or infant$ or neonat$ or newborn$ or nicu or p?ediatric$ or prenatal or pre-natal or picu).tw,kf.) and (exp meditation/ or exp pastoral care/ or exp religion/ or exp spiritual therapies/ or exp spirituality/ or (belief in god or existential or faith in god or meditat$ or mindfulness or pastoral or prayer? or religio$ or spiritual$).tw,kf.) and (exp critical care/ or exp Intensive Care, Neonatal/ or exp Intensive Care Units/ or ((artificial$ adj1 (feed$ or ventilat$)) or ((critical$ or intensive or serious$) adj1 (care or ill$)) or life support or nicu or picu).tw,kf.)
+
+Help guide: http://webofscience.help.clarivate.com/en-us/Content/search-rules.htm
+The asterisk (*) represents any group of characters, including no character.
+The question mark (?) represents any single character.
+The dollar sign ($) represents zero or one character.

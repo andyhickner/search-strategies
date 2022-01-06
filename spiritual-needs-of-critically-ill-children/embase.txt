@@ -1,12 +1,9 @@
-Embase <1974 to 2021 December 29>
+Embase <1974 to 2022 January 05>
 
-1		(exp child/ or exp pediatrics/ or (child$ or infant$ or neonat$ or newborn$ or nicu or p?ediatric$ or prenatal or pre-natal or picu).tw,kf.) and (exp meditation/ or exp pastoral care/ or exp religion/ or (belief in god or faith in god or meditat$ or pastoral or prayer? or religio$ or spiritual$).tw,kf.) and (exp intensive care/ or exp intensive care unit/ or ((artificial$ adj1 (feed$ or ventilat$)) or ((critical$ or intensive or serious$) adj1 (care or ill$)) or life support or nicu or picu).tw,kf.)	844
+1	(exp child/ or exp pediatrics/ or (child$ or infant$ or neonat$ or newborn$ or nicu or p?ediatric$ or prenatal or pre-natal or picu).tw,kf.) and (exp meditation/ or exp pastoral care/ or exp religion/ or (belief in god or existential or faith in god or meditat$ or mindfulness or pastoral or prayer? or religio$ or spiritual$).tw,kf.) and (exp intensive care/ or exp intensive care unit/ or ((artificial$ adj1 (feed$ or ventilat$)) or ((critical$ or intensive or serious$) adj1 (care or ill$)) or life support or nicu or picu).tw,kf.)	909
 
-broader (includes mindfulness):
-(exp child/ or exp pediatrics/ or (child$ or infant$ or neonat$ or newborn$ or nicu or p?ediatric$ or prenatal or pre-natal or picu).tw,kf.) and (exp meditation/ or exp pastoral care/ or exp religion/ or (belief in god or faith in god or meditat$ or mindfulness or pastoral or prayer? or religio$ or spiritual$).tw,kf.) and (exp intensive care/ or exp intensive care unit/ or ((artificial$ adj1 (feed$ or ventilat$)) or ((critical$ or intensive or serious$) adj1 (care or ill$)) or life support or nicu or picu).tw,kf.)	876 
-
-Retrieves all 8 in validation set
-saved as "spiritual needs of critically ill children embase 12-30-21"
+Retrieves all 9 in validation set
+saved as "spiritual needs of critically ill children embase 1-6-22"
 
 Remarks:
 nicu and picu are repeated intentionally in order to increase sensitivity
@@ -17,4 +14,7 @@ intensive care/ is the emtree for critical care
 #=mandated wildcard (1 char) (eg wom#n)
 ?=optional wildcard (0 or 1)
 
-Tested religious keywords (eg Christian, Muslim/Islam, Jewish, etc) but additional articles retrieved appeared irrelevant (based on review of first 50)
+Tested the following:
+- Religious keywords (eg Christian, Muslim/Islam, Jewish, etc) but additional articles retrieved appeared irrelevant (based on review of first 50)
+- "deity” and assorted variations but they don’t retrieve anything relevant. “God/gods” retrieves a lot of false positives and nothing new relevant (“playing God” pops up a lot) but “belief in god or faith in god” pulled up 1 new possibly relevant article. 
+- Adding family, sibling, parents, etc to the child hedge but they increased irrelevant retrieval without retrieving any relevant new articles. 
