@@ -1,59 +1,58 @@
-without outcome hedge (broader)
-Ovid MEDLINE(R) ALL <1946 to November 19, 2021>
+Ovid MEDLINE(R) ALL <1946 to January 14, 2022>
 
-1	Chronic Pain/	18295
-2	exp Arthralgia/	14479
-3	exp Arthritis/	276120
-4	exp Back Pain/	41894
-5	Musculoskeletal Pain/	3921
-6	exp Osteoarthritis/	69554
-7	exp Arthritis, Rheumatoid/	118779
-8	(arthralgia or arthros?s or coxarthros?s or arthritides or arthritis or polyarthritides or polyarthritis or joint pain or back pain or backache or chronic pain or chronic non?cancer pain or cncp or musculoskeletal pain or osteoarthritis or OA or osteoporos?s or rheumat$ or caplan$ syndrome or Felty$ Syndrome or sicca syndrome or sjogren$ syndrome or still$ disease).mp.	627722
-9	((ach$ or dull or persistent or tingl$ or split$ or sharp or radiat$ or crushing or suffering$ or migratory or burn$ or throb$ or tender$ or sore$) adj3 pain).mp.	32090
-10	or/1-9	674629
-11	exp Aged/	3333154
-12	(Old or aged or elderly or senior* or geriatric*).mp.	6568201
-13	or/11-12	6568201
-14	Cognitive Therapy/	28045
-15	"Acceptance and Commitment Therapy"/	616
-16	Mindfulness/	4723
-17	Meditation/	3276
-18	Behavior Therapy/	29251
-19	(CBT or "Acceptance and Commitment Therapy" or mindfulness or meditation).mp.	27736
-20	(cognit$ adj2 (therap$ or treatment$ or training or educat$ or strateg$ or technique$ or psychotherap$ or program$ or intervention$ or analys$ or method$ or approach$ or modif$ or adapt$)).mp.	62040
-21	(behav$ adj2 (therap$ or treatment$ or training or educat$ or strateg$ or technique$ or psychotherap$ or program$ or intervention$ or analys$ or method$ or approach$ or modif$ or adapt$)).mp.	138064
-22	(group adj (therap$ or treat$ or intervention$)).mp.	24911
-23	or/14-22	197097
-24	10 and 13 and 23	2613
-25	24 not (animals not humans).sh.	2586
-26	Randomized controlled trials as Topic/	150326
-27	Randomized controlled trial/	550718
-28	Random allocation/	106217
-29	Double blind method/	168401
-30	Single blind method/	31214
-31	Clinical trial/	532375
-32	exp Clinical Trials as Topic/	366681
-33	or/26-32	1251944
-34	(clinic$ adj trial$).tw.	418050
-35	((singl$ or doubl$ or treb$ or tripl$) adj (blind$3 or mask$3)).tw.	184345
-36	Placebos/	35774
-37	Placebo$.tw.	230459
-38	Randomly allocated.tw.	32275
-39	(allocated adj2 random).tw.	806
-40	or/34-39	701887
-41	33 or 40	1563572
-42	Case report.tw.	348371
-43	Letter/	1159503
-44	Historical article/	366545
+1	Chronic Pain/	18720
+2	exp Arthralgia/	14593
+3	exp Arthritis/	278260
+4	exp Back Pain/	42223
+5	Musculoskeletal Pain/	3998
+6	exp Osteoarthritis/	70290
+7	exp Arthritis, Rheumatoid/	119550
+8	(arthralgia or arthros?s or coxarthros?s or arthritides or arthritis or polyarthritides or polyarthritis or joint pain or back pain or backache or chronic pain or chronic non?cancer pain or cncp or musculoskeletal pain or osteoarthritis or OA or osteoporos?s or rheumat$ or caplan$ syndrome or Felty$ Syndrome or sicca syndrome or sjogren$ syndrome or still$ disease).mp.	632911
+9	((ach$ or dull or persistent or tingl$ or split$ or sharp or radiat$ or crushing or suffering$ or migratory or burn$ or throb$ or tender$ or sore$) adj3 pain).mp.	32441
+10	or/1-9	680245
+11	exp Aged/	3357175
+12	(Old or aged or elderly or senior* or geriatric*).mp.	6614926
+13	or/11-12	6614926
+14	Cognitive Therapy/	28299
+15	"Acceptance and Commitment Therapy"/	632
+16	Mindfulness/	4890
+17	Meditation/	3348
+18	Behavior Therapy/	29379
+19	(CBT or "Acceptance and Commitment Therapy" or mindfulness or meditation).mp.	28343
+20	(cognit$ adj2 (therap$ or treatment$ or training or educat$ or strateg$ or technique$ or psychotherap$ or program$ or intervention$ or analys$ or method$ or approach$ or modif$ or adapt$)).mp.	62833
+21	(behav$ adj2 (therap$ or treatment$ or training or educat$ or strateg$ or technique$ or psychotherap$ or program$ or intervention$ or analys$ or method$ or approach$ or modif$ or adapt$)).mp.	139551
+22	(group adj (therap$ or treat$ or intervention$)).mp.	25115
+23	or/14-22	199485
+24	10 and 13 and 23	2633
+25	24 not (animals not humans).sh.	2605
+26	Randomized controlled trials as Topic/	151951
+27	Randomized controlled trial/	555855
+28	Random allocation/	106434
+29	Double blind method/	169410
+30	Single blind method/	31473
+31	Clinical trial/	533270
+32	exp Clinical Trials as Topic/	369143
+33	or/26-32	1260711
+34	(clinic$ adj trial$).tw.	423568
+35	((singl$ or doubl$ or treb$ or tripl$) adj (blind$3 or mask$3)).tw.	185539
+36	Placebos/	35852
+37	Placebo$.tw.	232042
+38	Randomly allocated.tw.	32668
+39	(allocated adj2 random).tw.	807
+40	or/34-39	709116
+41	33 or 40	1575738
+42	Case report.tw.	352467
+43	Letter/	1166322
+44	Historical article/	367256
 45	Review of reported cases.pt.	0
 46	Review, multicase.pt.	0
-47	or/42-46	1857099
-48	41 not 47	1526458
-49	25 and 48	1166
-50	("26304771" or "22078217" or "26903081").ui.	3
-51	49 and 50	3
+47	or/42-46	1868593
+48	41 not 47	1538364
+49	25 and 48	1177
+50	limit 49 to (english language and yr="2000 -Current")	996
 
-saved as "Reid and Scher 11-22-21 medline without outcome measure hedge"
+
+saved as "Scher MEDLINE 1-18-22"
 exported 1,166 at 11:05am on 11.23.21
 
 $$$

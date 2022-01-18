@@ -1,51 +1,8 @@
-PsycINFO (EBSCOhost)
-saved as "Reid and Scher 11-23-21 without outcome measure hedge"
-Total: 1,134
-Exported 1,134 at 10:30am ET on 11/23/21
-saved in Google account 
-#	Query
-S14	S5 AND S11 AND S12 AND S13
-	
-	
-S13	"double-blind" OR "random* assigned" OR control
-	
-	
-S12	Old or aged or elderly or senior* or geriatric*
-	
-	
-S11	S6 OR S7 OR S8 OR S9 OR S10
-	
-	
-S10	group N1 (therap* or treat* or intervention*)
-	
-	
-S9	behav* N2 (therap* or treatment* or training or educat* or strateg* or technique* or psychotherap* or program* or intervention* or analys* or method* or approach* or modif* or adapt*)
-	
-	
-S8	cognit* N2 (therap* or treatment* or training or educat* or strateg* or technique* or psychotherap* or program* or intervention* or analys* or method* or approach* or modif* or adapt*)
-	
-	
-S7	CBT or "Acceptance and Commitment Therapy" or mindfulness or meditation
-	
-	
-S6	DE "COGNITIVE BEHAVIOR THERAPY" OR DE "ACCEPTANCE AND COMMITMENT THERAPY") OR (DE "BEHAVIOR THERAPY")) OR (DE "COGNITIVE THERAPY")) OR (DE "MEDITATION")) OR (DE "MINDFULNESS"
-	
-	
-S5	S1 OR S2 OR S3
-	
-	
-S4	(TX ( (ach* or dull or persistent or tingl* or split* or sharp or radiat* or crushing or suffering* or migratory or burn* or throb* or tender* or sore*) N3 pain )) AND (S1 OR S2 OR S3)
-	
-	
-S3	TX (ach* or dull or persistent or tingl* or split* or sharp or radiat* or crushing or suffering* or migratory or burn* or throb* or tender* or sore*) N3 pain
-	
-	
-S2	TX (arthralgia or arthros?s or coxarthros?s or arthritides or arthritis or polyarthritides or polyarthritis or joint pain or back pain or backache or chronic pain or cncp or musculoskeletal pain or osteoarthritis or osteoporos?s or rheumat* or caplan* syndrome or Felty* Syndrome or sicca syndrome or sjogren* syndrome or still* disease)
-	
-	
-S1	((DE "Chronic Pain") OR (DE "Arthritis" OR DE "Rheumatoid Arthritis")) OR (DE "Back Pain")
-	
-	
+PsycINFO (EBSCOhost):
+(DE "Chronic Pain" OR DE "Arthritis" OR DE "Rheumatoid Arthritis" OR DE "Back Pain" OR TX (arthralgia or arthros?s or coxarthros?s or arthritides or arthritis or polyarthritides or polyarthritis or joint pain or back pain or backache or chronic pain or cncp or musculoskeletal pain or osteoarthritis or osteoporos?s or rheumat* or caplan* syndrome or Felty* Syndrome or sicca syndrome or sjogren* syndrome or still* disease OR ((ach* or dull or persistent or tingl* or split* or sharp or radiat* or crushing or suffering* or migratory or burn* or throb* or tender* or sore*) N3 pain))) AND (DE "COGNITIVE BEHAVIOR THERAPY" OR DE "ACCEPTANCE AND COMMITMENT THERAPY" OR DE "BEHAVIOR THERAPY" OR DE "COGNITIVE THERAPY" OR DE "MEDITATION" OR DE "MINDFULNESS" OR TX (CBT or "Acceptance and Commitment Therapy" or mindfulness or meditation or ((behav* OR cognit*) N2 (therap* or treatment* or training or educat* or strateg* or technique* or psychotherap* or program* or intervention* or analys* or method* or approach* or modif* or adapt*)) OR (group N1 (therap* or treat* or intervention*)))) AND (Old or aged or elderly or senior* or geriatric*) AND ("double-blind" OR "random* assigned" OR control)
+Search mode: Boolean/phrase
+Limited to pub year=2000-present, English language
+saved as "Scher 1-18-22"
 
 https://support-ebsco-com.ezproxy.med.cornell.edu/help/index.php?help_id=137
 The asterisk (*) matches multiple characters.

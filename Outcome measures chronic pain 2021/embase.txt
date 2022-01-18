@@ -1,63 +1,64 @@
 validation set:
 ("26304771" or "22078217" or "26903081").pm.
 
-without outcome measure hedge:
-Embase <1974 to 2021 August 12> 
+Embase <1974 to 2022 January 14>
 
-1	chronic pain/	66451
-2	exp arthralgia/	66289
-3	exp arthritis/	497128
-4	exp backache/	117940
-5	musculoskeletal pain/	12340
-6	exp osteoarthritis/	138921
-7	exp rheumatoid arthritis/	212000
-8	(arthralgia or arthros?s or coxarthros?s or arthritides or arthritis or polyarthritides or polyarthritis or joint pain or back pain or backache or chronic pain or chronic non?cancer pain or cncp or musculoskeletal pain or osteoarthritis or OA or osteoporos?s or rheumat* or caplan* syndrome or Felty* Syndrome or sicca syndrome or sjogren* syndrome or still* disease).mp.	999984
-9	((ach* or dull or persistent or tingl* or split* or sharp or radiat* or crushing or suffering* or migratory or burn* or throb* or tender* or sore*) adj3 pain).mp.	49217
-10	or/1-9	1087427
-11	exp aged/	3202033
-12	(Old or aged or elderly or senior* or geriatric*).mp.	6010483
-13	or/11-12	6010483
-14	cognitive therapy/	43665
-15	cognitive behavioral therapy/	16158
-16	"acceptance and commitment therapy"/	1730
-17	mindfulness/	10389
-18	meditation/	7992
-19	behavior therapy/	43447
-20	(CBT or "Acceptance and Commitment Therapy" or mindfulness or meditation).mp.	41165
-21	(cognit* adj2 (therap* or treatment* or training or educat* or strateg* or technique* or psychotherap* or program* or intervention* or analys* or method* or approach* or modif* or adapt*)).mp.	105463
-22	(behav* adj2 (therap* or treatment* or training or educat* or strateg* or technique* or psychotherap* or program* or intervention* or analys* or method* or approach* or modif* or adapt*)).mp.	227587
-23	(group adj (therap* or treat* or intervention*)).mp.	48675
-24	or/14-23	344134
-25	10 and 13 and 24	3750
-26	25 not ((exp animal/ or nonhuman/) not exp human/)	3658
-27	Clinical trial/	1011192
-28	Randomized controlled trial/	670886
-29	Randomization/	91601
-30	Single blind procedure/	43420
-31	Double blind procedure/	186521
-32	Crossover procedure/	67784
-33	Placebo/	369674
-34	Randomi?ed controlled trial$.tw.	264059
-35	Rct.tw.	43088
-36	Random allocation.tw.	2238
-37	Randomly allocated.tw.	39105
-38	Allocated randomly.tw.	2696
-39	(allocated adj2 random).tw.	909
-40	Single blind$.tw.	27395
-41	Double blind$.tw.	222205
-42	((treble or triple) adj blind$).tw.	1404
-43	Placebo$.tw.	329636
-44	Prospective study/	704023
-45	or/27-44	2414796
-46	Case study/	80329
-47	Case report.tw.	457407
-48	Abstract report/ or letter/	1206641
-49	or/46-48	1732170
-50	45 not 49	2356323
-51	26 and 50	1291
+1	chronic pain/	68378
+2	exp arthralgia/	68700
+3	exp arthritis/	509899
+4	exp backache/	121252
+5	musculoskeletal pain/	12853
+6	exp osteoarthritis/	142532
+7	exp rheumatoid arthritis/	217181
+8	(arthralgia or arthros?s or coxarthros?s or arthritides or arthritis or polyarthritides or polyarthritis or joint pain or back pain or backache or chronic pain or chronic non?cancer pain or cncp or musculoskeletal pain or osteoarthritis or OA or osteoporos?s or rheumat* or caplan* syndrome or Felty* Syndrome or sicca syndrome or sjogren* syndrome or still* disease).mp.	1025538
+9	((ach* or dull or persistent or tingl* or split* or sharp or radiat* or crushing or suffering* or migratory or burn* or throb* or tender* or sore*) adj3 pain).mp.	50781
+10	or/1-9	1115423
+11	exp aged/	3292129
+12	(Old or aged or elderly or senior* or geriatric*).mp.	6193065
+13	or/11-12	6193065
+14	cognitive therapy/	43763
+15	cognitive behavioral therapy/	17711
+16	"acceptance and commitment therapy"/	1864
+17	mindfulness/	11150
+18	meditation/	8232
+19	behavior therapy/	43988
+20	(CBT or "Acceptance and Commitment Therapy" or mindfulness or meditation).mp.	42994
+21	(cognit* adj2 (therap* or treatment* or training or educat* or strateg* or technique* or psychotherap* or program* or intervention* or analys* or method* or approach* or modif* or adapt*)).mp.	108700
+22	(behav* adj2 (therap* or treatment* or training or educat* or strateg* or technique* or psychotherap* or program* or intervention* or analys* or method* or approach* or modif* or adapt*)).mp.	233021
+23	(group adj (therap* or treat* or intervention*)).mp.	49571
+24	or/14-23	352771
+25	10 and 13 and 24	3888
+26	25 not ((exp animal/ or nonhuman/) not exp human/)	3794
+27	Clinical trial/	1024284
+28	Randomized controlled trial/	690907
+29	Randomization/	92718
+30	Single blind procedure/	44831
+31	Double blind procedure/	191343
+32	Crossover procedure/	69119
+33	Placebo/	375688
+34	Randomi?ed controlled trial$.tw.	274802
+35	Rct.tw.	44963
+36	Random allocation.tw.	2299
+37	Randomly allocated.tw.	40202
+38	Allocated randomly.tw.	2749
+39	(allocated adj2 random).tw.	914
+40	Single blind$.tw.	28144
+41	Double blind$.tw.	226576
+42	((treble or triple) adj blind$).tw.	1483
+43	Placebo$.tw.	336921
+44	Prospective study/	738068
+45	or/27-44	2482589
+46	Case study/	83066
+47	Case report.tw.	472783
+48	Abstract report/ or letter/	1222702
+49	or/46-48	1765894
+50	45 not 49	2422772
+51	26 and 50	1342
+52	limit 51 to yr="2000 -Current"	1248
+53	limit 52 to english language	1197
 
-saved as "Reid and Scher 8-13-21 embase without outcome measure hedge"
-exported 1324 results at 11:02am on 11.23.21
+saved as "Scher 1-18-22"
+
 
 Alternate version, WITH outcome hedge:
 1	chronic pain/	66451

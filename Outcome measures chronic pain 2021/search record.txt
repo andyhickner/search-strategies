@@ -1,5 +1,7 @@
-11.23.21
-exported from medline, embase, cochrane, psycinfo
-total in endnote before deduplicating: 4151
-3347 after deduplication in endnote (804 duplicates removed)
-saved in "outcome measures chronic pain 11-23-21.enlx"
+1.18.22
+(Results, time [US Eastern], date)
+Embase (Ovid): 1197, 10:41am on January 18, 2022
+MEDLINE ALL (Ovid): 996, 10:49am on January 18, 2022
+Cochrane Library: 533, 10:54am on January 18, 2022
+PsycINFO (Ebsco): 677, 11:23am on January 18, 2022
+saved as "Scher 1-18-22"

@@ -1,3 +1,6 @@
+Cochrane Library (Wiley)
+
 (arthralgia or arthros?s or coxarthros?s or arthritides or arthritis or polyarthritides or polyarthritis or "joint pain" or "back pain" or backache or "chronic pain" or "chronic non?cancer pain" or cncp or "musculoskeletal pain" or osteoarthritis or OA or osteoporos?s or rheumat* or caplan* next syndrome or Felty* next Syndrome or sicca next syndrome or sjogren* next syndrome or still* next disease or ((ach* or dull or persistent or tingl* or split* or sharp or radiat* or crushing or suffering* or migratory or burn* or throb* or tender* or sore*) near/3 pain)):ti,ab and (old or aged or elderly or senior* or geriatric*):ti,ab and (CBT or mindfulness or meditation or "Acceptance and Commitment Therapy" or (cognit* near/2 (therap* or treatment* or training or educat* or strateg* or technique* or psychotherap* or program* or intervention* or analys* or method* or approach* or modif* or adapt*)) or (behav* near/2 (therap* or treatment* or training or educat* or strateg* or technique* or psychotherap* or program* or intervention* or analys* or method* or approach* or modif* or adapt*)) or (group next (therap* or treat* or intervention*))):ti,ab
-527 results, exported 10:55am on 11/23/21
-saved as "Reid and Scher 11-22321 without outcome measure hedge"
+Limited to 1/1/2000-present
+8 cochrane reviews, 525 trials
+saved as "Scher 1-18-22"

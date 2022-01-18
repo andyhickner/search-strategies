@@ -4,6 +4,9 @@ Embase <1974 to 2021 December 22>
 
 Retrieves 8/11 of validation set
 
+Population: students or trainees
+Concept: Dissemination of educational materials
+Context: medical education
 
 Remarks:
 exp information dissemination/ also retrieves exp "diffusion of innovation"/
