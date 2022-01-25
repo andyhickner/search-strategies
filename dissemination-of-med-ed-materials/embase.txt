@@ -1,17 +1,34 @@
-Embase <1974 to 2022 January 20>
+Embase <1974 to 2022 January 24>
 
-1	(exp curriculum/ or exp education/ or simulation training/ or (curricul$ or ((education$ or instruction$ or learning) adj1 (content$ or module$ or material$ or research or video?)) or e-learning or elearning or simulation$ or training$).tw,kf.) and (exp information dissemination/ or exp social media/ or (disseminat$ or facebook or social media or tiktok or tweet$ or twitter or youtube).tw,kf.) and (exp medical student/ or exp medical school/ or exp residency education/ or exp resident/ or (clerkship$ or intern$ or osce or observed structured or pgy$ or residency or resident$ or undergraduate).tw,kf.)	11051
-2	limit 1 to yr="2012 -Current"	8891
+1	(exp curriculum/ or simulation training/ or (curricul$ or ((education$ or instruction$ or learning or teaching or training$) adj1 (content$ or intervention? or material? or method? or module? or program$ or repositor$ or research or session? or tool$ or video? or workshop?)) or e-learning or elearning).tw.) and (exp information dissemination/ or exp mass communication/ or exp mass medium/ or exp social media/ or (action research or adverti$ or best practice? or blog$ or (communicat$ adj2 (result? or finding?)) or ((communications or mass or social) adj1 (media or medium)) or (communit$ adj2 practice) or diffusion$ or disseminat$ or documentar$ or electronic mail? or e-mail? or email? or facebook or flickr or free download$ or (implementation adj3 research) or (information adj1 (distribution or sharing$)) or instagram or knowledge transfer or ((knowledge or research) adj3 (dissemination or synthesis or utilis$ or utiliz$)) or linkedin or listserv? or magazine? or myspace or newsletter? or newspaper? or pinterest or podcast$ or publici$ or radio or reddit or Sina Weibo or snapchat or (social adj1 (networking or platform)) or television or tiktok or tumblr or tv or tweet$ or twitter or vimeo or "web 2.0" or wechat or whatsapp or youtube).tw.) and (exp medical student/ or exp medical school/ or exp residency education/ or (clerkship$ or intern? or osce or observed structured or ((postgraduate or pgy$ or undergraduate) adj2 (medicine or medical or surgery or surgical)) or (residency adj1 (education or training)) or ((medicine or medical) adj1 (resident? or student?)) or undergraduate medical).tw.)	7737
+2	limit 1 to yr="2012 -Current"	5218
 
-Retrieves 8/22 of validation set
+Retrieved all 6 in validation set
+
+Exclusion criteria: Studies that only discuss publication or citation of education research in traditional outlets: scientific meetings, peer-reviewed journals, preprints.
+
+are these relevant?
+PMID:	34957329 (keyword: innovations)
+PMID:	34674408 (best practices)
+Accession Number:	636956957 (youtube)
 
 Population: students or trainees
 Concept: Dissemination of educational materials
 Context: medical education
 
+Keywords eliminated due to low relevancy: 
+- ed materials hedge: simulation$
+- dissemination hedge: adopt$, change?, spread$, communicat$, impact$, innovat$, market$ 
+- population: resident$, exp resident/ can't be used because this EMTREE term is improperly indexed to articles where it doesn't belong.  
+
+Considered but not included:
+dissemination: most film-related keywords and entry terms; most TV MeSH child terms
+
 Remarks:
+exp mass communication/ retrieves exp social media/
 exp information dissemination/ also retrieves exp "diffusion of innovation"/
 residency = residency education/ which is a child of exp medical education/
+information distribution/sharing = MeSH entry terms (https://www.ncbi.nlm.nih.gov/mesh/?term=information+dissemination)
 
 Other EMTREE & keywords tested but rejected:
 line 1: training$.mp. 
@@ -22,5 +39,18 @@ Exclusion and inclusion criteria:
 include: residency and UGME
 exclude: all other levels, including fellowship
 
+Dissemination filter:
+See Appendix Complete Search Strategies p. 8 (http://hdl.handle.net/1974/27648)
+https://pubmed.ncbi.nlm.nih.gov/31725520/
+https://pubmed.ncbi.nlm.nih.gov/32493348/ > Additional file 1. Final search strategy for one database (Medline)(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7268663/bin/13012_2020_971_MOESM1_ESM.docx "Lines 33-93 contain terms relating to guideline dissemination and implementation interventions"
+
+
+Look for controlled vocab for the following:
+mass media
+
+Add (From https://pubmed.ncbi.nlm.nih.gov/31725520/):
+“marketing technique*” OR “communication in organizations” OR marketer* OR “internal communicat*” OR “internal marketing*” OR “marketing campaign*” OR visibility OR advertis*
+
+https://pubmed.ncbi.nlm.nih.gov/32493348/ > Additional file 1. Final search strategy for one database (Medline)(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7268663/bin/13012_2020_971_MOESM1_ESM.docx "Lines 33-93 contain terms relating to guideline dissemination and implementation interventions"
 
 

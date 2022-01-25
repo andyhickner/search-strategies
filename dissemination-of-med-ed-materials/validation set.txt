@@ -2,16 +2,28 @@ send him this link - how many of the 30 would he include? this will be our valid
 This is UGME only - i think he will need to pick either UGME or GME, not both.
 
 embase:
-(19889887 or 20199840 or 21456984 or 25911282 or 26262104 or 26302426 or 26352761 or 26485835 or 27262153 or 27316383 or 27562668 or 27565131 or 28824767 or 28919148 or 29117573 or 29298180 or 29517524 or 31220594 or 31324367 or 31382953 or 32560775 or 32592211 or 34896279).pm.
-22 results
+(26302426 or 26352761 or 26485835 or 27316383 or 28919148 or 29517524 or 34896279).pm.
+6 results
 
-PubMed
-("25911282" or "26302426" or "26352761" or "27316383" or "27565131" or "28919148" or "29117573" or "29298180" or "29517524" or "31220594" or "32592211" or "34896279").ui.
-12 results
+relevant:
+Accession Number:	2014758577 ("dissemination," "free download online")
+
+irrelevant:
+PMID:	34468308 - undergraduates (non-med school)
+PMID:	34971089 - unclear why this is showing up - no relationship to med ed
+Accession Number:	2014752070 - not med ed, "innovative"
+PMID:	34978640 - not med ed, "impact," exp medical school/
+PMID:	34962294 - dental, "postgraduate"
+PMID:	34969068 - pharmacy, PGY
+PMID:	34966128 - not med ed, ("International Network for Simulation-based Pediatric Innovation, Research, and Education")
+Accession Number:	2015330492 - not dissemination, "innovative"
+PMID:	34972222 - dissemination, "marketing"
+PMID:	34971058 - population, "residents"
 
 Found by team but do not meet inclusion criteria:
-32592211 - is about research dissemination, not med ed materials
 28864427 - is about research, not med ed
+32592211 - is about research dissemination, not med ed materials 
+
 
 Potential:
 https://pubmed.ncbi.nlm.nih.gov/?term=%28%28%22Diffusion+of+Innovation%22%5BMajr%5D%29+OR+%22Information+Dissemination%22%5BMajr%5D%29+AND+%28%22Education%2C+Medical%22%5BMajr%5D%29&size=200
