@@ -1,7 +1,6 @@
-1.18.22
 (Results, time [US Eastern], date)
 Embase (Ovid): 1197, 10:41am on January 18, 2022
 MEDLINE ALL (Ovid): 996, 10:49am on January 18, 2022
-Cochrane Library: 533, 10:54am on January 18, 2022
-PsycINFO (Ebsco): 677, 11:23am on January 18, 2022
-saved as "Scher 1-18-22"
+Cochrane Library (Wiley): 533, 10:54am on January 18, 2022
+PsycINFO (EBSCO): 677, 11:23am on January 18, 2022
+378 duplicates removed by Covidence upon import, leaving 3025 non-duplicates to screen
