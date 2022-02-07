@@ -1,0 +1,14 @@
+https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Intracranial+Arteriovenous+Malformations%2Fmortality%22%5BMajr%5D%29+AND+%28rupture%29&filter=age.allchild&sort=date&size=200
+
+Share with the team: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=ruptured+%22arteriovenous+malformations%22+child%7Cpediatric+mortality%7Cdeath+predict%7Cimaging%7Ctiming%7Conset&btnG=
+
+embase:
+(10958092 or 16575323 or 21529185 or 25207914 or 29856294 or 31932976 or 32507016 or 33614538).pm.
+
+medline:
+(10958092 or 16575323 or 21529185 or 25207914 or 29856294 or 31932976 or 32507016 or 33614538).ui.
+8 results
+
+Removed:
+20857236 - not pediatric
+28988494 - not pediatric

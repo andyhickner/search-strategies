@@ -1,0 +1,18 @@
+Ovid MEDLINE(R) ALL <1946 to February 04, 2022>
+
+1	((child* or stepchild* or step-child* or kid or kids or girl or girls or boy or boys or teen* or youth* or youngster* or adolescent* or adolescence or preschool* or pre-school* or kindergarten* or school* or juvenile* or minors or p?ediatric* or PICU).ti,ab. or exp child/) and (exp Intracranial Arteriovenous Malformations/ or arteriovenous malformation$.tw,kf.) and (mortality.sh. or (complication$ or death or outcome$).tw.)	1487
+
+Retrieves all 8 in validation set
+
+removed - miss relevant articles:
+(bleed$ or h?emorrhag$ or ruptur$) adj3
+
+P: children
+E: ruptured arteriovenous malformations
+O: mortality
+
+Intracranial Arteriovenous Malformations/
+/mortality
+
+https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/age-groups
+ASTED(3S)/CHLA Child search filters [2018]: https://extranet.santecom.qc.ca/wiki/!biblio3s/doku.php?id=concepts:enfant
