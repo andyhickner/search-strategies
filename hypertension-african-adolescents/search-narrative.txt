@@ -1,0 +1,39 @@
+This file reports the search methods for the review using the PRISMA extension for searching (Rethlefsen 2021).
+
+Information Sources and Methods
+MEDLINE (Ovid), Embase (Ovid), Web of Science Core Collection (Clarivate), and African Index Medicus (World Health Organization) were searched. In addition, the first 200 results from Google Scholar were exported using Harzing's Publish or Perish software. 
+
+Search strategies
+The strategy consists of three concepts, combined with Boolean operators: adolescents; African countries; and arterial hypertension. Both controlled vocabulary and free-text keywords were identified using the Yale MeSH Analyzer; proximity operators were incorporated in order to retrieve variations of phrases. 
+
+MEDLINE:
+(exp adolescent/ or (adolescen$ or teen$ or youth$).tw,kf.) and ((exp African Continental Ancestry Group/ not exp african americans/) or ((Africa$ or Angola$ or Benin$ or Botswan$ or Burkina Faso or Burundi$ or Cameroon$ or Canary Island$ or Cape Verde$ or Chad or Comoros or Congo$ or Djibouti$ or Equatorial Guinea$ or Eritrea$ or Ethiopia$ or Gabon$ or Gambia$ or Ghana$ or Guinea$ or Guinea Bissau or Ivory Coast or Cote d'Ivoire or Jamahiryia or Kenya$ or Lesotho or Liberia$ or Madagascar or malagasy or Malawi or Mali or Mauritania$ or Mauritius or Mozambique or Mocambique or Mozambique or Namibia$ or Niger$ or Principe or Reunion or Rwanda$ or Sao Tome or Senegal$ or Seychelles or Sierra Leone$ or Somalia$ or ((Saint or St or "St.") adj1 Helena) or Sudan$ or Swaziland or Tanzania$ or Togo or Uganda$ or Zaire$ or Zambia$ or Zimbabwe$ or sub-Saharan) not (african american$ or african-american$ or guinea pig$ or aspergillus niger)).tw,kf.) and (exp hypertension/ or (arterial hypertens$ or blood pressure$).tw,kf.)	1882
+
+Embase:
+(exp adolescent/ or (adolescen$ or teen$ or youth$).tw,kf.) and ((exp african/ not exp african american/) or ((Africa$ or Angola$ or Benin$ or Botswan$ or Burkina Faso or Burundi$ or Cameroon$ or Canary Island$ or Cape Verde$ or Chad or Comoros or Congo$ or Djibouti$ or Equatorial Guinea$ or Eritrea$ or Ethiopia$ or Gabon$ or Gambia$ or Ghana$ or Guinea$ or Guinea Bissau or Ivory Coast or Cote d'Ivoire or Jamahiryia or Kenya$ or Lesotho or Liberia$ or Madagascar or malagasy or Malawi or Mali or Mauritania$ or Mauritius or Mozambique or Mocambique or Mozambique or Namibia$ or Niger$ or Principe or Reunion or Rwanda$ or Sao Tome or Senegal$ or Seychelles or Sierra Leone$ or Somalia$ or ((Saint or St or "St.") adj1 Helena) or Sudan$ or Swaziland or Tanzania$ or Togo or Uganda$ or Zaire$ or Zambia$ or Zimbabwe$ or sub-Saharan) not (african american$ or african-american$ or guinea pig$ or aspergillus niger)).tw,kf.) and (exp hypertension/ or (arterial hypertens$ or blood pressure$).tw,kf.)
+
+Web of Science (A&HCI, BKCI-SSH, BKCI-S, CCR-EXPANDED, ESCI, IC, CPCI-SSH, CPCI-S, SCI-EXPANDED, SSCI):
+TS=((adolescen* or teen* or youth$) and ((Africa* or Angola* or Benin* or Botswan* or Burkina Faso or Burundi* or Cameroon* or (Canary NEAR/1 island*) or (Cape NEAR/2 Verde*) or Chad or Comoros or Congo* or Djibouti* or (Equatorial NEAR/1 Guinea) or Eritrea* or Ethiopia* or Gabon* or Gambia* or Ghana* or Guinea* or "Guinea Bissau" or "Ivory Coast" or "Cote d'Ivoire" or Jamahiriya or Kenya* or Lesotho or Liberia* or Madagascar or malagasy or Malawi or Mali or Mauritania* or Mauritius or Mozambique or Mocambique or Mozambique or Namibia* or Niger* or Principe or Reunion or Rwanda* or "Sao Tome" or Senegal* or Seychelles or "Sierra Leone" or Somalia* or "saint helena" or "St. Helena" or Sudan* or Swaziland or Tanzania* or Togo or Uganda* or Zaire* or Zambia* or Zimbabwe* or sub-Saharan) not (african-american or (african NEAR/1 american$) or (guinea NEAR/1 pig$) or "aspergillus niger")) and ((hypertens* or (blood NEAR/1 pressure*)) NOT (("portal hypertension" or "pulmonary hypertension") NOT "arterial hypertension")))
+
+African Index Medicus:
+tw:((mh:("Adolescent") OR adolescen* OR teen* OR youth*) AND (mh:("hypertension") OR "arterial hypertension" OR "blood pressure"))
+
+Other sources:
+Searched Google Scholar via Harzing's Publish or Perish 
+Exported first 200 results
+adolescents|teens africa|african -african-american -"african american" hypertension|"blood pressure"
+
+Date and time of export:
+All times US Eastern
+Databases, number of results, time/date of export
+African Index Medicus: 15, 9:12am on Dec 22, 2021
+Web of Science: 373, 9:30am on Dec 22, 2021
+MEDLINE ALL: 1882, 9:45am on Dec 22, 2021
+Embase: 1538, 9:58am on Dec 22, 2021
+Total before deduplication: 3,808 (excludes Google Scholar*)
+357 duplicates automatically removed by Covidence (excludes Google Scholar*)
+Total to screen after deduplication: 3451 (excludes Google Scholar*)
+
+*Other sources:
+Google Scholar: first 200, 8:52am on Dec 22, 2021
+1 duplicate removed by Covidence

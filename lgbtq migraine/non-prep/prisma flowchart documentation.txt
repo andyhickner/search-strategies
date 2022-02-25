@@ -1,3 +1,13 @@
+2.10.22
+"Other sources":
+2 refs identified by snowballing, #812-813:
+https://pubmed.ncbi.nlm.nih.gov/16670235/
+https://pubmed.ncbi.nlm.nih.gov/17463371/ 
+
+#811 identified as full-length report of #596:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5618399/
+All 3 of these were imported today to the full text screening phase. 
+
 9.2.21
 exported the following:
 ovid medline: 244
