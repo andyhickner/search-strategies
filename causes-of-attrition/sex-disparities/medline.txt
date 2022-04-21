@@ -1,0 +1,1 @@
+((("Education, Medical, Graduate"/ or "Internship and Residency"/) and (surgery or surgical).tw.) or ((surgery or surgical) adj1 (residency or residents or resident or intern* or trainee*)).tw.)

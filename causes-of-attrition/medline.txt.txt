@@ -1,0 +1,35 @@
+Gender:
+
+
+Racial-ethnic disparities:
+(exp Minority Groups/ or exp Population Groups/ or (attrition or ethnic$ or race or racial or ((african or asian or black or caucasian or european or native or white) adj2 american$) or african-american$ or afro-american$ or (american adj2 (black$ or indian$ or native$ or negro$)) or amerindian or biracial or euro-american$ or euroamerican$ or hispanic or Kanaka Maoli or latina or latino or latinx or minorities? or multiracial or native hawaiian$ or pacific islander$ or underrepresented).mp.) and ((("Education, Medical, Graduate"/ or "Internship and Residency"/) and (surgery or surgical).tw.) or ((surgery or surgical) adj1 (residency or residents or resident or intern* or trainee*)).tw.)
+Retrieves 553 records, including all 8 in the test set
+
+Start with this strategy, from "Factors Associated with Progression and Bias throughout Surgical Training: a Systematic Review":
+https://osf.io/d6mqc
+
+Michelle's hedge for surgical residency:
+"Internship and Residency"/ and (surgery or surgical).tw. 
+"Education, Medical, Graduate"/ and (surgery or surgical).tw. 
+((surgery or surgical) adj1 (residency or residents or resident or intern* or trainee*)).tw. 
+or/1-3 
+
+MeSH identified by MeSH analysis of test set:
+URM:
+African Americans
+Asian Americans
+Hispanic or Latino
+Minority Groups
+
+surgical residency:
+General surgery/
+General Surgery/education
+
+Working hedge - racial/ethnic only:
+(exp Minority Groups/ or exp Population Groups/ or (ethnic$ or race or racial or ((african or asian or black or caucasian or european or native or white) adj2 american$) or african-american$ or afro-american$ or (american adj2 (black$ or indian$ or native$ or negro$)) or amerindian or biracial or euro-american$ or euroamerican$ or hispanic or Kanaka Maoli or latina or latino or latinx or multiracial or native hawaiian$ or pacific islander$).mp.
+
+Hedge used in previous race/ethnicity project:
+exp Population Groups/ or (ethnic$ or race or racial or ((african or asian or black or caucasian or european or native or white) adj2 american$) or african-american$ or afro-american$ or (american adj2 (black$ or indian$ or native$ or negro$)) or amerindian or biracial or euro-american$ or euroamerican$ or hispanic or Kanaka Maoli or latino or multiracial or native hawaiian$ or pacific islander$).mp.
+
+Latinx Caucus hedges:
+https://scholarshare.temple.edu/handle/20.500.12613/6949

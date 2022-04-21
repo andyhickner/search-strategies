@@ -1,0 +1,37 @@
+GS search: surgery residency attrition systematic review
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=surgery+residency+attrition+systematic+review&btnG=
+
+("18948795" or "28678064" or "28693843" or "29466536" or "33074873").ui.
+5 records; all are fully indexed
+
+Test set including those that don't contain race/ethnicity keywords or MeSH:
+("18948795" or "28678064" or "28693843" or "29466536" or "33074873" or 20739854 or 23266420 or 30463787 ).ui.
+8 records, all fully indexed
+
+Do not contain any race/ethnicity keywords or MeSH: 20739854 or 22208838 or 23266420 or 30463787 
+
+Potential articles from GS search:
+McDonald TC, Drake LC, Replogle WH, Graves ML, Brooks JT. Barriers to Increasing Diversity in Orthopaedics: The Residency Program Perspective. JB JS Open Access. 2020;5(2):e0007. Published 2020 May 11. doi:10.2106/JBJS.OA.20.00007 https://pubmed.ncbi.nlm.nih.gov/32832828/
+
+Identified by the team:
+- Butler PD, Longaker MT, Britt LD. Major Deficit in the Number of Underrepresented Minority Academic Surgeons Persists. Annals of Surgery 2008;248:704–9. doi:10.1097/sla.0b013e31817f2c30. https://pubmed.ncbi.nlm.nih.gov/18948795/
+ Abelson JS, Symer MM, Yeo HL, Butler PD, Dolan PT, Moo TA, Watkins AC. Surgical time out: Our counts are still short on racial diversity in academic surgery. Am J Surg. 2018 Apr;215(4):542-548.  https://pubmed.ncbi.nlm.nih.gov/28693843/
+- Valenzuela F, Romero Arenas MA. Diversity in Academic Surgery. Abstract presented at Academic Surgical Congress, Orlando, FL.
+- Yeo HL, Abelson JS, Symer MM, Mao J, Michelassi F, Bell R, et al. Association of Time to Attrition in Surgical Residency With Individual Resident and Programmatic Factors. JAMA Surgery 2018;153:511. doi:10.1001/jamasurg.2017.6202. (also included in Hope (2021) SR) https://pubmed.ncbi.nlm.nih.gov/29466536/
+- Sexton KW, Hocking KM, Wise E, Osgood MJ, Cheung-Flynn J, Komalavilas P, Campbell KE, Dattilo JB, Brophy CM. Women in academic surgery: the pipeline is busted. J Surg Educ. 2012 Jan-Feb;69(1):84-90. doi: 10.1016/j.jsurg.2011.07.008. Epub 2011 Sep 3. PMID: 22208838; PMCID: PMC3458116.
+- Keshinro A, Frangos S, Berman RS, DiMaggio C, Klein MJ, Bukur M, Welcome AU, Pachter HL, Berry C. Underrepresented Minorities in Surgical Residencies: Where are They? A Call to Action to Increase the Pipeline. Ann Surg. 2020 Sep 1;272(3):512-520. doi: 10.1097/SLA.0000000000004209. PMID: 33074873.
+
+Identified in Hope (2021) SR:
+- Yeo H et al (2010) A national study of attrition in general surgery training: which residents leave and where do they go? Ann Surg252(3):529–534 (also cited in Shweikeh 2018) https://pubmed.ncbi.nlm.nih.gov/20739854/
+- Sullivan   MC   et   al   (2013)   Surgical   residency   and   attrition:defining  the  individual  and  programmatic  factors  predictive  oftrainee losses. J Am Coll Surg 216(3):461–471 (also cited in Shweikeh 2018) https://pubmed.ncbi.nlm.nih.gov/23266420/
+- Symer MM et al (2018a) Impact of medical school experience onattrition from general surgery residency. J Surg Res 232:7–1418.  https://pubmed.ncbi.nlm.nih.gov/30463787/
+- Yeo HL et al (2017) Who makes it to the end?: A novel predictivemodel for identifying surgical residents at risk for attrition. AnnSurg 266(3):499–50719.  https://pubmed.ncbi.nlm.nih.gov/28678064/
+
+LGBT+:
+Heiderscheit EA, Schlick CJR, Ellis RJ, et al. Experiences of LGBTQ+ Residents in US General Surgery Training Programs. JAMA Surg. 2022;157(1):23-32. doi:10.1001/jamasurg.2021.5246 https://pubmed.ncbi.nlm.nih.gov/34668969
+
+Cited/discussed by Heiderscheit:
+- Lee KP, Kelz RR, Dubé B, Morris JB. Attitude and perceptions of the other underrepresented
+minority in surgery.J Surg Educ. 2014;71(6):e47-e52. doi:10.1016/j.jsurg.2014.05.008
+- Eliason MJ, Dibble SL, Robertson PA. Lesbian, gay, bisexual, and transgender (LGBT) physicians’
+experiences in the workplace.J Homosex. 2011;58 (10):1355-1371. doi:10.1080/00918369.2011.614902
