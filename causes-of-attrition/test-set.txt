@@ -1,17 +1,22 @@
 GS search: surgery residency attrition systematic review
 https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=surgery+residency+attrition+systematic+review&btnG=
 
-("18948795" or "28678064" or "28693843" or "29466536" or "33074873").ui.
-5 records; all are fully indexed
-
-Test set including those that don't contain race/ethnicity keywords or MeSH:
-("18948795" or "28678064" or "28693843" or "29466536" or "33074873" or 20739854 or 23266420 or 30463787 ).ui.
+Test set:
+("28678064" or "29466536" or "33074873" or 20739854 or 23266420 or 30463787 or 34776061 or 34776239).ui.
 8 records, all fully indexed
 
 Do not contain any race/ethnicity keywords or MeSH: 20739854 or 22208838 or 23266420 or 30463787 
 
+Background - would not meet criteria for inclusion:
+- Butler PD, Longaker MT, Britt LD. Major Deficit in the Number of Underrepresented Minority Academic Surgeons Persists. Annals of Surgery 2008;248:704–9. doi:10.1097/sla.0b013e31817f2c30. https://pubmed.ncbi.nlm.nih.gov/18948795/
+ Abelson JS, Symer MM, Yeo HL, Butler PD, Dolan PT, Moo TA, Watkins AC. Surgical time out: Our counts are still short on racial diversity in academic surgery. Am J Surg. 2018 Apr;215(4):542-548.  https://pubmed.ncbi.nlm.nih.gov/28693843/
+
 Potential articles from GS search:
 McDonald TC, Drake LC, Replogle WH, Graves ML, Brooks JT. Barriers to Increasing Diversity in Orthopaedics: The Residency Program Perspective. JB JS Open Access. 2020;5(2):e0007. Published 2020 May 11. doi:10.2106/JBJS.OA.20.00007 https://pubmed.ncbi.nlm.nih.gov/32832828/
+
+Do not include the term "attrition":
+- Kim Y, Kassam AF, McElroy IE, et al. The current status of the diversity pipeline in surgical training [published online ahead of print, 2021 Nov 11]. Am J Surg. 2021;S0002-9610(21)00665-6. doi:10.1016/j.amjsurg.2021.11.006 https://pubmed.ncbi.nlm.nih.gov/34776239/
+- Clarke CN. Disparities in Creating a Diverse Surgical Oncology Physician Workforce: Just a Leaky Pipeline?. Surg Oncol Clin N Am. 2022;31(1):21-27. doi:10.1016/j.soc.2021.07.004 https://pubmed.ncbi.nlm.nih.gov/34776061/
 
 Identified by the team:
 - Butler PD, Longaker MT, Britt LD. Major Deficit in the Number of Underrepresented Minority Academic Surgeons Persists. Annals of Surgery 2008;248:704–9. doi:10.1097/sla.0b013e31817f2c30. https://pubmed.ncbi.nlm.nih.gov/18948795/

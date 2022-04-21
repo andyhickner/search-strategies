@@ -1,21 +1,37 @@
-("18948795" or "28678064" or "28693843" or "29466536" or "33074873" or 20739854 or 23266420 or 30463787 ).ui.
+("22000538" or "28678064" or "29466536" or "33074873" or 15708164 or 18645106 or 19178898 or 20739854 or 20739855 or 22000538 or 22987173 or 23266420 or 24480230 or 24856121 or 25029501 or 25075473 or 26238074 or 26650772 or 27973673 or 28666579 or 28678064 or 28760500 or 28813585 or 29466536 or 30243929 or 30463787 or 9560128 or 9698534).ui.
+25 results
+
+from google scholar, citation searching, and PubMed "Similar articles":
+- Naylor RA, Reisch JS, Valentine RJ. Factors related to attrition in surgery residency based on application data. Arch Surg. 2008;143(7):647-652. doi:10.1001/archsurg.143.7.647 https://pubmed.ncbi.nlm.nih.gov/18645106/
+- Kelz RR, Mullen JL, Kaiser LR, Pray LA, Shea GP, Drebin JA, Wirtalla CJ, Morris JB. Prevention of surgical resident attrition by a novel selection strategy. Ann Surg. 2010 Sep;252(3):537-1; discussion 541-3. doi: 10.1097/SLA.0b013e3181f27a50. PMID: 20739855. https://pubmed-ncbi-nlm-nih-gov.ezproxy.med.cornell.edu/20739855/
+- Shweikeh F, Schwed AC, Hsu CH, Nfonsam VN. Status of Resident Attrition From Surgical Residency in the Past, Present, and Future Outlook. J Surg Educ. 2018 Mar-Apr;75(2):254-262. doi: 10.1016/j.jsurg.2017.07.015. Epub 2017 Jul 29. PMID: 28760500. https://pubmed-ncbi-nlm-nih-gov.ezproxy.med.cornell.edu/28760500/
+Wasserman MA. A Strategy to Reduce General Surgery Resident Attrition: A Resident's Perspective. JAMA Surg. 2016;151(3):215-216. doi:10.1001/jamasurg.2015.4607 https://pubmed.ncbi.nlm.nih.gov/26650772/
+- Khoushhal Z, Hussain MA, Greco E, et al. Prevalence and Causes of Attrition Among Surgical Residents: A Systematic Review and Meta-analysis. JAMA Surg. 2017;152(3):265-272. doi:10.1001/jamasurg.2016.4086 https://pubmed.ncbi.nlm.nih.gov/27973673/
+- Bongiovanni T, Yeo H, Sosa JA, et al. Attrition from surgical residency training: perspectives from those who left. Am J Surg. 2015;210(4):648-654. doi:10.1016/j.amjsurg.2015.05.014 https://pubmed.ncbi.nlm.nih.gov/26238074/
+- Burkhart RA, Tholey RM, Guinto D, Yeo CJ, Chojnacki KA. Grit: a marker of residents at risk for attrition?. Surgery. 2014;155(6):1014-1022. doi:10.1016/j.surg.2014.01.015 https://pubmed.ncbi.nlm.nih.gov/24856121/
+- Salles A, Wright RC, Milam L, et al. Social Belonging as a Predictor of Surgical Resident Well-being and Attrition. J Surg Educ. 2019;76(2):370-377. doi:10.1016/j.jsurg.2018.08.022 https://pubmed.ncbi.nlm.nih.gov/30243929/
+- Schwed AC, Lee SL, Salcedo ES, et al. Association of General Surgery Resident Remediation and Program Director Attitudes With Resident Attrition. JAMA Surg. 2017;152(12):1134-1140. doi:10.1001/jamasurg.2017.2656 https://pubmed.ncbi.nlm.nih.gov/28813585/
+
+Ineligible - reviewed full text and reported data does not include sex as a variable:
+- Everett CB, Helmer SD, Osland JS, Smith RS. General surgery resident attrition and the 80-hour workweek. Am J Surg. 2007;194(6):751-757. doi:10.1016/j.amjsurg.2007.08.033
+
 
 From Hope (2021):
-Alterman DM et al (2011) The predictive value of general surgery application data for future resident performance. J Surg Educ 68(6):513–518
-Aufses 1998. Thenatureandfateof categoricalsurgical residentswho’drop out’
-Bergen 1998. Gender-relatedattrition inageneralsurgery trainingprogram
-Brown 2014. Pregnancy-related attritioningeneral surgery
-Carter 2018. Womeninsurgery:A longertermfollowup
-Dodson 2004. Whydoresidentsleave generalsurgery?The hiddenproblemin today’sp
-Falcone 2014. Homeschooldropout:a 20yearexperienceof thematriculationof categoricalgeneral surgeryresidents
-Longo 2009. Attritionofcategoric generalsurgery residents:resultsofa 20yearaudit
-Sullivan 2013. Surgicalresidencyand attrition:Definingthe individualand programmaticfactors predictiveoftrainee losses
-Yaghoubian 2012. General surgery resident remediation and attrition: A multi-institutional study
-Yeo 2010. A national study of attrition in general surgery training: Which residents leave and where do they go?
-Gifford 2014. Factorsassociatedwith generalsurgery residents’desireto leaveresidency programs: Amultiinstitutionalstudy
-Symer, Wong 2018. Impactofmedical schoolexperienceon attritionfromgeneral surgeryresidency
-Yeo 2017. Who Makes It to the End?: A novel predictive model for identifying surgical residents at risk for attrition
-Yeo 2018. Association of time to attrition in surgical residency with individual resident and programmatic factors
+Alterman DM et al (2011) The predictive value of general surgery application data for future resident performance. J Surg Educ 68(6):513–518 https://pubmed.ncbi.nlm.nih.gov/22000538/
+Aufses 1998. The nature and fate of categorical surgical residents who ’drop out’ https://pubmed.ncbi.nlm.nih.gov/9560128/
+Bergen 1998. Gender-related attrition in a general surgery training program https://pubmed.ncbi.nlm.nih.gov/9698534/
+Brown 2014. Pregnancy-related attrition in general surgery https://pubmed.ncbi.nlm.nih.gov/25029501/
+Carter 2018. Women in surgery: A longer term follow-up https://pubmed.ncbi.nlm.nih.gov/28666579/
+Dodson 2004. Why do residents leave general surgery? The hidden problem in today’s https://pubmed.ncbi.nlm.nih.gov/15708164/
+Falcone 2014. Home school dropout: a 20 year experience of the matriculation of categorical general surgery residents https://pubmed.ncbi.nlm.nih.gov/24480230/ (no abstract)
+Longo 2009. Attrition of categoric general surgery residents: results of a 20 year audit https://pubmed.ncbi.nlm.nih.gov/19178898/
+Sullivan 2013. Surgical residency and attrition: Defining the individual and programmatic factors predictive of trainee losses https://pubmed.ncbi.nlm.nih.gov/23266420/
+Yaghoubian 2012. General surgery resident remediation and attrition: A multi-institutional study https://pubmed.ncbi.nlm.nih.gov/22987173/
+Yeo 2010. A national study of attrition in general surgery training: Which residents leave and where do they go? https://pubmed.ncbi.nlm.nih.gov/20739854/
+Gifford 2014. Factors associated with general surgery residents’ desire to leave residency programs: A multiinstitutional study https://pubmed.ncbi.nlm.nih.gov/25075473/
+Symer, Wong 2018. Impact of medical school experience on attrition from general surgery residency https://pubmed.ncbi.nlm.nih.gov/30463787/
+Yeo 2017. Who Makes It to the End?: A novel predictive model for identifying surgical residents at risk for attrition https://pubmed.ncbi.nlm.nih.gov/28678064/
+Yeo 2018. Association of time to attrition in surgical residency with individual resident and programmatic factors https://pubmed.ncbi.nlm.nih.gov/29466536/
 
 non-US:
 Nadeem 2014. Attritioninsurgical residency programmes:Causes andeffects

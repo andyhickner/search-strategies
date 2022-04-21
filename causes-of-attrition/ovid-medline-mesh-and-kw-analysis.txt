@@ -1,0 +1,72 @@
+From "Analyze results" feature in Ovid MEDLINE (listed in order of frequency):
+MeSH:
+female
+general surgery
+surgeons
+sex factors
+surgical education
+resident attrition
+residency training
+
+Author keywords (more than 2 articles):
+attrition
+personnel turnover
+resident attrition
+
+Potential causes:
+MeSH (more than 2 articles):
+Clinical competence
+job satisfaction
+burnout, professional
+personnel turnover
+burnout
+workload
+professionalism
+interpersonal and communication skills
+life style
+suicidal ideation
+pregnancy
+prejudice
+grit
+sexual harassment
+social support
+resilience, psychological
+mentors
+motivation
+personnel staffing and scheduling
+sexism
+training support
+anxiety
+depression
+stress, psychological
+personal satisfaction
+mindfulness
+sex
+mentorship
+organizational culture
+social stigma
+personality
+wellness
+well-being
+resilience
+mentoring
+depersonalization
+self efficacy
+career mobility
+attitude
+bullying
+
+Author keywords (more than 2 articles):
+burnout
+interpersonal and communication skills
+professionalism
+pregnancy
+grit
+parenting
+stress, psychological
+sex
+mentorship
+wellness
+well-being
+resilience
+duty hours

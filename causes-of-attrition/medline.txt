@@ -1,8 +1,12 @@
-Gender:
+((("Education, Medical, Graduate"/ or "Internship and Residency"/) and (surgery or surgical).tw.) or ((surgery or surgical) adj1 (residency or residents or resident or intern* or trainee*)).tw.) and ((attrition or dropout? or dropped out or drop out?).mp. or ((leave or left or "loss off" or retain$ or retention) adj3 (surgery or surgical or surgeon$ or program$)).tw.)
+Retrieves 253 articles, including all 8 in the test set
+
+Potential candidate terms:
+
 
 
 Racial-ethnic disparities:
-(exp Minority Groups/ or exp Population Groups/ or (attrition or ethnic$ or race or racial or ((african or asian or black or caucasian or european or native or white) adj2 american$) or african-american$ or afro-american$ or (american adj2 (black$ or indian$ or native$ or negro$)) or amerindian or biracial or euro-american$ or euroamerican$ or hispanic or Kanaka Maoli or latina or latino or latinx or minorities? or multiracial or native hawaiian$ or pacific islander$ or underrepresented).mp.) and ((("Education, Medical, Graduate"/ or "Internship and Residency"/) and (surgery or surgical).tw.) or ((surgery or surgical) adj1 (residency or residents or resident or intern* or trainee*)).tw.)
+(exp Minority Groups/ or exp Population Groups/ or (attrition or ethnic$ or race or racial or ((african or asian or black or caucasian or european or native or white) adj2 american$) or african-american$ or afro-american$ or (american adj2 (black$ or indian$ or native$ or negro$)) or amerindian or biracial or euro-american$ or euroamerican$ or hispanic or Kanaka Maoli or latina or latino or latinx or minorities? or multiracial or native hawaiian$ or "of color" or pacific islander$ or underrepresented).mp.) and ((("Education, Medical, Graduate"/ or "Internship and Residency"/) and (surgery or surgical).tw.) or ((surgery or surgical) adj1 (residency or residents or resident or intern* or trainee*)).tw.)
 Retrieves 553 records, including all 8 in the test set
 
 Start with this strategy, from "Factors Associated with Progression and Bias throughout Surgical Training: a Systematic Review":

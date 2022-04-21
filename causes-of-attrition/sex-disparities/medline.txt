@@ -1,1 +1,2 @@
-((("Education, Medical, Graduate"/ or "Internship and Residency"/) and (surgery or surgical).tw.) or ((surgery or surgical) adj1 (residency or residents or resident or intern* or trainee*)).tw.)
+((("Education, Medical, Graduate"/ or "Internship and Residency"/) and (surgery or surgical).tw.) or ((surgery or surgical) adj1 (residency or residents or resident or intern* or trainee*)).tw.) and ((attrition or dropout? or dropped out or drop out?).mp. or ((leave or left or "loss off" or retain$ or retention) adj3 (surgery or surgical or surgeon$ or program$)).tw.)
+Retrieves 253 articles, including all 25 in test set
