@@ -1,7 +1,13 @@
-syntax for search updates:
-limit 1 to dc=20210607-20211022
+Search update: April 21, 2022
+Ovid date limit syntax: limit 1 to yr="2021 - 2022"
+MEDLINE: 11
+Embase: 21
+Cochrane: 0
+WOS: 8 (refined by publication years 2021 or 2022)
+Total imported into Covidence: 40
+Total after deduplication in Covidence: 29 (Covidence automatically removed 11 duplicates)
 
-Date of search: 6/7/21
+Date of original search: June 7, 2021
 medline: 113
 embase: 169
 cochrane: 1
